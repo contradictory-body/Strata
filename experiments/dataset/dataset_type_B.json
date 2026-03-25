@@ -1,0 +1,7475 @@
+[
+  {
+    "conversation_id": "conv_B_001",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "全栈工程师",
+      "city": "武汉",
+      "company": "滴滴",
+      "company2": "百度",
+      "tech": "Java、Spring Boot",
+      "tech_full": "Java、Spring Boot、Kafka、Elasticsearch",
+      "salary": "40-60K",
+      "weakness": "英文面试",
+      "stage": "简历筛选"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "edcbb041-2eb2-4af4-9958-73d30f88f023",
+        "text": "用户已完成简历筛选阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-11-22.md",
+          "date": "2025-11-22",
+          "header_1": "技术背景",
+          "chunk_id": "edcbb041-2eb2-4af4-9958-73d30f88f023"
+        }
+      },
+      {
+        "chunk_id": "e18c02b2-3903-4e68-aaa0-b8b0da57fffe",
+        "text": "用户正在准备滴滴的面试，面试薄弱点是英文面试",
+        "metadata": {
+          "source": "2025-11-28.md",
+          "date": "2025-11-28",
+          "header_1": "面试进展",
+          "chunk_id": "e18c02b2-3903-4e68-aaa0-b8b0da57fffe"
+        }
+      },
+      {
+        "chunk_id": "bb94abe7-2b57-4da6-a362-fa1c08377642",
+        "text": "用户希望在3个月内解决英文面试薄弱点",
+        "metadata": {
+          "source": "2025-12-08.md",
+          "date": "2025-12-08",
+          "header_1": "偏好记录",
+          "chunk_id": "bb94abe7-2b57-4da6-a362-fa1c08377642"
+        }
+      },
+      {
+        "chunk_id": "5f3fab4c-9728-4b8b-b1f3-304deae250cd",
+        "text": "用户目标城市为武汉，期望薪资40-60K",
+        "metadata": {
+          "source": "2025-11-07.md",
+          "date": "2025-11-07",
+          "header_1": "技术背景",
+          "chunk_id": "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        }
+      },
+      {
+        "chunk_id": "4a918a2b-8756-4781-8a00-f93aedd9a441",
+        "text": "用户倾向于武汉，但也考虑远程机会",
+        "metadata": {
+          "source": "2026-01-20.md",
+          "date": "2026-01-20",
+          "header_1": "求职目标",
+          "chunk_id": "4a918a2b-8756-4781-8a00-f93aedd9a441"
+        }
+      },
+      {
+        "chunk_id": "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+        "text": "用户目标岗位是全栈工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+        "metadata": {
+          "source": "2025-11-10.md",
+          "date": "2025-11-10",
+          "header_1": "偏好记录",
+          "chunk_id": "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "根据您提供的信息，滴滴的全栈工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我想了解武汉的全栈工程师就业市场情况"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "根据您提供的信息，滴滴的全栈工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "那个薪资合理吗？"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "就是滴滴的全栈工程师岗位，武汉，薪资40-60K"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "根据您提供的信息，滴滴的全栈工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对滴滴的面试流程逐一分析。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "针对您的情况，滴滴的全栈工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充英文面试方向的准备。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "对比一下滴滴和百度的全栈工程师岗位"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的全栈工程师候选人在武汉的薪资区间通常在40-60K，您的期望是合理的。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "帮我找找工作吧"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "就是滴滴的全栈工程师岗位，武汉，薪资40-60K"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "根据您提供的信息，滴滴的全栈工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "针对滴滴的全栈工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与滴滴的招聘需求非常吻合。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "对比一下滴滴和百度的全栈工程师岗位"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "根据您提供的信息，滴滴的全栈工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "就是滴滴的全栈工程师岗位，武汉，薪资40-60K"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的全栈工程师候选人在武汉的薪资区间通常在40-60K，您的期望是合理的。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与滴滴的招聘需求非常吻合。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我找找工作吧"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是滴滴的全栈工程师岗位，武汉，薪资40-60K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对滴滴的面试流程逐一分析。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "明白了，您目前处于简历筛选阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      }
+    ],
+    "ambiguous_turns": [
+      3,
+      7,
+      10,
+      12
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 3,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 7,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 10,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 12,
+        "type": "constraint_missing"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 2,
+        "query": "我想了解武汉的全栈工程师就业市场情况"
+      },
+      {
+        "turn": 3,
+        "query": "那个薪资合理吗？"
+      },
+      {
+        "turn": 4,
+        "query": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 5,
+        "query": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 6,
+        "query": "对比一下滴滴和百度的全栈工程师岗位"
+      },
+      {
+        "turn": 7,
+        "query": "帮我找找工作吧"
+      },
+      {
+        "turn": 8,
+        "query": "针对滴滴的全栈工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 9,
+        "query": "对比一下滴滴和百度的全栈工程师岗位"
+      },
+      {
+        "turn": 10,
+        "query": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 11,
+        "query": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 12,
+        "query": "帮我找找工作吧"
+      },
+      {
+        "turn": 13,
+        "query": "武汉的全栈工程师平均薪资是多少？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "e18c02b2-3903-4e68-aaa0-b8b0da57fffe",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd",
+          "e18c02b2-3903-4e68-aaa0-b8b0da57fffe"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "4a918a2b-8756-4781-8a00-f93aedd9a441",
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "4a918a2b-8756-4781-8a00-f93aedd9a441",
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "4a918a2b-8756-4781-8a00-f93aedd9a441"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "bb94abe7-2b57-4da6-a362-fa1c08377642",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd",
+          "bb94abe7-2b57-4da6-a362-fa1c08377642"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd",
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+          "edcbb041-2eb2-4af4-9958-73d30f88f023"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "edcbb041-2eb2-4af4-9958-73d30f88f023",
+          "e18c02b2-3903-4e68-aaa0-b8b0da57fffe",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+          "e18c02b2-3903-4e68-aaa0-b8b0da57fffe",
+          "edcbb041-2eb2-4af4-9958-73d30f88f023"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd",
+          "4a918a2b-8756-4781-8a00-f93aedd9a441",
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "e18c02b2-3903-4e68-aaa0-b8b0da57fffe",
+          "1a29b5bc-9b97-4b2c-a7a9-a8fabc1b54d9",
+          "5f3fab4c-9728-4b8b-b1f3-304deae250cd"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "50-70K"
+      },
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "行为面试"
+      },
+      {
+        "turn": 4,
+        "field": "目标岗位",
+        "value": "后端工程师"
+      },
+      {
+        "turn": 9,
+        "field": "面试薄弱点",
+        "value": "分布式事务"
+      },
+      {
+        "turn": 13,
+        "field": "目标岗位",
+        "value": "全栈工程师"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_002",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "前端工程师",
+      "city": "北京",
+      "company": "Grab",
+      "company2": "小米",
+      "tech": "Python、PyTorch",
+      "tech_full": "Python、PyTorch、TensorFlow、CUDA",
+      "salary": "60-80K",
+      "weakness": "数据库调优",
+      "stage": "终面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0",
+        "text": "用户目标岗位是前端工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+        "metadata": {
+          "source": "2026-03-16.md",
+          "date": "2026-03-16",
+          "header_1": "偏好记录",
+          "chunk_id": "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0"
+        }
+      },
+      {
+        "chunk_id": "e130b0fc-36f9-4a34-9b09-211c9d959332",
+        "text": "用户目标城市为北京，期望薪资60-80K",
+        "metadata": {
+          "source": "2025-10-22.md",
+          "date": "2025-10-22",
+          "header_1": "求职目标",
+          "chunk_id": "e130b0fc-36f9-4a34-9b09-211c9d959332"
+        }
+      },
+      {
+        "chunk_id": "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+        "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+        "metadata": {
+          "source": "2026-01-21.md",
+          "date": "2026-01-21",
+          "header_1": "求职目标",
+          "chunk_id": "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7"
+        }
+      },
+      {
+        "chunk_id": "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+        "text": "用户希望在3个月内解决数据库调优薄弱点",
+        "metadata": {
+          "source": "2025-12-12.md",
+          "date": "2025-12-12",
+          "header_1": "偏好记录",
+          "chunk_id": "c38fa2a3-cd74-44f7-a0ec-963e3c003de1"
+        }
+      },
+      {
+        "chunk_id": "6bba7bdf-459a-4b36-8deb-9519b9862d3d",
+        "text": "用户已完成终面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2026-01-24.md",
+          "date": "2026-01-24",
+          "header_1": "技术背景",
+          "chunk_id": "6bba7bdf-459a-4b36-8deb-9519b9862d3d"
+        }
+      },
+      {
+        "chunk_id": "140e5561-0e01-4d09-8c8c-f5c46863e9ca",
+        "text": "用户正在准备Grab的面试，面试薄弱点是数据库调优",
+        "metadata": {
+          "source": "2026-03-10.md",
+          "date": "2026-03-10",
+          "header_1": "技术背景",
+          "chunk_id": "140e5561-0e01-4d09-8c8c-f5c46863e9ca"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "对比一下Grab和小米的前端工程师岗位"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对Grab的面试流程逐一分析。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "我的技术栈是Python、PyTorch，适合投前端工程师岗位吗？"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "对比一下Grab和小米的前端工程师岗位"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是北京的前端工程师岗位，这与Grab的招聘需求非常吻合。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "说说？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "就是Grab的前端工程师岗位，北京，薪资60-80K"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "针对您的情况，Grab的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "帮我找找工作吧"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是Grab的前端工程师岗位，北京，薪资60-80K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "对比一下Grab和小米的前端工程师岗位"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "针对您的情况，Grab的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与前端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "北京的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "针对您的情况，Grab的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "帮我找找工作吧"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "就是Grab的前端工程师岗位，北京，薪资60-80K"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与前端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "就是Grab的前端工程师岗位，北京，薪资60-80K"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "针对您的情况，Grab的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我优化简历中的前端工程师项目经历描述"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "针对您的情况，Grab的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我优化简历中的前端工程师项目经历描述"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "针对您的情况，Grab的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "我在终面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Python、PyTorch技能的前端工程师候选人在北京的薪资区间通常在60-80K，您的期望是合理的。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "北京的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "根据您提供的信息，Grab的前端工程师岗位与您的背景有较高契合度。核心差距在于数据库调优方向需要加强。"
+      }
+    ],
+    "ambiguous_turns": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 5,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 6,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 10,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 11,
+        "type": "intent_unclear"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "对比一下Grab和小米的前端工程师岗位"
+      },
+      {
+        "turn": 2,
+        "query": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 3,
+        "query": "我的技术栈是Python、PyTorch，适合投前端工程师岗位吗？"
+      },
+      {
+        "turn": 4,
+        "query": "对比一下Grab和小米的前端工程师岗位"
+      },
+      {
+        "turn": 5,
+        "query": "说说？"
+      },
+      {
+        "turn": 6,
+        "query": "帮我找找工作吧"
+      },
+      {
+        "turn": 7,
+        "query": "对比一下Grab和小米的前端工程师岗位"
+      },
+      {
+        "turn": 8,
+        "query": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 9,
+        "query": "北京的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 10,
+        "query": "帮我找找工作吧"
+      },
+      {
+        "turn": 11,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 12,
+        "query": "帮我优化简历中的前端工程师项目经历描述"
+      },
+      {
+        "turn": 13,
+        "query": "帮我优化简历中的前端工程师项目经历描述"
+      },
+      {
+        "turn": 14,
+        "query": "我在终面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 15,
+        "query": "北京的前端工程师平均薪资是多少？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0",
+          "e130b0fc-36f9-4a34-9b09-211c9d959332"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "6bba7bdf-459a-4b36-8deb-9519b9862d3d",
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "6bba7bdf-459a-4b36-8deb-9519b9862d3d",
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+          "e130b0fc-36f9-4a34-9b09-211c9d959332"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "e130b0fc-36f9-4a34-9b09-211c9d959332",
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+          "6bba7bdf-459a-4b36-8deb-9519b9862d3d",
+          "e130b0fc-36f9-4a34-9b09-211c9d959332"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "e130b0fc-36f9-4a34-9b09-211c9d959332",
+          "140e5561-0e01-4d09-8c8c-f5c46863e9ca"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0",
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "e130b0fc-36f9-4a34-9b09-211c9d959332",
+          "6bba7bdf-459a-4b36-8deb-9519b9862d3d",
+          "140e5561-0e01-4d09-8c8c-f5c46863e9ca"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "140e5561-0e01-4d09-8c8c-f5c46863e9ca",
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "140e5561-0e01-4d09-8c8c-f5c46863e9ca",
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0",
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+          "e130b0fc-36f9-4a34-9b09-211c9d959332",
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "0dfc0f87-8cc7-4f42-8c74-c117df80a9b7",
+          "140e5561-0e01-4d09-8c8c-f5c46863e9ca",
+          "6bba7bdf-459a-4b36-8deb-9519b9862d3d"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "c38fa2a3-cd74-44f7-a0ec-963e3c003de1",
+          "8a3f1c1e-a38f-4e07-b033-08b56e2ec3b0",
+          "140e5561-0e01-4d09-8c8c-f5c46863e9ca"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标岗位",
+        "value": "平台工程师"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "35-50K"
+      },
+      {
+        "turn": 4,
+        "field": "面试薄弱点",
+        "value": "网络编程"
+      },
+      {
+        "turn": 9,
+        "field": "面试薄弱点",
+        "value": "数据库调优"
+      },
+      {
+        "turn": 13,
+        "field": "目标岗位",
+        "value": "测试工程师"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_003",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "测试工程师",
+      "city": "北京",
+      "company": "蚂蚁集团",
+      "company2": "Grab",
+      "tech": "Python、PyTorch",
+      "tech_full": "Python、PyTorch、TensorFlow、CUDA",
+      "salary": "35-50K",
+      "weakness": "英文面试",
+      "stage": "笔试"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+        "text": "用户目标岗位是测试工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+        "metadata": {
+          "source": "2026-02-13.md",
+          "date": "2026-02-13",
+          "header_1": "技术背景",
+          "chunk_id": "791132c0-9187-4cc7-846d-9ddd8e9fde5a"
+        }
+      },
+      {
+        "chunk_id": "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+        "text": "用户正在准备蚂蚁集团的面试，面试薄弱点是英文面试",
+        "metadata": {
+          "source": "2025-12-30.md",
+          "date": "2025-12-30",
+          "header_1": "技术背景",
+          "chunk_id": "1ecf039c-8144-4a8f-ac47-c6c35c0515f6"
+        }
+      },
+      {
+        "chunk_id": "6b52d414-f700-42ee-8624-12a23201ad4b",
+        "text": "用户已完成笔试阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-12-17.md",
+          "date": "2025-12-17",
+          "header_1": "技术背景",
+          "chunk_id": "6b52d414-f700-42ee-8624-12a23201ad4b"
+        }
+      },
+      {
+        "chunk_id": "109ec37a-605c-48d2-b5ff-0520cd2362fa",
+        "text": "用户倾向于北京，但也考虑远程机会",
+        "metadata": {
+          "source": "2025-11-17.md",
+          "date": "2025-11-17",
+          "header_1": "面试进展",
+          "chunk_id": "109ec37a-605c-48d2-b5ff-0520cd2362fa"
+        }
+      },
+      {
+        "chunk_id": "567d70ec-ca5e-441d-b679-6d74ba6e89c0",
+        "text": "用户对Grab的测试工程师岗位感兴趣",
+        "metadata": {
+          "source": "2026-01-18.md",
+          "date": "2026-01-18",
+          "header_1": "偏好记录",
+          "chunk_id": "567d70ec-ca5e-441d-b679-6d74ba6e89c0"
+        }
+      },
+      {
+        "chunk_id": "19111f00-0ab3-449b-b8f4-5dc33cf54b63",
+        "text": "用户目标城市为北京，期望薪资35-50K",
+        "metadata": {
+          "source": "2025-10-11.md",
+          "date": "2025-10-11",
+          "header_1": "偏好记录",
+          "chunk_id": "19111f00-0ab3-449b-b8f4-5dc33cf54b63"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。测试工程师方向在北京的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "针对您的情况，蚂蚁集团的测试工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充英文面试方向的准备。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "帮我优化简历中的测试工程师项目经历描述"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "根据您提供的信息，蚂蚁集团的测试工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "这家公司背景怎么样？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "就是蚂蚁集团的测试工程师岗位，北京，薪资35-50K"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。测试工程师方向在北京的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "北京的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对蚂蚁集团的面试流程逐一分析。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "北京的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "明白了，您目前处于笔试阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "我想找个新工作"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "就是蚂蚁集团的测试工程师岗位，北京，薪资35-50K"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是北京的测试工程师岗位，这与蚂蚁集团的招聘需求非常吻合。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "我的技术栈是Python、PyTorch，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对蚂蚁集团的面试流程逐一分析。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "那个薪资合理吗？"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "就是蚂蚁集团的测试工程师岗位，北京，薪资35-50K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "根据您提供的信息，蚂蚁集团的测试工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "我想了解北京的测试工程师就业市场情况"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。测试工程师方向在北京的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "对比一下蚂蚁集团和Grab的测试工程师岗位"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "根据您提供的信息，蚂蚁集团的测试工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "我想了解北京的测试工程师就业市场情况"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "根据您提供的信息，蚂蚁集团的测试工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "我需要修改简历，还想了解一下目标公司背景"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "就是蚂蚁集团的测试工程师岗位，北京，薪资35-50K"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。测试工程师方向在北京的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "我想了解北京的测试工程师就业市场情况"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对蚂蚁集团的面试流程逐一分析。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "针对蚂蚁集团的测试工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Python、PyTorch技能的测试工程师候选人在北京的薪资区间通常在35-50K，您的期望是合理的。"
+      }
+    ],
+    "ambiguous_turns": [
+      4,
+      7,
+      9,
+      13
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 4,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 7,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 9,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 13,
+        "type": "intent_mixed"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 2,
+        "query": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 3,
+        "query": "帮我优化简历中的测试工程师项目经历描述"
+      },
+      {
+        "turn": 4,
+        "query": "这家公司背景怎么样？"
+      },
+      {
+        "turn": 5,
+        "query": "北京的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 6,
+        "query": "北京的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 7,
+        "query": "我想找个新工作"
+      },
+      {
+        "turn": 8,
+        "query": "我的技术栈是Python、PyTorch，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 9,
+        "query": "那个薪资合理吗？"
+      },
+      {
+        "turn": 10,
+        "query": "我想了解北京的测试工程师就业市场情况"
+      },
+      {
+        "turn": 11,
+        "query": "对比一下蚂蚁集团和Grab的测试工程师岗位"
+      },
+      {
+        "turn": 12,
+        "query": "我想了解北京的测试工程师就业市场情况"
+      },
+      {
+        "turn": 13,
+        "query": "我需要修改简历，还想了解一下目标公司背景"
+      },
+      {
+        "turn": 14,
+        "query": "我想了解北京的测试工程师就业市场情况"
+      },
+      {
+        "turn": 15,
+        "query": "针对蚂蚁集团的测试工程师面试，我该如何准备？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa",
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+          "19111f00-0ab3-449b-b8f4-5dc33cf54b63"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "6b52d414-f700-42ee-8624-12a23201ad4b",
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0",
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0",
+          "6b52d414-f700-42ee-8624-12a23201ad4b",
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+          "19111f00-0ab3-449b-b8f4-5dc33cf54b63",
+          "6b52d414-f700-42ee-8624-12a23201ad4b"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa",
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "6b52d414-f700-42ee-8624-12a23201ad4b"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0",
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+          "19111f00-0ab3-449b-b8f4-5dc33cf54b63"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa",
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "19111f00-0ab3-449b-b8f4-5dc33cf54b63",
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa",
+          "6b52d414-f700-42ee-8624-12a23201ad4b",
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+          "19111f00-0ab3-449b-b8f4-5dc33cf54b63",
+          "109ec37a-605c-48d2-b5ff-0520cd2362fa"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0",
+          "19111f00-0ab3-449b-b8f4-5dc33cf54b63",
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "791132c0-9187-4cc7-846d-9ddd8e9fde5a",
+          "1ecf039c-8144-4a8f-ac47-c6c35c0515f6",
+          "567d70ec-ca5e-441d-b679-6d74ba6e89c0"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标城市",
+        "value": "上海"
+      },
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "行为面试"
+      },
+      {
+        "turn": 4,
+        "field": "目标城市",
+        "value": "北京"
+      },
+      {
+        "turn": 9,
+        "field": "目标岗位",
+        "value": "平台工程师"
+      },
+      {
+        "turn": 13,
+        "field": "目标岗位",
+        "value": "后端工程师"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_004",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "推荐系统工程师",
+      "city": "深圳",
+      "company": "百度",
+      "company2": "腾讯",
+      "tech": "Java、Spring Boot",
+      "tech_full": "Java、Spring Boot、Kafka、Elasticsearch",
+      "salary": "60-80K",
+      "weakness": "英文面试",
+      "stage": "三面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+        "text": "用户倾向于深圳，但也考虑远程机会",
+        "metadata": {
+          "source": "2025-12-26.md",
+          "date": "2025-12-26",
+          "header_1": "求职目标",
+          "chunk_id": "d8d6a050-292e-4905-8bc6-d530c2bdccbd"
+        }
+      },
+      {
+        "chunk_id": "58be3266-e279-4450-8d71-4d77a4859cb4",
+        "text": "用户对腾讯的推荐系统工程师岗位感兴趣",
+        "metadata": {
+          "source": "2026-02-27.md",
+          "date": "2026-02-27",
+          "header_1": "偏好记录",
+          "chunk_id": "58be3266-e279-4450-8d71-4d77a4859cb4"
+        }
+      },
+      {
+        "chunk_id": "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+        "text": "用户希望在3个月内解决英文面试薄弱点",
+        "metadata": {
+          "source": "2026-01-24.md",
+          "date": "2026-01-24",
+          "header_1": "求职目标",
+          "chunk_id": "9eed3f65-42db-4a22-8ae7-1ee8bac243ce"
+        }
+      },
+      {
+        "chunk_id": "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+        "text": "用户目标城市为深圳，期望薪资60-80K",
+        "metadata": {
+          "source": "2025-12-27.md",
+          "date": "2025-12-27",
+          "header_1": "偏好记录",
+          "chunk_id": "6576fab8-9a07-4e78-8f3a-aa308988c9c6"
+        }
+      },
+      {
+        "chunk_id": "efda634a-7582-42a9-969d-39eab09f5bf5",
+        "text": "用户目标岗位是推荐系统工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+        "metadata": {
+          "source": "2025-12-31.md",
+          "date": "2025-12-31",
+          "header_1": "求职目标",
+          "chunk_id": "efda634a-7582-42a9-969d-39eab09f5bf5"
+        }
+      },
+      {
+        "chunk_id": "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+        "text": "用户正在准备百度的面试，面试薄弱点是英文面试",
+        "metadata": {
+          "source": "2025-10-13.md",
+          "date": "2025-10-13",
+          "header_1": "面试进展",
+          "chunk_id": "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "帮我优化简历中的推荐系统工程师项目经历描述"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Java、Spring Boot深度应用、分布式架构。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "对比一下百度和腾讯的推荐系统工程师岗位"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是深圳的推荐系统工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "我的技术栈是Java、Spring Boot，适合投推荐系统工程师岗位吗？"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Java、Spring Boot深度应用、分布式架构。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "我在三面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的推荐系统工程师候选人在深圳的薪资区间通常在60-80K，您的期望是合理的。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "就是百度的推荐系统工程师岗位，深圳，薪资60-80K"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "根据您提供的信息，百度的推荐系统工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我想了解深圳的推荐系统工程师就业市场情况"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。推荐系统工程师方向在深圳的需求非常旺盛，尤其是有Java、Spring Boot经验的候选人。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "帮我制定一份推荐系统工程师的面试备考计划"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的推荐系统工程师候选人在深圳的薪资区间通常在60-80K，您的期望是合理的。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "对比一下百度和腾讯的推荐系统工程师岗位"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "明白了，您目前处于三面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "我需要修改简历，还想了解一下目标公司背景"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "就是百度的推荐系统工程师岗位，深圳，薪资60-80K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是深圳的推荐系统工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "搜索一下百度最近的面试经验分享"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "针对百度的推荐系统工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "明白了，您目前处于三面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "我在三面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Java、Spring Boot深度应用、分布式架构。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "根据您提供的信息，百度的推荐系统工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "说说？"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "就是百度的推荐系统工程师岗位，深圳，薪资60-80K"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "我想找个新工作"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "就是百度的推荐系统工程师岗位，深圳，薪资60-80K"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "明白了，您目前处于三面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 16,
+        "role": "user",
+        "content": "对比一下百度和腾讯的推荐系统工程师岗位"
+      },
+      {
+        "turn": 16,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是深圳的推荐系统工程师岗位，这与百度的招聘需求非常吻合。"
+      }
+    ],
+    "ambiguous_turns": [
+      5,
+      9,
+      14,
+      15
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 5,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 9,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 14,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 15,
+        "type": "constraint_missing"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "帮我优化简历中的推荐系统工程师项目经历描述"
+      },
+      {
+        "turn": 2,
+        "query": "对比一下百度和腾讯的推荐系统工程师岗位"
+      },
+      {
+        "turn": 3,
+        "query": "我的技术栈是Java、Spring Boot，适合投推荐系统工程师岗位吗？"
+      },
+      {
+        "turn": 4,
+        "query": "我在三面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 5,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 6,
+        "query": "我想了解深圳的推荐系统工程师就业市场情况"
+      },
+      {
+        "turn": 7,
+        "query": "帮我制定一份推荐系统工程师的面试备考计划"
+      },
+      {
+        "turn": 8,
+        "query": "对比一下百度和腾讯的推荐系统工程师岗位"
+      },
+      {
+        "turn": 9,
+        "query": "我需要修改简历，还想了解一下目标公司背景"
+      },
+      {
+        "turn": 10,
+        "query": "搜索一下百度最近的面试经验分享"
+      },
+      {
+        "turn": 11,
+        "query": "针对百度的推荐系统工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 12,
+        "query": "我在三面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 13,
+        "query": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 14,
+        "query": "说说？"
+      },
+      {
+        "turn": 15,
+        "query": "我想找个新工作"
+      },
+      {
+        "turn": 16,
+        "query": "对比一下百度和腾讯的推荐系统工程师岗位"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "efda634a-7582-42a9-969d-39eab09f5bf5",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "efda634a-7582-42a9-969d-39eab09f5bf5",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "58be3266-e279-4450-8d71-4d77a4859cb4",
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "efda634a-7582-42a9-969d-39eab09f5bf5",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "d8d6a050-292e-4905-8bc6-d530c2bdccbd",
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "6576fab8-9a07-4e78-8f3a-aa308988c9c6",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad"
+        ]
+      },
+      {
+        "turn": 16,
+        "relevant_chunks": [
+          "9eed3f65-42db-4a22-8ae7-1ee8bac243ce",
+          "1d4d3bb0-8e38-42c6-8dcc-766b8479d9ad",
+          "58be3266-e279-4450-8d71-4d77a4859cb4"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标公司_行业",
+        "value": "PingCAP"
+      },
+      {
+        "turn": 1,
+        "field": "目标城市",
+        "value": "成都"
+      },
+      {
+        "turn": 4,
+        "field": "目标城市",
+        "value": "杭州"
+      },
+      {
+        "turn": 9,
+        "field": "薪资预期",
+        "value": "40-60K"
+      },
+      {
+        "turn": 13,
+        "field": "目标公司_行业",
+        "value": "阿里巴巴"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_005",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "产品经理",
+      "city": "成都",
+      "company": "腾讯",
+      "company2": "京东",
+      "tech": "Rust、C++",
+      "tech_full": "Rust、C++、Linux、内核开发",
+      "salary": "80-120K",
+      "weakness": "数据库调优",
+      "stage": "终面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "08462842-9a60-4a98-94b6-58660698b332",
+        "text": "用户对京东的产品经理岗位感兴趣",
+        "metadata": {
+          "source": "2026-02-23.md",
+          "date": "2026-02-23",
+          "header_1": "技术背景",
+          "chunk_id": "08462842-9a60-4a98-94b6-58660698b332"
+        }
+      },
+      {
+        "chunk_id": "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+        "text": "用户正在准备腾讯的面试，面试薄弱点是数据库调优",
+        "metadata": {
+          "source": "2025-10-24.md",
+          "date": "2025-10-24",
+          "header_1": "技术背景",
+          "chunk_id": "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b"
+        }
+      },
+      {
+        "chunk_id": "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb",
+        "text": "用户希望在3个月内解决数据库调优薄弱点",
+        "metadata": {
+          "source": "2025-10-01.md",
+          "date": "2025-10-01",
+          "header_1": "求职目标",
+          "chunk_id": "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb"
+        }
+      },
+      {
+        "chunk_id": "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+        "text": "用户技术栈Rust、C++在市场上竞争力较强",
+        "metadata": {
+          "source": "2025-11-26.md",
+          "date": "2025-11-26",
+          "header_1": "技术背景",
+          "chunk_id": "39b0ecc7-c0c5-4ab0-963c-9b8a022354af"
+        }
+      },
+      {
+        "chunk_id": "f18d3c8e-f18e-4233-bffa-106fadbeb7d5",
+        "text": "用户倾向于成都，但也考虑远程机会",
+        "metadata": {
+          "source": "2025-12-02.md",
+          "date": "2025-12-02",
+          "header_1": "面试进展",
+          "chunk_id": "f18d3c8e-f18e-4233-bffa-106fadbeb7d5"
+        }
+      },
+      {
+        "chunk_id": "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2",
+        "text": "用户目标城市为成都，期望薪资80-120K",
+        "metadata": {
+          "source": "2025-09-28.md",
+          "date": "2025-09-28",
+          "header_1": "求职目标",
+          "chunk_id": "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "帮我制定一份产品经理的面试备考计划"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "根据您提供的信息，腾讯的产品经理岗位与您的背景有较高契合度。核心差距在于数据库调优方向需要加强。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "成都的产品经理平均薪资是多少？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。产品经理方向在成都的需求非常旺盛，尤其是有Rust、C++经验的候选人。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "我想了解成都的产品经理就业市场情况"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "针对您的情况，腾讯的产品经理岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。产品经理方向在成都的需求非常旺盛，尤其是有Rust、C++经验的候选人。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "帮我分析一下腾讯的产品经理岗位JD，薪资80-120K"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与产品经理岗位匹配度较高。建议重点准备以下几个方向：系统设计、Rust、C++深度应用、分布式架构。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我在终面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Rust、C++技能的产品经理候选人在成都的薪资区间通常在80-120K，您的期望是合理的。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "我的技术栈是Rust、C++，适合投产品经理岗位吗？"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。产品经理方向在成都的需求非常旺盛，尤其是有Rust、C++经验的候选人。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "就是腾讯的产品经理岗位，成都，薪资80-120K"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与产品经理岗位匹配度较高。建议重点准备以下几个方向：系统设计、Rust、C++深度应用、分布式架构。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "搜索一下腾讯最近的面试经验分享"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Rust、C++技能的产品经理候选人在成都的薪资区间通常在80-120K，您的期望是合理的。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "我想了解成都的产品经理就业市场情况"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "根据您提供的信息，腾讯的产品经理岗位与您的背景有较高契合度。核心差距在于数据库调优方向需要加强。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "我想了解成都的产品经理就业市场情况"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对腾讯的面试流程逐一分析。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我推荐几个岗位"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是腾讯的产品经理岗位，成都，薪资80-120K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与产品经理岗位匹配度较高。建议重点准备以下几个方向：系统设计、Rust、C++深度应用、分布式架构。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "成都的产品经理平均薪资是多少？"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是成都的产品经理岗位，这与腾讯的招聘需求非常吻合。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "这家公司背景怎么样？"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "就是腾讯的产品经理岗位，成都，薪资80-120K"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "针对您的情况，腾讯的产品经理岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "就是腾讯的产品经理岗位，成都，薪资80-120K"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 16,
+        "role": "user",
+        "content": "我在终面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 16,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      }
+    ],
+    "ambiguous_turns": [
+      8,
+      12,
+      14,
+      15
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 8,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 12,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 14,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 15,
+        "type": "constraint_missing"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "帮我制定一份产品经理的面试备考计划"
+      },
+      {
+        "turn": 2,
+        "query": "成都的产品经理平均薪资是多少？"
+      },
+      {
+        "turn": 3,
+        "query": "我想了解成都的产品经理就业市场情况"
+      },
+      {
+        "turn": 4,
+        "query": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 5,
+        "query": "帮我分析一下腾讯的产品经理岗位JD，薪资80-120K"
+      },
+      {
+        "turn": 6,
+        "query": "我在终面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 7,
+        "query": "我的技术栈是Rust、C++，适合投产品经理岗位吗？"
+      },
+      {
+        "turn": 8,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 9,
+        "query": "搜索一下腾讯最近的面试经验分享"
+      },
+      {
+        "turn": 10,
+        "query": "我想了解成都的产品经理就业市场情况"
+      },
+      {
+        "turn": 11,
+        "query": "我想了解成都的产品经理就业市场情况"
+      },
+      {
+        "turn": 12,
+        "query": "帮我推荐几个岗位"
+      },
+      {
+        "turn": 13,
+        "query": "成都的产品经理平均薪资是多少？"
+      },
+      {
+        "turn": 14,
+        "query": "这家公司背景怎么样？"
+      },
+      {
+        "turn": 15,
+        "query": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 16,
+        "query": "我在终面阶段，下一步应该怎么准备？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5",
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb",
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5",
+          "08462842-9a60-4a98-94b6-58660698b332"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2",
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5",
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "08462842-9a60-4a98-94b6-58660698b332",
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "08462842-9a60-4a98-94b6-58660698b332",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2",
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "08462842-9a60-4a98-94b6-58660698b332",
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2",
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "303e2b6a-48f5-4c2d-bfe4-bc46cbb2b2f2",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+          "d8ecfe00-e3ed-4fed-b9b9-03930c5850bb"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b",
+          "f18d3c8e-f18e-4233-bffa-106fadbeb7d5"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "08462842-9a60-4a98-94b6-58660698b332",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b"
+        ]
+      },
+      {
+        "turn": 16,
+        "relevant_chunks": [
+          "39b0ecc7-c0c5-4ab0-963c-9b8a022354af",
+          "08462842-9a60-4a98-94b6-58660698b332",
+          "f44f9bb4-0ef1-4eca-8e78-8e859d8f970b"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标公司_行业",
+        "value": "阿里巴巴"
+      },
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "网络编程"
+      },
+      {
+        "turn": 4,
+        "field": "目标公司_行业",
+        "value": "阿里巴巴"
+      },
+      {
+        "turn": 9,
+        "field": "目标岗位",
+        "value": "架构师"
+      },
+      {
+        "turn": 13,
+        "field": "面试薄弱点",
+        "value": "网络编程"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_006",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "前端工程师",
+      "city": "上海",
+      "company": "PingCAP",
+      "company2": "小米",
+      "tech": "JavaScript、React",
+      "tech_full": "JavaScript、React、Node.js、MongoDB",
+      "salary": "30-45K",
+      "weakness": "算法与数据结构",
+      "stage": "一面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "379a8628-0747-4aa4-9ee4-ea72c9a3e42a",
+        "text": "用户对小米的前端工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-10-12.md",
+          "date": "2025-10-12",
+          "header_1": "面试进展",
+          "chunk_id": "379a8628-0747-4aa4-9ee4-ea72c9a3e42a"
+        }
+      },
+      {
+        "chunk_id": "3fdcddbd-d08a-4c8d-b711-12f59a59ded9",
+        "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+        "metadata": {
+          "source": "2025-10-23.md",
+          "date": "2025-10-23",
+          "header_1": "偏好记录",
+          "chunk_id": "3fdcddbd-d08a-4c8d-b711-12f59a59ded9"
+        }
+      },
+      {
+        "chunk_id": "cb260bdc-7e2a-4364-b37f-262c67f83fad",
+        "text": "用户目标岗位是前端工程师，技术栈包含JavaScript、React、Node.js、MongoDB",
+        "metadata": {
+          "source": "2025-10-19.md",
+          "date": "2025-10-19",
+          "header_1": "偏好记录",
+          "chunk_id": "cb260bdc-7e2a-4364-b37f-262c67f83fad"
+        }
+      },
+      {
+        "chunk_id": "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+        "text": "用户正在准备PingCAP的面试，面试薄弱点是算法与数据结构",
+        "metadata": {
+          "source": "2025-10-25.md",
+          "date": "2025-10-25",
+          "header_1": "求职目标",
+          "chunk_id": "47ed1d75-5e0d-4981-b657-0dffc5ff581f"
+        }
+      },
+      {
+        "chunk_id": "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+        "text": "用户技术栈JavaScript、React在市场上竞争力较强",
+        "metadata": {
+          "source": "2025-12-25.md",
+          "date": "2025-12-25",
+          "header_1": "面试进展",
+          "chunk_id": "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d"
+        }
+      },
+      {
+        "chunk_id": "0e63a9f9-209d-4018-ac79-19ac0ef89588",
+        "text": "用户已完成一面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-11-27.md",
+          "date": "2025-11-27",
+          "header_1": "技术背景",
+          "chunk_id": "0e63a9f9-209d-4018-ac79-19ac0ef89588"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "对比一下PingCAP和小米的前端工程师岗位"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是上海的前端工程师岗位，这与PingCAP的招聘需求非常吻合。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "根据您提供的信息，PingCAP的前端工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "我想找个新工作"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "就是PingCAP的前端工程师岗位，上海，薪资30-45K"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是上海的前端工程师岗位，这与PingCAP的招聘需求非常吻合。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的前端工程师候选人在上海的薪资区间通常在30-45K，您的期望是合理的。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是上海的前端工程师岗位，这与PingCAP的招聘需求非常吻合。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是PingCAP的前端工程师岗位，上海，薪资30-45K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "根据您提供的信息，PingCAP的前端工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与前端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "搜索一下PingCAP最近的面试经验分享"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。前端工程师方向在上海的需求非常旺盛，尤其是有JavaScript、React经验的候选人。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "根据您提供的信息，PingCAP的前端工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "搜索一下PingCAP最近的面试经验分享"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的前端工程师候选人在上海的薪资区间通常在30-45K，您的期望是合理的。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "上次说的那个，再详细讲讲"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "就是PingCAP的前端工程师岗位，上海，薪资30-45K"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我分析一下这个"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是PingCAP的前端工程师岗位，上海，薪资30-45K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "根据您提供的信息，PingCAP的前端工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与前端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "对比一下PingCAP和小米的前端工程师岗位"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是上海的前端工程师岗位，这与PingCAP的招聘需求非常吻合。"
+      }
+    ],
+    "ambiguous_turns": [
+      3,
+      6,
+      11,
+      12
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 3,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 6,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 11,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 12,
+        "type": "reference_unclear"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "对比一下PingCAP和小米的前端工程师岗位"
+      },
+      {
+        "turn": 2,
+        "query": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 3,
+        "query": "我想找个新工作"
+      },
+      {
+        "turn": 4,
+        "query": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 5,
+        "query": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 6,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 7,
+        "query": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 8,
+        "query": "搜索一下PingCAP最近的面试经验分享"
+      },
+      {
+        "turn": 9,
+        "query": "针对PingCAP的前端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 10,
+        "query": "搜索一下PingCAP最近的面试经验分享"
+      },
+      {
+        "turn": 11,
+        "query": "上次说的那个，再详细讲讲"
+      },
+      {
+        "turn": 12,
+        "query": "帮我分析一下这个"
+      },
+      {
+        "turn": 13,
+        "query": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 14,
+        "query": "对比一下PingCAP和小米的前端工程师岗位"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588",
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+          "cb260bdc-7e2a-4364-b37f-262c67f83fad",
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "379a8628-0747-4aa4-9ee4-ea72c9a3e42a"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9",
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588",
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "379a8628-0747-4aa4-9ee4-ea72c9a3e42a",
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "cb260bdc-7e2a-4364-b37f-262c67f83fad",
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9",
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f",
+          "379a8628-0747-4aa4-9ee4-ea72c9a3e42a"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "379a8628-0747-4aa4-9ee4-ea72c9a3e42a",
+          "47ed1d75-5e0d-4981-b657-0dffc5ff581f"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "379a8628-0747-4aa4-9ee4-ea72c9a3e42a",
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9",
+          "cb260bdc-7e2a-4364-b37f-262c67f83fad"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "cb260bdc-7e2a-4364-b37f-262c67f83fad",
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588",
+          "379a8628-0747-4aa4-9ee4-ea72c9a3e42a"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9",
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588",
+          "cb260bdc-7e2a-4364-b37f-262c67f83fad"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "e32242ce-e2d1-466a-bfcb-9f3ffb8f1c0d",
+          "3fdcddbd-d08a-4c8d-b711-12f59a59ded9",
+          "0e63a9f9-209d-4018-ac79-19ac0ef89588"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标岗位",
+        "value": "机器学习工程师"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "60-80K"
+      },
+      {
+        "turn": 4,
+        "field": "目标岗位",
+        "value": "后端工程师"
+      },
+      {
+        "turn": 9,
+        "field": "面试薄弱点",
+        "value": "系统设计"
+      },
+      {
+        "turn": 13,
+        "field": "面试薄弱点",
+        "value": "英文面试"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_007",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "机器学习工程师",
+      "city": "成都",
+      "company": "网易",
+      "company2": "蚂蚁集团",
+      "tech": "Python、FastAPI",
+      "tech_full": "Python、FastAPI、Redis、MySQL",
+      "salary": "30-45K",
+      "weakness": "算法与数据结构",
+      "stage": "HR面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+        "text": "用户已完成HR面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-12-09.md",
+          "date": "2025-12-09",
+          "header_1": "求职目标",
+          "chunk_id": "fac3cc03-3021-45a5-974b-afbc6cd25c15"
+        }
+      },
+      {
+        "chunk_id": "b6b9fe90-52da-4433-be5b-8811cbd29567",
+        "text": "用户正在准备网易的面试，面试薄弱点是算法与数据结构",
+        "metadata": {
+          "source": "2026-01-13.md",
+          "date": "2026-01-13",
+          "header_1": "技术背景",
+          "chunk_id": "b6b9fe90-52da-4433-be5b-8811cbd29567"
+        }
+      },
+      {
+        "chunk_id": "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6",
+        "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+        "metadata": {
+          "source": "2025-09-26.md",
+          "date": "2025-09-26",
+          "header_1": "技术背景",
+          "chunk_id": "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6"
+        }
+      },
+      {
+        "chunk_id": "f02c5a98-ffd1-405d-904c-b75d096003f4",
+        "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+        "metadata": {
+          "source": "2026-01-20.md",
+          "date": "2026-01-20",
+          "header_1": "技术背景",
+          "chunk_id": "f02c5a98-ffd1-405d-904c-b75d096003f4"
+        }
+      },
+      {
+        "chunk_id": "84154f89-cf07-4138-84a4-cfeed784f053",
+        "text": "用户目标岗位是机器学习工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+        "metadata": {
+          "source": "2026-01-01.md",
+          "date": "2026-01-01",
+          "header_1": "技术背景",
+          "chunk_id": "84154f89-cf07-4138-84a4-cfeed784f053"
+        }
+      },
+      {
+        "chunk_id": "8900224d-ed91-498d-a19c-c3c7e28d365a",
+        "text": "用户对蚂蚁集团的机器学习工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-10-02.md",
+          "date": "2025-10-02",
+          "header_1": "偏好记录",
+          "chunk_id": "8900224d-ed91-498d-a19c-c3c7e28d365a"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "我的技术栈是Python、FastAPI，适合投机器学习工程师岗位吗？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "根据您提供的信息，网易的机器学习工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "分析一下我当前技术栈Python、FastAPI的市场竞争力"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与机器学习工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、FastAPI深度应用、分布式架构。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "我想了解成都的机器学习工程师就业市场情况"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "有什么好的机会吗？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "就是网易的机器学习工程师岗位，成都，薪资30-45K"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对网易的面试流程逐一分析。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "针对网易的机器学习工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "根据您提供的信息，网易的机器学习工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "了解一下"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是网易的机器学习工程师岗位，成都，薪资30-45K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "根据您提供的信息，网易的机器学习工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "根据您提供的信息，网易的机器学习工程师岗位与您的背景有较高契合度。核心差距在于算法与数据结构方向需要加强。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "分析一下我当前技术栈Python、FastAPI的市场竞争力"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是成都的机器学习工程师岗位，这与网易的招聘需求非常吻合。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "帮我看看这份材料"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "就是网易的机器学习工程师岗位，成都，薪资30-45K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与机器学习工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、FastAPI深度应用、分布式架构。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "我的薄弱点是算法与数据结构，怎么在3个月内提升？"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是成都的机器学习工程师岗位，这与网易的招聘需求非常吻合。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "就是网易的机器学习工程师岗位，成都，薪资30-45K"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我分析一下网易的机器学习工程师岗位JD，薪资30-45K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "针对您的情况，网易的机器学习工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充算法与数据结构方向的准备。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我制定一份机器学习工程师的面试备考计划"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "针对您的情况，网易的机器学习工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充算法与数据结构方向的准备。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "我想了解成都的机器学习工程师就业市场情况"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      }
+    ],
+    "ambiguous_turns": [
+      4,
+      6,
+      9,
+      11
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 4,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 6,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 9,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 11,
+        "type": "intent_mixed"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "我的技术栈是Python、FastAPI，适合投机器学习工程师岗位吗？"
+      },
+      {
+        "turn": 2,
+        "query": "分析一下我当前技术栈Python、FastAPI的市场竞争力"
+      },
+      {
+        "turn": 3,
+        "query": "我想了解成都的机器学习工程师就业市场情况"
+      },
+      {
+        "turn": 4,
+        "query": "有什么好的机会吗？"
+      },
+      {
+        "turn": 5,
+        "query": "针对网易的机器学习工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 6,
+        "query": "了解一下"
+      },
+      {
+        "turn": 7,
+        "query": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 8,
+        "query": "分析一下我当前技术栈Python、FastAPI的市场竞争力"
+      },
+      {
+        "turn": 9,
+        "query": "帮我看看这份材料"
+      },
+      {
+        "turn": 10,
+        "query": "我的薄弱点是算法与数据结构，怎么在3个月内提升？"
+      },
+      {
+        "turn": 11,
+        "query": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 12,
+        "query": "帮我分析一下网易的机器学习工程师岗位JD，薪资30-45K"
+      },
+      {
+        "turn": 13,
+        "query": "帮我制定一份机器学习工程师的面试备考计划"
+      },
+      {
+        "turn": 14,
+        "query": "我想了解成都的机器学习工程师就业市场情况"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6",
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "b6b9fe90-52da-4433-be5b-8811cbd29567",
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "8900224d-ed91-498d-a19c-c3c7e28d365a"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6",
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "84154f89-cf07-4138-84a4-cfeed784f053"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6",
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+          "84154f89-cf07-4138-84a4-cfeed784f053"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "b6b9fe90-52da-4433-be5b-8811cbd29567"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "b6b9fe90-52da-4433-be5b-8811cbd29567"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6",
+          "b6b9fe90-52da-4433-be5b-8811cbd29567"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6",
+          "84154f89-cf07-4138-84a4-cfeed784f053"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "5dcc0a20-61e2-4bc7-b380-4b7438d7bdf6"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+          "84154f89-cf07-4138-84a4-cfeed784f053"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15",
+          "b6b9fe90-52da-4433-be5b-8811cbd29567"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "84154f89-cf07-4138-84a4-cfeed784f053",
+          "f02c5a98-ffd1-405d-904c-b75d096003f4",
+          "fac3cc03-3021-45a5-974b-afbc6cd25c15"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "8900224d-ed91-498d-a19c-c3c7e28d365a",
+          "b6b9fe90-52da-4433-be5b-8811cbd29567",
+          "f02c5a98-ffd1-405d-904c-b75d096003f4"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标城市",
+        "value": "成都"
+      },
+      {
+        "turn": 1,
+        "field": "目标公司_行业",
+        "value": "小米"
+      },
+      {
+        "turn": 4,
+        "field": "面试薄弱点",
+        "value": "数据库调优"
+      },
+      {
+        "turn": 9,
+        "field": "目标城市",
+        "value": "广州"
+      },
+      {
+        "turn": 13,
+        "field": "目标城市",
+        "value": "广州"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_008",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "DevOps工程师",
+      "city": "上海",
+      "company": "京东",
+      "company2": "阿里巴巴",
+      "tech": "Python、PyTorch",
+      "tech_full": "Python、PyTorch、TensorFlow、CUDA",
+      "salary": "25-35K",
+      "weakness": "算法与数据结构",
+      "stage": "一面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "89046cb3-8dba-452e-837e-34105f566303",
+        "text": "用户已完成一面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-11-09.md",
+          "date": "2025-11-09",
+          "header_1": "求职目标",
+          "chunk_id": "89046cb3-8dba-452e-837e-34105f566303"
+        }
+      },
+      {
+        "chunk_id": "b82a93a2-3860-414d-8f90-e8cbbdfeab1a",
+        "text": "用户目标城市为上海，期望薪资25-35K",
+        "metadata": {
+          "source": "2025-10-19.md",
+          "date": "2025-10-19",
+          "header_1": "技术背景",
+          "chunk_id": "b82a93a2-3860-414d-8f90-e8cbbdfeab1a"
+        }
+      },
+      {
+        "chunk_id": "0d631b7d-3e23-4d7f-89b2-14b729494781",
+        "text": "用户对阿里巴巴的DevOps工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-12-02.md",
+          "date": "2025-12-02",
+          "header_1": "面试进展",
+          "chunk_id": "0d631b7d-3e23-4d7f-89b2-14b729494781"
+        }
+      },
+      {
+        "chunk_id": "5749bce0-989e-46fd-985a-2fd3782d8b1d",
+        "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+        "metadata": {
+          "source": "2026-01-29.md",
+          "date": "2026-01-29",
+          "header_1": "技术背景",
+          "chunk_id": "5749bce0-989e-46fd-985a-2fd3782d8b1d"
+        }
+      },
+      {
+        "chunk_id": "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+        "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+        "metadata": {
+          "source": "2025-12-09.md",
+          "date": "2025-12-09",
+          "header_1": "偏好记录",
+          "chunk_id": "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3"
+        }
+      },
+      {
+        "chunk_id": "011572eb-da65-4c8e-beb8-7ad53f3a65f5",
+        "text": "用户目标岗位是DevOps工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+        "metadata": {
+          "source": "2026-01-28.md",
+          "date": "2026-01-28",
+          "header_1": "求职目标",
+          "chunk_id": "011572eb-da65-4c8e-beb8-7ad53f3a65f5"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "我的薄弱点是算法与数据结构，怎么在3个月内提升？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对京东的面试流程逐一分析。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "分析一下我当前技术栈Python、PyTorch的市场竞争力"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "就是京东的DevOps工程师岗位，上海，薪资25-35K"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "介绍"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "就是京东的DevOps工程师岗位，上海，薪资25-35K"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与DevOps工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "对比一下京东和阿里巴巴的DevOps工程师岗位"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与DevOps工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "帮我分析一下京东的DevOps工程师岗位JD，薪资25-35K"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对京东的面试流程逐一分析。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "给我推荐岗位，另外也帮我准备一下面试"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "就是京东的DevOps工程师岗位，上海，薪资25-35K"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对京东的面试流程逐一分析。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "对比一下京东和阿里巴巴的DevOps工程师岗位"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "搜索一下京东最近的面试经验分享"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与DevOps工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "上海的DevOps工程师平均薪资是多少？"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Python、PyTorch技能的DevOps工程师候选人在上海的薪资区间通常在25-35K，您的期望是合理的。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我看看这份材料"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是京东的DevOps工程师岗位，上海，薪资25-35K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是算法与数据结构这个薄弱点。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我优化简历中的DevOps工程师项目经历描述"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与DevOps工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      }
+    ],
+    "ambiguous_turns": [
+      3,
+      4,
+      8,
+      12
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 3,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 4,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 8,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 12,
+        "type": "reference_unclear"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "我的薄弱点是算法与数据结构，怎么在3个月内提升？"
+      },
+      {
+        "turn": 2,
+        "query": "分析一下我当前技术栈Python、PyTorch的市场竞争力"
+      },
+      {
+        "turn": 3,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 4,
+        "query": "介绍"
+      },
+      {
+        "turn": 5,
+        "query": "对比一下京东和阿里巴巴的DevOps工程师岗位"
+      },
+      {
+        "turn": 6,
+        "query": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 7,
+        "query": "帮我分析一下京东的DevOps工程师岗位JD，薪资25-35K"
+      },
+      {
+        "turn": 8,
+        "query": "给我推荐岗位，另外也帮我准备一下面试"
+      },
+      {
+        "turn": 9,
+        "query": "对比一下京东和阿里巴巴的DevOps工程师岗位"
+      },
+      {
+        "turn": 10,
+        "query": "搜索一下京东最近的面试经验分享"
+      },
+      {
+        "turn": 11,
+        "query": "上海的DevOps工程师平均薪资是多少？"
+      },
+      {
+        "turn": 12,
+        "query": "帮我看看这份材料"
+      },
+      {
+        "turn": 13,
+        "query": "帮我优化简历中的DevOps工程师项目经历描述"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "011572eb-da65-4c8e-beb8-7ad53f3a65f5"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "0d631b7d-3e23-4d7f-89b2-14b729494781",
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a",
+          "5749bce0-989e-46fd-985a-2fd3782d8b1d"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "0d631b7d-3e23-4d7f-89b2-14b729494781"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "0d631b7d-3e23-4d7f-89b2-14b729494781",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "011572eb-da65-4c8e-beb8-7ad53f3a65f5"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a",
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "011572eb-da65-4c8e-beb8-7ad53f3a65f5",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "5749bce0-989e-46fd-985a-2fd3782d8b1d"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a",
+          "011572eb-da65-4c8e-beb8-7ad53f3a65f5"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "5749bce0-989e-46fd-985a-2fd3782d8b1d",
+          "82bd0e5f-51dd-439a-b9e2-5a2c46937cf3",
+          "89046cb3-8dba-452e-837e-34105f566303"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "011572eb-da65-4c8e-beb8-7ad53f3a65f5",
+          "b82a93a2-3860-414d-8f90-e8cbbdfeab1a",
+          "89046cb3-8dba-452e-837e-34105f566303"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "5749bce0-989e-46fd-985a-2fd3782d8b1d",
+          "89046cb3-8dba-452e-837e-34105f566303",
+          "011572eb-da65-4c8e-beb8-7ad53f3a65f5"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标城市",
+        "value": "成都"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "20-30K"
+      },
+      {
+        "turn": 4,
+        "field": "目标岗位",
+        "value": "全栈工程师"
+      },
+      {
+        "turn": 9,
+        "field": "目标岗位",
+        "value": "前端工程师"
+      },
+      {
+        "turn": 13,
+        "field": "面试薄弱点",
+        "value": "数据库调优"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_009",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "平台工程师",
+      "city": "杭州",
+      "company": "华为",
+      "company2": "小米",
+      "tech": "JavaScript、React",
+      "tech_full": "JavaScript、React、Node.js、MongoDB",
+      "salary": "25-35K",
+      "weakness": "系统设计",
+      "stage": "HR面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "cee5fc27-ee0a-4911-b29b-fa56e094e514",
+        "text": "用户正在准备华为的面试，面试薄弱点是系统设计",
+        "metadata": {
+          "source": "2025-11-11.md",
+          "date": "2025-11-11",
+          "header_1": "面试进展",
+          "chunk_id": "cee5fc27-ee0a-4911-b29b-fa56e094e514"
+        }
+      },
+      {
+        "chunk_id": "651aa9c9-fa55-42a8-9332-695a83d8179e",
+        "text": "用户倾向于杭州，但也考虑远程机会",
+        "metadata": {
+          "source": "2026-02-10.md",
+          "date": "2026-02-10",
+          "header_1": "面试进展",
+          "chunk_id": "651aa9c9-fa55-42a8-9332-695a83d8179e"
+        }
+      },
+      {
+        "chunk_id": "b866b60b-29e6-40a8-82e4-a9eae3bc95f6",
+        "text": "用户目标岗位是平台工程师，技术栈包含JavaScript、React、Node.js、MongoDB",
+        "metadata": {
+          "source": "2026-02-20.md",
+          "date": "2026-02-20",
+          "header_1": "面试进展",
+          "chunk_id": "b866b60b-29e6-40a8-82e4-a9eae3bc95f6"
+        }
+      },
+      {
+        "chunk_id": "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9",
+        "text": "用户目标城市为杭州，期望薪资25-35K",
+        "metadata": {
+          "source": "2026-02-22.md",
+          "date": "2026-02-22",
+          "header_1": "求职目标",
+          "chunk_id": "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9"
+        }
+      },
+      {
+        "chunk_id": "63c8ecbf-0dda-4717-be1d-99378f41094e",
+        "text": "用户对小米的平台工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-12-29.md",
+          "date": "2025-12-29",
+          "header_1": "偏好记录",
+          "chunk_id": "63c8ecbf-0dda-4717-be1d-99378f41094e"
+        }
+      },
+      {
+        "chunk_id": "b626f127-e6d5-45e6-b099-13c861b2a68a",
+        "text": "用户已完成HR面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2026-01-14.md",
+          "date": "2026-01-14",
+          "header_1": "求职目标",
+          "chunk_id": "b626f127-e6d5-45e6-b099-13c861b2a68a"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "帮我制定一份平台工程师的面试备考计划"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与平台工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "帮我分析一下华为的平台工程师岗位JD，薪资25-35K"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。平台工程师方向在杭州的需求非常旺盛，尤其是有JavaScript、React经验的候选人。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "看看"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "就是华为的平台工程师岗位，杭州，薪资25-35K"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是系统设计这个薄弱点。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "杭州的平台工程师平均薪资是多少？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是系统设计这个薄弱点。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "分析一下我当前技术栈JavaScript、React的市场竞争力"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的平台工程师候选人在杭州的薪资区间通常在25-35K，您的期望是合理的。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "了解一下"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是华为的平台工程师岗位，杭州，薪资25-35K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。平台工程师方向在杭州的需求非常旺盛，尤其是有JavaScript、React经验的候选人。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "对比一下华为和小米的平台工程师岗位"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与平台工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "我的技术栈是JavaScript、React，适合投平台工程师岗位吗？"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与平台工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "看看"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "就是华为的平台工程师岗位，杭州，薪资25-35K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "针对您的情况，华为的平台工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充系统设计方向的准备。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的平台工程师候选人在杭州的薪资区间通常在25-35K，您的期望是合理的。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "就是华为的平台工程师岗位，杭州，薪资25-35K"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "针对您的情况，华为的平台工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充系统设计方向的准备。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我分析一下华为的平台工程师岗位JD，薪资25-35K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "针对您的情况，华为的平台工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充系统设计方向的准备。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "我的技术栈是JavaScript、React，适合投平台工程师岗位吗？"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。平台工程师方向在杭州的需求非常旺盛，尤其是有JavaScript、React经验的候选人。"
+      }
+    ],
+    "ambiguous_turns": [
+      3,
+      6,
+      9,
+      11
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 3,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 6,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 9,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 11,
+        "type": "constraint_missing"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "帮我制定一份平台工程师的面试备考计划"
+      },
+      {
+        "turn": 2,
+        "query": "帮我分析一下华为的平台工程师岗位JD，薪资25-35K"
+      },
+      {
+        "turn": 3,
+        "query": "看看"
+      },
+      {
+        "turn": 4,
+        "query": "杭州的平台工程师平均薪资是多少？"
+      },
+      {
+        "turn": 5,
+        "query": "分析一下我当前技术栈JavaScript、React的市场竞争力"
+      },
+      {
+        "turn": 6,
+        "query": "了解一下"
+      },
+      {
+        "turn": 7,
+        "query": "对比一下华为和小米的平台工程师岗位"
+      },
+      {
+        "turn": 8,
+        "query": "我的技术栈是JavaScript、React，适合投平台工程师岗位吗？"
+      },
+      {
+        "turn": 9,
+        "query": "看看"
+      },
+      {
+        "turn": 10,
+        "query": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 11,
+        "query": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 12,
+        "query": "帮我分析一下华为的平台工程师岗位JD，薪资25-35K"
+      },
+      {
+        "turn": 13,
+        "query": "我的技术栈是JavaScript、React，适合投平台工程师岗位吗？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "651aa9c9-fa55-42a8-9332-695a83d8179e",
+          "63c8ecbf-0dda-4717-be1d-99378f41094e",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "651aa9c9-fa55-42a8-9332-695a83d8179e",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514",
+          "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "651aa9c9-fa55-42a8-9332-695a83d8179e",
+          "b626f127-e6d5-45e6-b099-13c861b2a68a",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "651aa9c9-fa55-42a8-9332-695a83d8179e",
+          "b866b60b-29e6-40a8-82e4-a9eae3bc95f6",
+          "b626f127-e6d5-45e6-b099-13c861b2a68a"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "b866b60b-29e6-40a8-82e4-a9eae3bc95f6",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514",
+          "b626f127-e6d5-45e6-b099-13c861b2a68a"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "651aa9c9-fa55-42a8-9332-695a83d8179e",
+          "b626f127-e6d5-45e6-b099-13c861b2a68a",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9",
+          "b866b60b-29e6-40a8-82e4-a9eae3bc95f6",
+          "63c8ecbf-0dda-4717-be1d-99378f41094e"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "63c8ecbf-0dda-4717-be1d-99378f41094e",
+          "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "b866b60b-29e6-40a8-82e4-a9eae3bc95f6",
+          "63c8ecbf-0dda-4717-be1d-99378f41094e",
+          "b626f127-e6d5-45e6-b099-13c861b2a68a"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "63c8ecbf-0dda-4717-be1d-99378f41094e",
+          "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9",
+          "651aa9c9-fa55-42a8-9332-695a83d8179e"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "651aa9c9-fa55-42a8-9332-695a83d8179e",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514",
+          "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "63c8ecbf-0dda-4717-be1d-99378f41094e",
+          "b866b60b-29e6-40a8-82e4-a9eae3bc95f6",
+          "cee5fc27-ee0a-4911-b29b-fa56e094e514"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "b626f127-e6d5-45e6-b099-13c861b2a68a",
+          "edd57360-c8ba-4d4a-b4a2-1f91a357cfa9",
+          "b866b60b-29e6-40a8-82e4-a9eae3bc95f6"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标岗位",
+        "value": "数据工程师"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "25-35K"
+      },
+      {
+        "turn": 4,
+        "field": "目标公司_行业",
+        "value": "Grab"
+      },
+      {
+        "turn": 9,
+        "field": "面试薄弱点",
+        "value": "分布式事务"
+      },
+      {
+        "turn": 13,
+        "field": "目标城市",
+        "value": "深圳"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_010",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "后端工程师",
+      "city": "杭州",
+      "company": "京东",
+      "company2": "滴滴",
+      "tech": "Python、PyTorch",
+      "tech_full": "Python、PyTorch、TensorFlow、CUDA",
+      "salary": "40-60K",
+      "weakness": "系统设计",
+      "stage": "简历筛选"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "89cf7973-e460-490c-80bd-e2e927b811b6",
+        "text": "用户对滴滴的后端工程师岗位感兴趣",
+        "metadata": {
+          "source": "2026-03-03.md",
+          "date": "2026-03-03",
+          "header_1": "求职目标",
+          "chunk_id": "89cf7973-e460-490c-80bd-e2e927b811b6"
+        }
+      },
+      {
+        "chunk_id": "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+        "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+        "metadata": {
+          "source": "2025-11-15.md",
+          "date": "2025-11-15",
+          "header_1": "技术背景",
+          "chunk_id": "3dea1790-59c3-4016-a81a-8a36623fcfd2"
+        }
+      },
+      {
+        "chunk_id": "4b418ac3-a8b4-4c88-a694-98e2946dfc9f",
+        "text": "用户已完成简历筛选阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-10-12.md",
+          "date": "2025-10-12",
+          "header_1": "偏好记录",
+          "chunk_id": "4b418ac3-a8b4-4c88-a694-98e2946dfc9f"
+        }
+      },
+      {
+        "chunk_id": "f62a6baf-0eff-4c53-990b-83aceaf687c8",
+        "text": "用户希望在3个月内解决系统设计薄弱点",
+        "metadata": {
+          "source": "2026-03-05.md",
+          "date": "2026-03-05",
+          "header_1": "求职目标",
+          "chunk_id": "f62a6baf-0eff-4c53-990b-83aceaf687c8"
+        }
+      },
+      {
+        "chunk_id": "6ad129b7-205b-4536-a51b-dd3fe91230be",
+        "text": "用户正在准备京东的面试，面试薄弱点是系统设计",
+        "metadata": {
+          "source": "2025-12-03.md",
+          "date": "2025-12-03",
+          "header_1": "技术背景",
+          "chunk_id": "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        }
+      },
+      {
+        "chunk_id": "580e815b-99dd-4197-bf95-44325c4507eb",
+        "text": "用户目标城市为杭州，期望薪资40-60K",
+        "metadata": {
+          "source": "2026-01-23.md",
+          "date": "2026-01-23",
+          "header_1": "面试进展",
+          "chunk_id": "580e815b-99dd-4197-bf95-44325c4507eb"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "针对京东的后端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与后端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我的技术栈是Python、PyTorch，适合投后端工程师岗位吗？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "明白了，您目前处于简历筛选阶段。接下来最重要的是针对技术面的深度准备，特别是系统设计这个薄弱点。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "帮我优化简历中的后端工程师项目经历描述"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "根据您提供的信息，京东的后端工程师岗位与您的背景有较高契合度。核心差距在于系统设计方向需要加强。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "我想了解杭州的后端工程师就业市场情况"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与后端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "针对京东的后端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与后端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "有什么好的机会吗？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是京东的后端工程师岗位，杭州，薪资40-60K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。后端工程师方向在杭州的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "我想换工作"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "就是京东的后端工程师岗位，杭州，薪资40-60K"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。后端工程师方向在杭州的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "了解一下"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "就是京东的后端工程师岗位，杭州，薪资40-60K"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "根据您提供的信息，京东的后端工程师岗位与您的背景有较高契合度。核心差距在于系统设计方向需要加强。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "帮我分析一下京东的后端工程师岗位JD，薪资40-60K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。后端工程师方向在杭州的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "我的薄弱点是系统设计，怎么在3个月内提升？"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与后端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "我想了解杭州的后端工程师就业市场情况"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。后端工程师方向在杭州的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "针对京东的后端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与后端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、PyTorch深度应用、分布式架构。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "我在简历筛选阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。后端工程师方向在杭州的需求非常旺盛，尤其是有Python、PyTorch经验的候选人。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "帮我分析一下京东的后端工程师岗位JD，薪资40-60K"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "明白了，您目前处于简历筛选阶段。接下来最重要的是针对技术面的深度准备，特别是系统设计这个薄弱点。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "看看"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "就是京东的后端工程师岗位，杭州，薪资40-60K"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "针对您的情况，京东的后端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充系统设计方向的准备。"
+      },
+      {
+        "turn": 16,
+        "role": "user",
+        "content": "我在简历筛选阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 16,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是杭州的后端工程师岗位，这与京东的招聘需求非常吻合。"
+      },
+      {
+        "turn": 17,
+        "role": "user",
+        "content": "我的薄弱点是系统设计，怎么在3个月内提升？"
+      },
+      {
+        "turn": 17,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对京东的面试流程逐一分析。"
+      }
+    ],
+    "ambiguous_turns": [
+      6,
+      7,
+      8,
+      15
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 6,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 7,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 8,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 15,
+        "type": "intent_unclear"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "针对京东的后端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 2,
+        "query": "我的技术栈是Python、PyTorch，适合投后端工程师岗位吗？"
+      },
+      {
+        "turn": 3,
+        "query": "帮我优化简历中的后端工程师项目经历描述"
+      },
+      {
+        "turn": 4,
+        "query": "我想了解杭州的后端工程师就业市场情况"
+      },
+      {
+        "turn": 5,
+        "query": "针对京东的后端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 6,
+        "query": "有什么好的机会吗？"
+      },
+      {
+        "turn": 7,
+        "query": "我想换工作"
+      },
+      {
+        "turn": 8,
+        "query": "了解一下"
+      },
+      {
+        "turn": 9,
+        "query": "帮我分析一下京东的后端工程师岗位JD，薪资40-60K"
+      },
+      {
+        "turn": 10,
+        "query": "我的薄弱点是系统设计，怎么在3个月内提升？"
+      },
+      {
+        "turn": 11,
+        "query": "我想了解杭州的后端工程师就业市场情况"
+      },
+      {
+        "turn": 12,
+        "query": "针对京东的后端工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 13,
+        "query": "我在简历筛选阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 14,
+        "query": "帮我分析一下京东的后端工程师岗位JD，薪资40-60K"
+      },
+      {
+        "turn": 15,
+        "query": "看看"
+      },
+      {
+        "turn": 16,
+        "query": "我在简历筛选阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 17,
+        "query": "我的薄弱点是系统设计，怎么在3个月内提升？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "89cf7973-e460-490c-80bd-e2e927b811b6",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be",
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f",
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8",
+          "580e815b-99dd-4197-bf95-44325c4507eb"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f",
+          "89cf7973-e460-490c-80bd-e2e927b811b6"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8",
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "89cf7973-e460-490c-80bd-e2e927b811b6",
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "580e815b-99dd-4197-bf95-44325c4507eb"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "6ad129b7-205b-4536-a51b-dd3fe91230be",
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "89cf7973-e460-490c-80bd-e2e927b811b6",
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f",
+          "89cf7973-e460-490c-80bd-e2e927b811b6",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be",
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8",
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2",
+          "4b418ac3-a8b4-4c88-a694-98e2946dfc9f",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        ]
+      },
+      {
+        "turn": 16,
+        "relevant_chunks": [
+          "89cf7973-e460-490c-80bd-e2e927b811b6",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be",
+          "3dea1790-59c3-4016-a81a-8a36623fcfd2"
+        ]
+      },
+      {
+        "turn": 17,
+        "relevant_chunks": [
+          "f62a6baf-0eff-4c53-990b-83aceaf687c8",
+          "580e815b-99dd-4197-bf95-44325c4507eb",
+          "6ad129b7-205b-4536-a51b-dd3fe91230be"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标城市",
+        "value": "杭州"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "25-35K"
+      },
+      {
+        "turn": 4,
+        "field": "薪资预期",
+        "value": "50-70K"
+      },
+      {
+        "turn": 9,
+        "field": "目标公司_行业",
+        "value": "蚂蚁集团"
+      },
+      {
+        "turn": 13,
+        "field": "目标公司_行业",
+        "value": "滴滴"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_011",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "全栈工程师",
+      "city": "武汉",
+      "company": "百度",
+      "company2": "京东",
+      "tech": "Java、Spring Boot",
+      "tech_full": "Java、Spring Boot、Kafka、Elasticsearch",
+      "salary": "35-50K",
+      "weakness": "英文面试",
+      "stage": "终面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+        "text": "用户对京东的全栈工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-12-23.md",
+          "date": "2025-12-23",
+          "header_1": "偏好记录",
+          "chunk_id": "a49fd942-cfbc-49d4-a7cf-902d9c8275ae"
+        }
+      },
+      {
+        "chunk_id": "a1380080-e72e-412f-a820-0dbb1b676731",
+        "text": "用户倾向于武汉，但也考虑远程机会",
+        "metadata": {
+          "source": "2025-11-05.md",
+          "date": "2025-11-05",
+          "header_1": "偏好记录",
+          "chunk_id": "a1380080-e72e-412f-a820-0dbb1b676731"
+        }
+      },
+      {
+        "chunk_id": "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d",
+        "text": "用户已完成终面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2025-12-26.md",
+          "date": "2025-12-26",
+          "header_1": "面试进展",
+          "chunk_id": "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d"
+        }
+      },
+      {
+        "chunk_id": "52443f97-341e-4b89-b102-72985a76768b",
+        "text": "用户目标岗位是全栈工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+        "metadata": {
+          "source": "2025-12-15.md",
+          "date": "2025-12-15",
+          "header_1": "面试进展",
+          "chunk_id": "52443f97-341e-4b89-b102-72985a76768b"
+        }
+      },
+      {
+        "chunk_id": "58ad1067-f953-4132-a299-9d5f5946c253",
+        "text": "用户希望在3个月内解决英文面试薄弱点",
+        "metadata": {
+          "source": "2026-02-06.md",
+          "date": "2026-02-06",
+          "header_1": "求职目标",
+          "chunk_id": "58ad1067-f953-4132-a299-9d5f5946c253"
+        }
+      },
+      {
+        "chunk_id": "9c08193a-b1b1-44f4-920c-fb879f273647",
+        "text": "用户正在准备百度的面试，面试薄弱点是英文面试",
+        "metadata": {
+          "source": "2026-01-02.md",
+          "date": "2026-01-02",
+          "header_1": "技术背景",
+          "chunk_id": "9c08193a-b1b1-44f4-920c-fb879f273647"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。全栈工程师方向在武汉的需求非常旺盛，尤其是有Java、Spring Boot经验的候选人。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "帮我推荐几个岗位"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "就是百度的全栈工程师岗位，武汉，薪资35-50K"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的全栈工程师候选人在武汉的薪资区间通常在35-50K，您的期望是合理的。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "帮我制定一份全栈工程师的面试备考计划"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "针对百度的全栈工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "根据您提供的信息，百度的全栈工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是百度的全栈工程师岗位，武汉，薪资35-50K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "针对您的情况，百度的全栈工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充英文面试方向的准备。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "帮我分析一下百度的全栈工程师岗位JD，薪资35-50K"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的全栈工程师候选人在武汉的薪资区间通常在35-50K，您的期望是合理的。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "我的技术栈是Java、Spring Boot，适合投全栈工程师岗位吗？"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "就是百度的全栈工程师岗位，武汉，薪资35-50K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "搜索一下百度最近的面试经验分享"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的全栈工程师候选人在武汉的薪资区间通常在35-50K，您的期望是合理的。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "给我推荐岗位，另外也帮我准备一下面试"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是百度的全栈工程师岗位，武汉，薪资35-50K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的全栈工程师候选人在武汉的薪资区间通常在35-50K，您的期望是合理的。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我优化简历中的全栈工程师项目经历描述"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的全栈工程师岗位，这与百度的招聘需求非常吻合。"
+      }
+    ],
+    "ambiguous_turns": [
+      2,
+      6,
+      9,
+      12
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 2,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 6,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 9,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 12,
+        "type": "intent_mixed"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "武汉的全栈工程师平均薪资是多少？"
+      },
+      {
+        "turn": 2,
+        "query": "帮我推荐几个岗位"
+      },
+      {
+        "turn": 3,
+        "query": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 4,
+        "query": "帮我制定一份全栈工程师的面试备考计划"
+      },
+      {
+        "turn": 5,
+        "query": "针对百度的全栈工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 6,
+        "query": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 7,
+        "query": "帮我分析一下百度的全栈工程师岗位JD，薪资35-50K"
+      },
+      {
+        "turn": 8,
+        "query": "我的技术栈是Java、Spring Boot，适合投全栈工程师岗位吗？"
+      },
+      {
+        "turn": 9,
+        "query": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 10,
+        "query": "分析一下我当前技术栈Java、Spring Boot的市场竞争力"
+      },
+      {
+        "turn": 11,
+        "query": "搜索一下百度最近的面试经验分享"
+      },
+      {
+        "turn": 12,
+        "query": "给我推荐岗位，另外也帮我准备一下面试"
+      },
+      {
+        "turn": 13,
+        "query": "帮我优化简历中的全栈工程师项目经历描述"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "a1380080-e72e-412f-a820-0dbb1b676731",
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "52443f97-341e-4b89-b102-72985a76768b"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "a1380080-e72e-412f-a820-0dbb1b676731",
+          "9c08193a-b1b1-44f4-920c-fb879f273647",
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "a1380080-e72e-412f-a820-0dbb1b676731",
+          "52443f97-341e-4b89-b102-72985a76768b"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+          "9c08193a-b1b1-44f4-920c-fb879f273647",
+          "58ad1067-f953-4132-a299-9d5f5946c253"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "52443f97-341e-4b89-b102-72985a76768b"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "a1380080-e72e-412f-a820-0dbb1b676731",
+          "9c08193a-b1b1-44f4-920c-fb879f273647"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d",
+          "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+          "58ad1067-f953-4132-a299-9d5f5946c253"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "a49fd942-cfbc-49d4-a7cf-902d9c8275ae",
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "a1380080-e72e-412f-a820-0dbb1b676731",
+          "9c08193a-b1b1-44f4-920c-fb879f273647",
+          "52443f97-341e-4b89-b102-72985a76768b"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "a1380080-e72e-412f-a820-0dbb1b676731",
+          "58ad1067-f953-4132-a299-9d5f5946c253",
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "52443f97-341e-4b89-b102-72985a76768b",
+          "b51cd3c6-6f68-44a1-a464-b4dd1fd0019d",
+          "58ad1067-f953-4132-a299-9d5f5946c253"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标城市",
+        "value": "深圳"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "40-60K"
+      },
+      {
+        "turn": 4,
+        "field": "面试薄弱点",
+        "value": "算法与数据结构"
+      },
+      {
+        "turn": 9,
+        "field": "目标城市",
+        "value": "广州"
+      },
+      {
+        "turn": 13,
+        "field": "薪资预期",
+        "value": "30-45K"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_012",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "推荐系统工程师",
+      "city": "北京",
+      "company": "Shopee",
+      "company2": "PingCAP",
+      "tech": "Python、Spark",
+      "tech_full": "Python、Spark、Flink、Hive、数据仓库",
+      "salary": "30-45K",
+      "weakness": "数据库调优",
+      "stage": "一面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "acecafe6-ee3d-4896-b821-14d65fb724a5",
+        "text": "用户对PingCAP的推荐系统工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-12-30.md",
+          "date": "2025-12-30",
+          "header_1": "求职目标",
+          "chunk_id": "acecafe6-ee3d-4896-b821-14d65fb724a5"
+        }
+      },
+      {
+        "chunk_id": "1d93fc99-9f59-468b-b45a-6360f9ebe04c",
+        "text": "用户倾向于北京，但也考虑远程机会",
+        "metadata": {
+          "source": "2026-01-23.md",
+          "date": "2026-01-23",
+          "header_1": "面试进展",
+          "chunk_id": "1d93fc99-9f59-468b-b45a-6360f9ebe04c"
+        }
+      },
+      {
+        "chunk_id": "ca5a51aa-2619-4444-a88e-55e1d18abad4",
+        "text": "用户已完成一面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2026-01-02.md",
+          "date": "2026-01-02",
+          "header_1": "技术背景",
+          "chunk_id": "ca5a51aa-2619-4444-a88e-55e1d18abad4"
+        }
+      },
+      {
+        "chunk_id": "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998",
+        "text": "用户目标岗位是推荐系统工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+        "metadata": {
+          "source": "2025-10-13.md",
+          "date": "2025-10-13",
+          "header_1": "求职目标",
+          "chunk_id": "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998"
+        }
+      },
+      {
+        "chunk_id": "4d8948bf-cb97-4438-8497-ea79dee75721",
+        "text": "用户希望在3个月内解决数据库调优薄弱点",
+        "metadata": {
+          "source": "2025-10-04.md",
+          "date": "2025-10-04",
+          "header_1": "面试进展",
+          "chunk_id": "4d8948bf-cb97-4438-8497-ea79dee75721"
+        }
+      },
+      {
+        "chunk_id": "d48d6e05-68f1-4de6-9d1b-04329cd9f530",
+        "text": "用户技术栈Python、Spark在市场上竞争力较强",
+        "metadata": {
+          "source": "2025-11-30.md",
+          "date": "2025-11-30",
+          "header_1": "求职目标",
+          "chunk_id": "d48d6e05-68f1-4de6-9d1b-04329cd9f530"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我想了解北京的推荐系统工程师就业市场情况"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "根据您提供的信息，Shopee的推荐系统工程师岗位与您的背景有较高契合度。核心差距在于数据库调优方向需要加强。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "就是Shopee的推荐系统工程师岗位，北京，薪资30-45K"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、Spark深度应用、分布式架构。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "我的技术栈是Python、Spark，适合投推荐系统工程师岗位吗？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对Shopee的面试流程逐一分析。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "就是Shopee的推荐系统工程师岗位，北京，薪资30-45K"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、Spark深度应用、分布式架构。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我想找个新工作"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "就是Shopee的推荐系统工程师岗位，北京，薪资30-45K"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "根据您提供的信息，Shopee的推荐系统工程师岗位与您的背景有较高契合度。核心差距在于数据库调优方向需要加强。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是北京的推荐系统工程师岗位，这与Shopee的招聘需求非常吻合。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "帮我分析一下Shopee的推荐系统工程师岗位JD，薪资30-45K"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、Spark深度应用、分布式架构。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "对比一下Shopee和PingCAP的推荐系统工程师岗位"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对Shopee的面试流程逐一分析。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "帮我分析一下Shopee的推荐系统工程师岗位JD，薪资30-45K"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "你觉得那家公司如何？"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "就是Shopee的推荐系统工程师岗位，北京，薪资30-45K"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。推荐系统工程师方向在北京的需求非常旺盛，尤其是有Python、Spark经验的候选人。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "我想了解北京的推荐系统工程师就业市场情况"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对Shopee的面试流程逐一分析。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我优化简历中的推荐系统工程师项目经历描述"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与推荐系统工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、Spark深度应用、分布式架构。"
+      }
+    ],
+    "ambiguous_turns": [
+      3,
+      5,
+      6,
+      11
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 3,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 5,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 6,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 11,
+        "type": "reference_unclear"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 2,
+        "query": "我想了解北京的推荐系统工程师就业市场情况"
+      },
+      {
+        "turn": 3,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 4,
+        "query": "我的技术栈是Python、Spark，适合投推荐系统工程师岗位吗？"
+      },
+      {
+        "turn": 5,
+        "query": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 6,
+        "query": "我想找个新工作"
+      },
+      {
+        "turn": 7,
+        "query": "我的薄弱点是数据库调优，怎么在3个月内提升？"
+      },
+      {
+        "turn": 8,
+        "query": "帮我分析一下Shopee的推荐系统工程师岗位JD，薪资30-45K"
+      },
+      {
+        "turn": 9,
+        "query": "对比一下Shopee和PingCAP的推荐系统工程师岗位"
+      },
+      {
+        "turn": 10,
+        "query": "帮我分析一下Shopee的推荐系统工程师岗位JD，薪资30-45K"
+      },
+      {
+        "turn": 11,
+        "query": "你觉得那家公司如何？"
+      },
+      {
+        "turn": 12,
+        "query": "我想了解北京的推荐系统工程师就业市场情况"
+      },
+      {
+        "turn": 13,
+        "query": "帮我优化简历中的推荐系统工程师项目经历描述"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4",
+          "4d8948bf-cb97-4438-8497-ea79dee75721",
+          "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "4d8948bf-cb97-4438-8497-ea79dee75721",
+          "1d93fc99-9f59-468b-b45a-6360f9ebe04c",
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "acecafe6-ee3d-4896-b821-14d65fb724a5",
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4",
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "acecafe6-ee3d-4896-b821-14d65fb724a5",
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530",
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "4d8948bf-cb97-4438-8497-ea79dee75721",
+          "acecafe6-ee3d-4896-b821-14d65fb724a5",
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530",
+          "acecafe6-ee3d-4896-b821-14d65fb724a5",
+          "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "4d8948bf-cb97-4438-8497-ea79dee75721",
+          "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998",
+          "1d93fc99-9f59-468b-b45a-6360f9ebe04c"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4",
+          "1d93fc99-9f59-468b-b45a-6360f9ebe04c",
+          "4d8948bf-cb97-4438-8497-ea79dee75721"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530",
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4",
+          "4d8948bf-cb97-4438-8497-ea79dee75721"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "4d8948bf-cb97-4438-8497-ea79dee75721",
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530",
+          "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "ca5a51aa-2619-4444-a88e-55e1d18abad4",
+          "acecafe6-ee3d-4896-b821-14d65fb724a5",
+          "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "d48d6e05-68f1-4de6-9d1b-04329cd9f530",
+          "4d8948bf-cb97-4438-8497-ea79dee75721",
+          "5ff8863c-b4a1-4b61-a8a6-b06fc4bb2998"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "acecafe6-ee3d-4896-b821-14d65fb724a5",
+          "1d93fc99-9f59-468b-b45a-6360f9ebe04c",
+          "4d8948bf-cb97-4438-8497-ea79dee75721"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标公司_行业",
+        "value": "腾讯"
+      },
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "网络编程"
+      },
+      {
+        "turn": 4,
+        "field": "薪资预期",
+        "value": "60-80K"
+      },
+      {
+        "turn": 9,
+        "field": "薪资预期",
+        "value": "25-35K"
+      },
+      {
+        "turn": 13,
+        "field": "目标岗位",
+        "value": "前端工程师"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_013",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "测试工程师",
+      "city": "西安",
+      "company": "百度",
+      "company2": "PingCAP",
+      "tech": "Java、Spring Boot",
+      "tech_full": "Java、Spring Boot、Kafka、Elasticsearch",
+      "salary": "80-120K",
+      "weakness": "英文面试",
+      "stage": "一面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "751da63f-05f9-441a-9854-2ef43f0a3245",
+        "text": "用户目标城市为西安，期望薪资80-120K",
+        "metadata": {
+          "source": "2025-12-17.md",
+          "date": "2025-12-17",
+          "header_1": "面试进展",
+          "chunk_id": "751da63f-05f9-441a-9854-2ef43f0a3245"
+        }
+      },
+      {
+        "chunk_id": "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe",
+        "text": "用户倾向于西安，但也考虑远程机会",
+        "metadata": {
+          "source": "2026-02-05.md",
+          "date": "2026-02-05",
+          "header_1": "偏好记录",
+          "chunk_id": "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe"
+        }
+      },
+      {
+        "chunk_id": "075032ba-31d9-4e04-a667-3815df4de653",
+        "text": "用户已完成一面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2026-03-13.md",
+          "date": "2026-03-13",
+          "header_1": "面试进展",
+          "chunk_id": "075032ba-31d9-4e04-a667-3815df4de653"
+        }
+      },
+      {
+        "chunk_id": "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+        "text": "用户对PingCAP的测试工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-12-02.md",
+          "date": "2025-12-02",
+          "header_1": "偏好记录",
+          "chunk_id": "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82"
+        }
+      },
+      {
+        "chunk_id": "6492697c-1606-4b76-95d2-04f72f524f04",
+        "text": "用户希望在3个月内解决英文面试薄弱点",
+        "metadata": {
+          "source": "2026-01-16.md",
+          "date": "2026-01-16",
+          "header_1": "技术背景",
+          "chunk_id": "6492697c-1606-4b76-95d2-04f72f524f04"
+        }
+      },
+      {
+        "chunk_id": "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9",
+        "text": "用户技术栈Java、Spring Boot在市场上竞争力较强",
+        "metadata": {
+          "source": "2026-01-15.md",
+          "date": "2026-01-15",
+          "header_1": "求职目标",
+          "chunk_id": "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "对比一下百度和PingCAP的测试工程师岗位"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "西安的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是西安的测试工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "你觉得那家公司如何？"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，西安，薪资80-120K"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "针对您的情况，百度的测试工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充英文面试方向的准备。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我的技术栈是Java、Spring Boot，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与测试工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Java、Spring Boot深度应用、分布式架构。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "西安的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的测试工程师候选人在西安的薪资区间通常在80-120K，您的期望是合理的。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "帮我分析一下百度的测试工程师岗位JD，薪资80-120K"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "针对百度的测试工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与测试工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Java、Spring Boot深度应用、分布式架构。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "我的技术栈是Java、Spring Boot，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "帮我制定一份测试工程师的面试备考计划"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "根据您提供的信息，百度的测试工程师岗位与您的背景有较高契合度。核心差距在于英文面试方向需要加强。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "有什么好的机会吗？"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，西安，薪资80-120K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是西安的测试工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我改一下简历，顺便推荐几个合适的岗位"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，西安，薪资80-120K"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "明白了，您目前处于一面阶段。接下来最重要的是针对技术面的深度准备，特别是英文面试这个薄弱点。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "看看"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，西安，薪资80-120K"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Java、Spring Boot技能的测试工程师候选人在西安的薪资区间通常在80-120K，您的期望是合理的。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "搜索一下百度最近的面试经验分享"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      },
+      {
+        "turn": 16,
+        "role": "user",
+        "content": "针对百度的测试工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 16,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      }
+    ],
+    "ambiguous_turns": [
+      4,
+      12,
+      13,
+      14
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 4,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 12,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 13,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 14,
+        "type": "intent_unclear"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "对比一下百度和PingCAP的测试工程师岗位"
+      },
+      {
+        "turn": 2,
+        "query": "我在一面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 3,
+        "query": "西安的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 4,
+        "query": "你觉得那家公司如何？"
+      },
+      {
+        "turn": 5,
+        "query": "我的薄弱点是英文面试，怎么在3个月内提升？"
+      },
+      {
+        "turn": 6,
+        "query": "我的技术栈是Java、Spring Boot，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 7,
+        "query": "西安的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 8,
+        "query": "帮我分析一下百度的测试工程师岗位JD，薪资80-120K"
+      },
+      {
+        "turn": 9,
+        "query": "针对百度的测试工程师面试，我该如何准备？"
+      },
+      {
+        "turn": 10,
+        "query": "我的技术栈是Java、Spring Boot，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 11,
+        "query": "帮我制定一份测试工程师的面试备考计划"
+      },
+      {
+        "turn": 12,
+        "query": "有什么好的机会吗？"
+      },
+      {
+        "turn": 13,
+        "query": "帮我改一下简历，顺便推荐几个合适的岗位"
+      },
+      {
+        "turn": 14,
+        "query": "看看"
+      },
+      {
+        "turn": 15,
+        "query": "搜索一下百度最近的面试经验分享"
+      },
+      {
+        "turn": 16,
+        "query": "针对百度的测试工程师面试，我该如何准备？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "6492697c-1606-4b76-95d2-04f72f524f04",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe",
+          "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9",
+          "751da63f-05f9-441a-9854-2ef43f0a3245"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe",
+          "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9",
+          "075032ba-31d9-4e04-a667-3815df4de653"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "6492697c-1606-4b76-95d2-04f72f524f04"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "075032ba-31d9-4e04-a667-3815df4de653",
+          "6492697c-1606-4b76-95d2-04f72f524f04",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "6492697c-1606-4b76-95d2-04f72f524f04",
+          "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "075032ba-31d9-4e04-a667-3815df4de653",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "6492697c-1606-4b76-95d2-04f72f524f04"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe",
+          "075032ba-31d9-4e04-a667-3815df4de653"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "6492697c-1606-4b76-95d2-04f72f524f04",
+          "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "075032ba-31d9-4e04-a667-3815df4de653",
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe",
+          "751da63f-05f9-441a-9854-2ef43f0a3245"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "075032ba-31d9-4e04-a667-3815df4de653",
+          "6492697c-1606-4b76-95d2-04f72f524f04"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "751da63f-05f9-441a-9854-2ef43f0a3245",
+          "ecf6d5ec-ac42-4387-8ae5-72aca618e9fe"
+        ]
+      },
+      {
+        "turn": 16,
+        "relevant_chunks": [
+          "81ca9505-1f1b-4eaa-aec9-5c0e6e2fcbf9",
+          "2d66bd39-2c72-4735-8ae0-5ce06fbc3b82",
+          "075032ba-31d9-4e04-a667-3815df4de653"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "数据库调优"
+      },
+      {
+        "turn": 1,
+        "field": "薪资预期",
+        "value": "20-30K"
+      },
+      {
+        "turn": 4,
+        "field": "目标公司_行业",
+        "value": "阿里巴巴"
+      },
+      {
+        "turn": 9,
+        "field": "目标岗位",
+        "value": "机器学习工程师"
+      },
+      {
+        "turn": 13,
+        "field": "目标公司_行业",
+        "value": "Grab"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_014",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "前端工程师",
+      "city": "深圳",
+      "company": "网易",
+      "company2": "华为",
+      "tech": "Python、Spark",
+      "tech_full": "Python、Spark、Flink、Hive、数据仓库",
+      "salary": "80-120K",
+      "weakness": "分布式事务",
+      "stage": "终面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "c185969c-ce00-46d7-9275-f85b33dc3a3a",
+        "text": "用户技术栈Python、Spark在市场上竞争力较强",
+        "metadata": {
+          "source": "2025-11-13.md",
+          "date": "2025-11-13",
+          "header_1": "技术背景",
+          "chunk_id": "c185969c-ce00-46d7-9275-f85b33dc3a3a"
+        }
+      },
+      {
+        "chunk_id": "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+        "text": "用户倾向于深圳，但也考虑远程机会",
+        "metadata": {
+          "source": "2026-03-08.md",
+          "date": "2026-03-08",
+          "header_1": "面试进展",
+          "chunk_id": "4395977e-dc81-4975-8f9e-335c6d8c93b3"
+        }
+      },
+      {
+        "chunk_id": "0f41b21c-77cc-41cb-b001-23ac4fea5e8f",
+        "text": "用户对华为的前端工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-11-15.md",
+          "date": "2025-11-15",
+          "header_1": "偏好记录",
+          "chunk_id": "0f41b21c-77cc-41cb-b001-23ac4fea5e8f"
+        }
+      },
+      {
+        "chunk_id": "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+        "text": "用户已完成终面阶段，正在准备下一轮",
+        "metadata": {
+          "source": "2026-02-18.md",
+          "date": "2026-02-18",
+          "header_1": "求职目标",
+          "chunk_id": "d57ae773-11cc-4b87-a62b-1d4594c369b1"
+        }
+      },
+      {
+        "chunk_id": "9f3915c1-a953-41e1-ad45-7809eccec921",
+        "text": "用户正在准备网易的面试，面试薄弱点是分布式事务",
+        "metadata": {
+          "source": "2026-02-08.md",
+          "date": "2026-02-08",
+          "header_1": "技术背景",
+          "chunk_id": "9f3915c1-a953-41e1-ad45-7809eccec921"
+        }
+      },
+      {
+        "chunk_id": "b58254f6-9c97-4b86-8d86-b7d6ffc02a25",
+        "text": "用户目标岗位是前端工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+        "metadata": {
+          "source": "2026-02-01.md",
+          "date": "2026-02-01",
+          "header_1": "求职目标",
+          "chunk_id": "b58254f6-9c97-4b86-8d86-b7d6ffc02a25"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "我想了解深圳的前端工程师就业市场情况"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。前端工程师方向在深圳的需求非常旺盛，尤其是有Python、Spark经验的候选人。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我需要修改简历，还想了解一下目标公司背景"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "就是网易的前端工程师岗位，深圳，薪资80-120K"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "根据您提供的信息，网易的前端工程师岗位与您的背景有较高契合度。核心差距在于分布式事务方向需要加强。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "我的技术栈是Python、Spark，适合投前端工程师岗位吗？"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是深圳的前端工程师岗位，这与网易的招聘需求非常吻合。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "帮我分析一下网易的前端工程师岗位JD，薪资80-120K"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是分布式事务这个薄弱点。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "为了精准推荐，请告诉我：目标岗位、目标城市和期望薪资。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "就是网易的前端工程师岗位，深圳，薪资80-120K"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "针对您的情况，网易的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充分布式事务方向的准备。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我的薄弱点是分布式事务，怎么在3个月内提升？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。前端工程师方向在深圳的需求非常旺盛，尤其是有Python、Spark经验的候选人。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "帮我制定一份前端工程师的面试备考计划"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。前端工程师方向在深圳的需求非常旺盛，尤其是有Python、Spark经验的候选人。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "分析一下我当前技术栈Python、Spark的市场竞争力"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对网易的面试流程逐一分析。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "帮我了解一下吧"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "就是网易的前端工程师岗位，深圳，薪资80-120K"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对网易的面试流程逐一分析。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "帮我制定一份前端工程师的面试备考计划"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "明白了，您目前处于终面阶段。接下来最重要的是针对技术面的深度准备，特别是分布式事务这个薄弱点。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "深圳的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Python、Spark技能的前端工程师候选人在深圳的薪资区间通常在80-120K，您的期望是合理的。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "搜索一下网易最近的面试经验分享"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与前端工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、Python、Spark深度应用、分布式架构。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "帮我优化简历，再搜索一下字节跳动的面试题"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "就是网易的前端工程师岗位，深圳，薪资80-120K"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Python、Spark技能的前端工程师候选人在深圳的薪资区间通常在80-120K，您的期望是合理的。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "深圳的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "针对您的情况，网易的前端工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充分布式事务方向的准备。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "我的薄弱点是分布式事务，怎么在3个月内提升？"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "从市场角度看，拥有Python、Spark技能的前端工程师候选人在深圳的薪资区间通常在80-120K，您的期望是合理的。"
+      }
+    ],
+    "ambiguous_turns": [
+      2,
+      5,
+      9,
+      13
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 2,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 5,
+        "type": "constraint_missing"
+      },
+      {
+        "turn": 9,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 13,
+        "type": "intent_mixed"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "我想了解深圳的前端工程师就业市场情况"
+      },
+      {
+        "turn": 2,
+        "query": "我需要修改简历，还想了解一下目标公司背景"
+      },
+      {
+        "turn": 3,
+        "query": "我的技术栈是Python、Spark，适合投前端工程师岗位吗？"
+      },
+      {
+        "turn": 4,
+        "query": "帮我分析一下网易的前端工程师岗位JD，薪资80-120K"
+      },
+      {
+        "turn": 5,
+        "query": "帮我搜索一下岗位"
+      },
+      {
+        "turn": 6,
+        "query": "我的薄弱点是分布式事务，怎么在3个月内提升？"
+      },
+      {
+        "turn": 7,
+        "query": "帮我制定一份前端工程师的面试备考计划"
+      },
+      {
+        "turn": 8,
+        "query": "分析一下我当前技术栈Python、Spark的市场竞争力"
+      },
+      {
+        "turn": 9,
+        "query": "帮我了解一下吧"
+      },
+      {
+        "turn": 10,
+        "query": "帮我制定一份前端工程师的面试备考计划"
+      },
+      {
+        "turn": 11,
+        "query": "深圳的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 12,
+        "query": "搜索一下网易最近的面试经验分享"
+      },
+      {
+        "turn": 13,
+        "query": "帮我优化简历，再搜索一下字节跳动的面试题"
+      },
+      {
+        "turn": 14,
+        "query": "深圳的前端工程师平均薪资是多少？"
+      },
+      {
+        "turn": 15,
+        "query": "我的薄弱点是分布式事务，怎么在3个月内提升？"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f",
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f",
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a",
+          "b58254f6-9c97-4b86-8d86-b7d6ffc02a25"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a",
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "9f3915c1-a953-41e1-ad45-7809eccec921"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f",
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "9f3915c1-a953-41e1-ad45-7809eccec921"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f",
+          "9f3915c1-a953-41e1-ad45-7809eccec921"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+          "b58254f6-9c97-4b86-8d86-b7d6ffc02a25",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "9f3915c1-a953-41e1-ad45-7809eccec921",
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a",
+          "b58254f6-9c97-4b86-8d86-b7d6ffc02a25"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "9f3915c1-a953-41e1-ad45-7809eccec921",
+          "b58254f6-9c97-4b86-8d86-b7d6ffc02a25",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1",
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a",
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "0f41b21c-77cc-41cb-b001-23ac4fea5e8f",
+          "b58254f6-9c97-4b86-8d86-b7d6ffc02a25",
+          "9f3915c1-a953-41e1-ad45-7809eccec921"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a",
+          "9f3915c1-a953-41e1-ad45-7809eccec921",
+          "d57ae773-11cc-4b87-a62b-1d4594c369b1"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "b58254f6-9c97-4b86-8d86-b7d6ffc02a25",
+          "4395977e-dc81-4975-8f9e-335c6d8c93b3",
+          "c185969c-ce00-46d7-9275-f85b33dc3a3a"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "英文面试"
+      },
+      {
+        "turn": 1,
+        "field": "目标公司_行业",
+        "value": "Grab"
+      },
+      {
+        "turn": 4,
+        "field": "薪资预期",
+        "value": "35-50K"
+      },
+      {
+        "turn": 9,
+        "field": "面试薄弱点",
+        "value": "行为面试"
+      },
+      {
+        "turn": 13,
+        "field": "薪资预期",
+        "value": "30-45K"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_B_015",
+    "type": "B",
+    "description": "含模糊输入对话，用于澄清门控机制评估",
+    "context": {
+      "position": "测试工程师",
+      "city": "武汉",
+      "company": "百度",
+      "company2": "京东",
+      "tech": "JavaScript、React",
+      "tech_full": "JavaScript、React、Node.js、MongoDB",
+      "salary": "20-30K",
+      "weakness": "数据库调优",
+      "stage": "HR面"
+    },
+    "memory_chunks": [
+      {
+        "chunk_id": "2bfff8a5-3362-4539-a6d1-dad061e57805",
+        "text": "用户对京东的测试工程师岗位感兴趣",
+        "metadata": {
+          "source": "2025-12-23.md",
+          "date": "2025-12-23",
+          "header_1": "面试进展",
+          "chunk_id": "2bfff8a5-3362-4539-a6d1-dad061e57805"
+        }
+      },
+      {
+        "chunk_id": "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+        "text": "用户正在准备百度的面试，面试薄弱点是数据库调优",
+        "metadata": {
+          "source": "2026-02-09.md",
+          "date": "2026-02-09",
+          "header_1": "技术背景",
+          "chunk_id": "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9"
+        }
+      },
+      {
+        "chunk_id": "2914ea35-17c8-4910-a10f-8f4d3ca62f22",
+        "text": "用户倾向于武汉，但也考虑远程机会",
+        "metadata": {
+          "source": "2026-01-08.md",
+          "date": "2026-01-08",
+          "header_1": "求职目标",
+          "chunk_id": "2914ea35-17c8-4910-a10f-8f4d3ca62f22"
+        }
+      },
+      {
+        "chunk_id": "bb91e7a4-2f98-49c0-a490-d096923cf561",
+        "text": "用户目标城市为武汉，期望薪资20-30K",
+        "metadata": {
+          "source": "2025-11-24.md",
+          "date": "2025-11-24",
+          "header_1": "技术背景",
+          "chunk_id": "bb91e7a4-2f98-49c0-a490-d096923cf561"
+        }
+      },
+      {
+        "chunk_id": "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f",
+        "text": "用户希望在3个月内解决数据库调优薄弱点",
+        "metadata": {
+          "source": "2026-01-17.md",
+          "date": "2026-01-17",
+          "header_1": "技术背景",
+          "chunk_id": "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f"
+        }
+      },
+      {
+        "chunk_id": "3368acb5-18a6-44bf-9f1b-84dad928875f",
+        "text": "用户技术栈JavaScript、React在市场上竞争力较强",
+        "metadata": {
+          "source": "2025-10-01.md",
+          "date": "2025-10-01",
+          "header_1": "面试进展",
+          "chunk_id": "3368acb5-18a6-44bf-9f1b-84dad928875f"
+        }
+      }
+    ],
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 1,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与测试工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 2,
+        "role": "user",
+        "content": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "针对您的情况，百度的测试工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "帮我看看这份材料"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "你提到的内容具体指的是什么？请描述一下。"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，武汉，薪资20-30K"
+      },
+      {
+        "turn": 3,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 4,
+        "role": "user",
+        "content": "帮我优化简历中的测试工程师项目经历描述"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的测试工程师候选人在武汉的薪资区间通常在20-30K，您的期望是合理的。"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，武汉，薪资20-30K"
+      },
+      {
+        "turn": 5,
+        "role": "assistant",
+        "content": "了解了，您目前的技术背景与测试工程师岗位匹配度较高。建议重点准备以下几个方向：系统设计、JavaScript、React深度应用、分布式架构。"
+      },
+      {
+        "turn": 6,
+        "role": "user",
+        "content": "我的技术栈是JavaScript、React，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。测试工程师方向在武汉的需求非常旺盛，尤其是有JavaScript、React经验的候选人。"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "说说？"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "你希望我帮你做什么？A.分析JD B.修改简历 C.搜索面试题"
+      },
+      {
+        "turn": 7,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，武汉，薪资20-30K"
+      },
+      {
+        "turn": 7,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的测试工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 8,
+        "role": "user",
+        "content": "我想了解武汉的测试工程师就业市场情况"
+      },
+      {
+        "turn": 8,
+        "role": "assistant",
+        "content": "根据我的记忆，您之前提到目标是武汉的测试工程师岗位，这与百度的招聘需求非常吻合。"
+      },
+      {
+        "turn": 9,
+        "role": "user",
+        "content": "对比一下百度和京东的测试工程师岗位"
+      },
+      {
+        "turn": 9,
+        "role": "assistant",
+        "content": "明白了，您目前处于HR面阶段。接下来最重要的是针对技术面的深度准备，特别是数据库调优这个薄弱点。"
+      },
+      {
+        "turn": 10,
+        "role": "user",
+        "content": "分析一下我当前技术栈JavaScript、React的市场竞争力"
+      },
+      {
+        "turn": 10,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的测试工程师候选人在武汉的薪资区间通常在20-30K，您的期望是合理的。"
+      },
+      {
+        "turn": 11,
+        "role": "user",
+        "content": "帮我分析一下百度的测试工程师岗位JD，薪资20-30K"
+      },
+      {
+        "turn": 11,
+        "role": "assistant",
+        "content": "好的，根据您的情况，我来为您详细分析。测试工程师方向在武汉的需求非常旺盛，尤其是有JavaScript、React经验的候选人。"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "帮我优化简历，再搜索一下字节跳动的面试题"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "你提到了多个需求，本次你最想先处理哪一个？"
+      },
+      {
+        "turn": 12,
+        "role": "user",
+        "content": "就是百度的测试工程师岗位，武汉，薪资20-30K"
+      },
+      {
+        "turn": 12,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      },
+      {
+        "turn": 13,
+        "role": "user",
+        "content": "武汉的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 13,
+        "role": "assistant",
+        "content": "好的，我已经记录了您的求职偏好。接下来我们针对百度的面试流程逐一分析。"
+      },
+      {
+        "turn": 14,
+        "role": "user",
+        "content": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 14,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的测试工程师候选人在武汉的薪资区间通常在20-30K，您的期望是合理的。"
+      },
+      {
+        "turn": 15,
+        "role": "user",
+        "content": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 15,
+        "role": "assistant",
+        "content": "从市场角度看，拥有JavaScript、React技能的测试工程师候选人在武汉的薪资区间通常在20-30K，您的期望是合理的。"
+      },
+      {
+        "turn": 16,
+        "role": "user",
+        "content": "帮我分析一下百度的测试工程师岗位JD，薪资20-30K"
+      },
+      {
+        "turn": 16,
+        "role": "assistant",
+        "content": "针对您的情况，百度的测试工程师岗位有几点需要特别注意：技术深度要求较高，建议重点补充数据库调优方向的准备。"
+      }
+    ],
+    "ambiguous_turns": [
+      3,
+      5,
+      7,
+      12
+    ],
+    "ambiguity_types": [
+      {
+        "turn": 3,
+        "type": "reference_unclear"
+      },
+      {
+        "turn": 5,
+        "type": "intent_mixed"
+      },
+      {
+        "turn": 7,
+        "type": "intent_unclear"
+      },
+      {
+        "turn": 12,
+        "type": "intent_mixed"
+      }
+    ],
+    "retrieval_queries": [
+      {
+        "turn": 1,
+        "query": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 2,
+        "query": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 3,
+        "query": "帮我看看这份材料"
+      },
+      {
+        "turn": 4,
+        "query": "帮我优化简历中的测试工程师项目经历描述"
+      },
+      {
+        "turn": 5,
+        "query": "我想准备面试，同时也想找找新岗位"
+      },
+      {
+        "turn": 6,
+        "query": "我的技术栈是JavaScript、React，适合投测试工程师岗位吗？"
+      },
+      {
+        "turn": 7,
+        "query": "说说？"
+      },
+      {
+        "turn": 8,
+        "query": "我想了解武汉的测试工程师就业市场情况"
+      },
+      {
+        "turn": 9,
+        "query": "对比一下百度和京东的测试工程师岗位"
+      },
+      {
+        "turn": 10,
+        "query": "分析一下我当前技术栈JavaScript、React的市场竞争力"
+      },
+      {
+        "turn": 11,
+        "query": "帮我分析一下百度的测试工程师岗位JD，薪资20-30K"
+      },
+      {
+        "turn": 12,
+        "query": "帮我优化简历，再搜索一下字节跳动的面试题"
+      },
+      {
+        "turn": 13,
+        "query": "武汉的测试工程师平均薪资是多少？"
+      },
+      {
+        "turn": 14,
+        "query": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 15,
+        "query": "我在HR面阶段，下一步应该怎么准备？"
+      },
+      {
+        "turn": 16,
+        "query": "帮我分析一下百度的测试工程师岗位JD，薪资20-30K"
+      }
+    ],
+    "relevant_chunks": [
+      {
+        "turn": 1,
+        "relevant_chunks": [
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f"
+        ]
+      },
+      {
+        "turn": 2,
+        "relevant_chunks": [
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f",
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "bb91e7a4-2f98-49c0-a490-d096923cf561"
+        ]
+      },
+      {
+        "turn": 3,
+        "relevant_chunks": [
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f"
+        ]
+      },
+      {
+        "turn": 4,
+        "relevant_chunks": [
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f",
+          "3368acb5-18a6-44bf-9f1b-84dad928875f"
+        ]
+      },
+      {
+        "turn": 5,
+        "relevant_chunks": [
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "2914ea35-17c8-4910-a10f-8f4d3ca62f22",
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9"
+        ]
+      },
+      {
+        "turn": 6,
+        "relevant_chunks": [
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "2914ea35-17c8-4910-a10f-8f4d3ca62f22"
+        ]
+      },
+      {
+        "turn": 7,
+        "relevant_chunks": [
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f",
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "bb91e7a4-2f98-49c0-a490-d096923cf561"
+        ]
+      },
+      {
+        "turn": 8,
+        "relevant_chunks": [
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f",
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "3368acb5-18a6-44bf-9f1b-84dad928875f"
+        ]
+      },
+      {
+        "turn": 9,
+        "relevant_chunks": [
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "3368acb5-18a6-44bf-9f1b-84dad928875f",
+          "2bfff8a5-3362-4539-a6d1-dad061e57805"
+        ]
+      },
+      {
+        "turn": 10,
+        "relevant_chunks": [
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "2914ea35-17c8-4910-a10f-8f4d3ca62f22",
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9"
+        ]
+      },
+      {
+        "turn": 11,
+        "relevant_chunks": [
+          "3368acb5-18a6-44bf-9f1b-84dad928875f",
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f"
+        ]
+      },
+      {
+        "turn": 12,
+        "relevant_chunks": [
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "bb91e7a4-2f98-49c0-a490-d096923cf561"
+        ]
+      },
+      {
+        "turn": 13,
+        "relevant_chunks": [
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "2bfff8a5-3362-4539-a6d1-dad061e57805",
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f"
+        ]
+      },
+      {
+        "turn": 14,
+        "relevant_chunks": [
+          "bb91e7a4-2f98-49c0-a490-d096923cf561",
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "2914ea35-17c8-4910-a10f-8f4d3ca62f22"
+        ]
+      },
+      {
+        "turn": 15,
+        "relevant_chunks": [
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "3368acb5-18a6-44bf-9f1b-84dad928875f",
+          "bb91e7a4-2f98-49c0-a490-d096923cf561"
+        ]
+      },
+      {
+        "turn": 16,
+        "relevant_chunks": [
+          "6fe9b41d-9f45-44f0-90d5-ad2a043b22e9",
+          "3368acb5-18a6-44bf-9f1b-84dad928875f",
+          "e5e9364d-bd7e-4bdb-9404-ef7dd6c8c03f"
+        ]
+      }
+    ],
+    "tool_calls": [],
+    "key_information": [],
+    "preference_changes": [
+      {
+        "turn": 1,
+        "field": "目标岗位",
+        "value": "推荐系统工程师"
+      },
+      {
+        "turn": 1,
+        "field": "面试薄弱点",
+        "value": "算法与数据结构"
+      },
+      {
+        "turn": 4,
+        "field": "薪资预期",
+        "value": "50-70K"
+      },
+      {
+        "turn": 9,
+        "field": "目标城市",
+        "value": "深圳"
+      },
+      {
+        "turn": 13,
+        "field": "目标岗位",
+        "value": "数据工程师"
+      }
+    ]
+  }
+]

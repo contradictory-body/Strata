@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "strata"
+version = "2.0.0"
+description = "分层记忆支持的多模态求职助手 Agent"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+keywords = ["agent", "rag", "memory", "llm", "job-seeking"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Homepage   = "https://github.com/contradictory-body/Strata"
+Repository = "https://github.com/contradictory-body/Strata"
+Issues     = "https://github.com/contradictory-body/Strata/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agent*", "config*", "core*", "memory*", "extension*"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = ["E501"]
