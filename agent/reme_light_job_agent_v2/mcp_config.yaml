@@ -1,0 +1,64 @@
+# mcp_config.yaml — MCP 服务配置
+#
+# 本文件定义了求职助手 Agent 可以连接的 MCP Server 列表。
+# 包括：
+#   1. 本地求职助手 MCP Server（自身工具的 MCP 化暴露）
+#   2. 外部第三方 MCP Server（日历、邮件、知识库等）
+#
+# Agent 启动时会自动发现并连接这些 MCP Server，
+# 将其暴露的 tools 注册到 LLM 的 function calling 列表中。
+
+mcpServers:
+
+  # ── 本地求职助手 MCP Server ──────────────────────────────────────────────
+  # 通过 stdio 方式启动，Agent 可通过 MCP 协议调用自身工具
+  job-assistant:
+    command: python
+    args:
+      - mcp_job_server.py
+      - --transport
+      - stdio
+    env:
+      LLM_API_KEY: "${LLM_API_KEY}"
+      LLM_BASE_URL: "${LLM_BASE_URL}"
+      LLM_MODEL: "${LLM_MODEL}"
+      TAVILY_API_KEY: "${TAVILY_API_KEY}"
+
+  # ── 外部 MCP Server 示例 ────────────────────────────────────────────────
+  # 以下为常见的第三方 MCP Server 配置示例，按需启用。
+
+  # Google Calendar — 管理面试日程
+  # 需要安装: npm install -g @anthropic/mcp-google-calendar
+  # google-calendar:
+  #   command: npx
+  #   args:
+  #     - "-y"
+  #     - "@anthropic/mcp-google-calendar"
+  #   env:
+  #     GOOGLE_CLIENT_ID: "${GOOGLE_CLIENT_ID}"
+  #     GOOGLE_CLIENT_SECRET: "${GOOGLE_CLIENT_SECRET}"
+
+  # Gmail — 发送求职邮件
+  # gmail:
+  #   command: npx
+  #   args:
+  #     - "-y"
+  #     - "@anthropic/mcp-gmail"
+  #   env:
+  #     GOOGLE_CLIENT_ID: "${GOOGLE_CLIENT_ID}"
+  #     GOOGLE_CLIENT_SECRET: "${GOOGLE_CLIENT_SECRET}"
+
+  # Notion — 求职进度管理看板
+  # notion:
+  #   command: npx
+  #   args:
+  #     - "-y"
+  #     - "@anthropic/mcp-notion"
+  #   env:
+  #     NOTION_API_KEY: "${NOTION_API_KEY}"
+
+  # 阿里百炼 MCP 市场 — 可接入更多 MCP 工具
+  # 文档: https://bailian.console.aliyun.com/?tab=mcp#/mcp-market
+  # aliyun-web-search:
+  #   url: "https://dashscope.aliyuncs.com/compatible-mode/v1/mcp/amap_amap-maps?api_key=${DASHSCOPE_API_KEY}"
+  #   type: sse

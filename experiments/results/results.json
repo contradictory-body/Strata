@@ -1,0 +1,16 @@
+{
+  "_note": "此文件由 ablation_study.py 运行后自动生成，当前为占位文件",
+  "_run_command": "cd experiments/ && python ablation_study.py",
+  "gate": {
+    "rule_only": {"precision": null, "recall": null, "f1": null},
+    "full":      {"precision": null, "recall": null, "f1": null}
+  },
+  "retrieval": {},
+  "compression": {
+    "tor": null, "ter": null,
+    "total_calls": null, "total_key_points": null
+  },
+  "preference": {
+    "pcs": null, "total_events": null, "captured_events": null
+  }
+}

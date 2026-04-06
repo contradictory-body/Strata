@@ -1,0 +1,5727 @@
+{
+  "pool_size": 550,
+  "real_chunks": 330,
+  "synthetic_chunks": 220,
+  "chunks": [
+    {
+      "chunk_id": "568af589-ac8a-4a60-b6e1-6052a1ab6ef4",
+      "text": "用户目标岗位是DevOps工程师，技术栈包含Go、gRPC、PostgreSQL、Docker",
+      "metadata": {
+        "source": "2025-11-21.md",
+        "date": "2025-11-21",
+        "header_1": "技术背景",
+        "chunk_id": "568af589-ac8a-4a60-b6e1-6052a1ab6ef4"
+      }
+    },
+    {
+      "chunk_id": "9c17e627-a472-4eb2-a3ce-41662abd08a6",
+      "text": "用户目标岗位是全栈工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+      "metadata": {
+        "source": "2025-12-16.md",
+        "date": "2025-12-16",
+        "header_1": "面试进展",
+        "chunk_id": "9c17e627-a472-4eb2-a3ce-41662abd08a6"
+      }
+    },
+    {
+      "chunk_id": "fcb8d2f2-a6fd-46b2-9083-bfbb0a3d0ce0",
+      "text": "面试薄弱点分析：数据工程师方向的系统设计问题需要加强，建议系统学习React，参考PingCAP的技术博客。",
+      "metadata": {
+        "source": "2025-03-08.md",
+        "date": "2025-03-08",
+        "header_1": "求职目标",
+        "chunk_id": "fcb8d2f2-a6fd-46b2-9083-bfbb0a3d0ce0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "e30250c5-6a1d-4325-bc91-d4865b70c94b",
+      "text": "用户已完成二面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-10-07.md",
+        "date": "2025-10-07",
+        "header_1": "面试进展",
+        "chunk_id": "e30250c5-6a1d-4325-bc91-d4865b70c94b"
+      }
+    },
+    {
+      "chunk_id": "9d842815-57c2-4517-819f-912ad300d787",
+      "text": "用户完成了二面，面试官重点考察了Go原理和网络编程，整体表现中等，推荐系统工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-05-09.md",
+        "date": "2024-05-09",
+        "header_1": "公司调研",
+        "chunk_id": "9d842815-57c2-4517-819f-912ad300d787",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b1ff65e0-591f-45ee-9fe4-1dee4cefb3e0",
+      "text": "面试薄弱点分析：数据分析师方向的行为面试问题需要加强，建议系统学习JavaScript，参考字节跳动的技术博客。",
+      "metadata": {
+        "source": "2025-01-10.md",
+        "date": "2025-01-10",
+        "header_1": "职业规划",
+        "chunk_id": "b1ff65e0-591f-45ee-9fe4-1dee4cefb3e0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1b2c6fb6-4266-4a62-a5a6-762ae007422f",
+      "text": "面试薄弱点分析：前端工程师方向的并发编程问题需要加强，建议系统学习Elasticsearch，参考滴滴的技术博客。",
+      "metadata": {
+        "source": "2025-02-20.md",
+        "date": "2025-02-20",
+        "header_1": "薪资期望",
+        "chunk_id": "1b2c6fb6-4266-4a62-a5a6-762ae007422f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "79c438a8-4e0a-44ed-8947-b6f7a144b473",
+      "text": "京东的一面反馈：技术考察重点为Spark，安全工程师岗位对算法与数据结构要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-12-11.md",
+        "date": "2024-12-11",
+        "header_1": "求职目标",
+        "chunk_id": "79c438a8-4e0a-44ed-8947-b6f7a144b473",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "93f38e79-87d1-46eb-a9d3-1f6c82698a4c",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "求职目标",
+        "chunk_id": "93f38e79-87d1-46eb-a9d3-1f6c82698a4c"
+      }
+    },
+    {
+      "chunk_id": "a5136117-c1ed-495b-bb5f-05b35af243bb",
+      "text": "京东的终面反馈：技术考察重点为TensorFlow，全栈工程师岗位对分布式事务要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2025-02-28.md",
+        "date": "2025-02-28",
+        "header_1": "公司调研",
+        "chunk_id": "a5136117-c1ed-495b-bb5f-05b35af243bb",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "f29eb86f-a963-4ee1-ab8d-2cf0320e429c",
+      "text": "南京的推荐系统工程师市场分析：主要招聘方包括字节跳动，普遍要求掌握Redis，薪资中位数约25-35K。",
+      "metadata": {
+        "source": "2024-10-13.md",
+        "date": "2024-10-13",
+        "header_1": "简历优化",
+        "chunk_id": "f29eb86f-a963-4ee1-ab8d-2cf0320e429c",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "cf53e557-03b6-4f93-b86d-f0818f732d46",
+      "text": "谷歌的终面反馈：技术考察重点为PostgreSQL，数据工程师岗位对分布式事务要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-11-27.md",
+        "date": "2024-11-27",
+        "header_1": "公司调研",
+        "chunk_id": "cf53e557-03b6-4f93-b86d-f0818f732d46",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "44354949-aa58-4b30-aa08-88183a283f57",
+      "text": "简历修改建议：数据工程师岗位简历需要突出Kafka项目经验，量化成果，针对腾讯的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-11-05.md",
+        "date": "2024-11-05",
+        "header_1": "简历优化",
+        "chunk_id": "44354949-aa58-4b30-aa08-88183a283f57",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a0b34d4c-acfe-4119-ae42-4bca58c9c4cf",
+      "text": "用户已完成三面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-04.md",
+        "date": "2025-12-04",
+        "header_1": "面试进展",
+        "chunk_id": "a0b34d4c-acfe-4119-ae42-4bca58c9c4cf"
+      }
+    },
+    {
+      "chunk_id": "04508b9b-45ce-46e2-8e00-8e2569a74f73",
+      "text": "用户对华为的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-09-29.md",
+        "date": "2025-09-29",
+        "header_1": "面试进展",
+        "chunk_id": "04508b9b-45ce-46e2-8e00-8e2569a74f73"
+      }
+    },
+    {
+      "chunk_id": "5bb6da9c-9373-465f-8520-2e4f48bffff3",
+      "text": "用户完成了笔试，面试官重点考察了TensorFlow原理和英文面试，整体表现中等，推荐系统工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2025-01-17.md",
+        "date": "2025-01-17",
+        "header_1": "学习计划",
+        "chunk_id": "5bb6da9c-9373-465f-8520-2e4f48bffff3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "36aa2dca-062f-4f36-8ff4-5398f314a4c1",
+      "text": "南京的算法工程师市场分析：主要招聘方包括Shopee，普遍要求掌握Redis，薪资中位数约15-20K。",
+      "metadata": {
+        "source": "2024-12-26.md",
+        "date": "2024-12-26",
+        "header_1": "简历优化",
+        "chunk_id": "36aa2dca-062f-4f36-8ff4-5398f314a4c1",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "47b4693d-7d19-4130-897f-8204500fcf9c",
+      "text": "用户已完成终面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-02-19.md",
+        "date": "2026-02-19",
+        "header_1": "求职目标",
+        "chunk_id": "47b4693d-7d19-4130-897f-8204500fcf9c"
+      }
+    },
+    {
+      "chunk_id": "19f3ff8e-c280-47f6-9ff7-717b7fc5be15",
+      "text": "Shopee的机器学习工程师岗位技术栈包含C++，工作地点武汉，薪资水平60-80K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-06-26.md",
+        "date": "2024-06-26",
+        "header_1": "偏好记录",
+        "chunk_id": "19f3ff8e-c280-47f6-9ff7-717b7fc5be15",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "ad75f497-c23e-4098-812d-8d81bad2e784",
+      "text": "广州的全栈工程师市场分析：主要招聘方包括蚂蚁集团，普遍要求掌握Flink，薪资中位数约30-40K。",
+      "metadata": {
+        "source": "2024-11-29.md",
+        "date": "2024-11-29",
+        "header_1": "面试总结",
+        "chunk_id": "ad75f497-c23e-4098-812d-8d81bad2e784",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0e31e951-4b76-45a8-9d16-2083454dffea",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-26.md",
+        "date": "2025-10-26",
+        "header_1": "面试进展",
+        "chunk_id": "0e31e951-4b76-45a8-9d16-2083454dffea"
+      }
+    },
+    {
+      "chunk_id": "0a00cf72-8e24-4b57-9644-c66c9f0a4b19",
+      "text": "用户正在准备百度的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2026-02-10.md",
+        "date": "2026-02-10",
+        "header_1": "技术背景",
+        "chunk_id": "0a00cf72-8e24-4b57-9644-c66c9f0a4b19"
+      }
+    },
+    {
+      "chunk_id": "0d8d8fa6-f8a3-4adf-9f45-b77f7da4910b",
+      "text": "用户更新了求职偏好：从苏州切换到考虑西安，技术方向从Go扩展到PyTorch，薪资期望调整至25-35K。",
+      "metadata": {
+        "source": "2024-12-28.md",
+        "date": "2024-12-28",
+        "header_1": "简历优化",
+        "chunk_id": "0d8d8fa6-f8a3-4adf-9f45-b77f7da4910b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "f20127f1-2469-4c23-9371-f016954662c3",
+      "text": "谷歌的全栈工程师岗位技术栈包含Azure，工作地点深圳，薪资水平100K+，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-02-14.md",
+        "date": "2024-02-14",
+        "header_1": "面试进展",
+        "chunk_id": "f20127f1-2469-4c23-9371-f016954662c3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "dd017ede-5d8d-4500-bbd2-9ab0b2b15d74",
+      "text": "PingCAP的笔试反馈：技术考察重点为Django，游戏开发工程师岗位对并发编程要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2025-01-10.md",
+        "date": "2025-01-10",
+        "header_1": "学习计划",
+        "chunk_id": "dd017ede-5d8d-4500-bbd2-9ab0b2b15d74",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "99b4f0da-289f-4815-875e-604647fa202c",
+      "text": "用户对华为的前端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "偏好记录",
+        "chunk_id": "99b4f0da-289f-4815-875e-604647fa202c"
+      }
+    },
+    {
+      "chunk_id": "409ea942-338c-488e-ab6a-d1c2501df581",
+      "text": "Grab的前端工程师岗位技术栈包含MongoDB，工作地点北京，薪资水平20-28K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-12-11.md",
+        "date": "2024-12-11",
+        "header_1": "面试进展",
+        "chunk_id": "409ea942-338c-488e-ab6a-d1c2501df581",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fd6e9489-65fa-4196-87a1-042c5a7b8d4d",
+      "text": "用户技术栈Python、Spark在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-26.md",
+        "date": "2026-01-26",
+        "header_1": "技术背景",
+        "chunk_id": "fd6e9489-65fa-4196-87a1-042c5a7b8d4d"
+      }
+    },
+    {
+      "chunk_id": "18205aa4-b34d-440e-bafc-99f27ecc9b50",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含JavaScript、React、Node.js、MongoDB",
+      "metadata": {
+        "source": "2025-11-30.md",
+        "date": "2025-11-30",
+        "header_1": "求职目标",
+        "chunk_id": "18205aa4-b34d-440e-bafc-99f27ecc9b50"
+      }
+    },
+    {
+      "chunk_id": "659c2bce-78bf-4994-b35e-0c0208e18270",
+      "text": "用户倾向于北京，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-11-18.md",
+        "date": "2025-11-18",
+        "header_1": "面试进展",
+        "chunk_id": "659c2bce-78bf-4994-b35e-0c0208e18270"
+      }
+    },
+    {
+      "chunk_id": "355fbe0a-f0c2-47b4-9dd0-b62cf6c6dbef",
+      "text": "用户正在准备腾讯的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2025-10-25.md",
+        "date": "2025-10-25",
+        "header_1": "技术背景",
+        "chunk_id": "355fbe0a-f0c2-47b4-9dd0-b62cf6c6dbef"
+      }
+    },
+    {
+      "chunk_id": "4a23cbb0-173f-4192-9b3d-01a45a00e503",
+      "text": "用户倾向于上海，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-17.md",
+        "date": "2026-02-17",
+        "header_1": "技术背景",
+        "chunk_id": "4a23cbb0-173f-4192-9b3d-01a45a00e503"
+      }
+    },
+    {
+      "chunk_id": "933a30c5-a8d0-4da5-a7ac-e5684c6b9dbb",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2026-01-31.md",
+        "date": "2026-01-31",
+        "header_1": "技术背景",
+        "chunk_id": "933a30c5-a8d0-4da5-a7ac-e5684c6b9dbb"
+      }
+    },
+    {
+      "chunk_id": "c18a97ed-58e7-498f-99d5-577fb5440618",
+      "text": "用户已完成终面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-10-15.md",
+        "date": "2025-10-15",
+        "header_1": "偏好记录",
+        "chunk_id": "c18a97ed-58e7-498f-99d5-577fb5440618"
+      }
+    },
+    {
+      "chunk_id": "b85eb4df-8713-4a9f-ab39-760022ed4226",
+      "text": "职业规划讨论：用户希望3年内从算法工程师晋升为高级算法工程师，需要在苏州的微软类公司积累经验，掌握AWS技术栈。",
+      "metadata": {
+        "source": "2025-01-09.md",
+        "date": "2025-01-09",
+        "header_1": "公司调研",
+        "chunk_id": "b85eb4df-8713-4a9f-ab39-760022ed4226",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fe99a37b-ddad-4689-8046-81bddc11c496",
+      "text": "Grab的架构师岗位技术栈包含Spark，工作地点杭州，薪资水平40-60K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2025-03-25.md",
+        "date": "2025-03-25",
+        "header_1": "偏好记录",
+        "chunk_id": "fe99a37b-ddad-4689-8046-81bddc11c496",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "aee6197e-1f7b-4b67-b575-1b46d2b0fb07",
+      "text": "面试薄弱点分析：推荐系统工程师方向的系统设计问题需要加强，建议系统学习TensorFlow，参考谷歌的技术博客。",
+      "metadata": {
+        "source": "2024-02-17.md",
+        "date": "2024-02-17",
+        "header_1": "面试总结",
+        "chunk_id": "aee6197e-1f7b-4b67-b575-1b46d2b0fb07",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "421434d4-f639-4a43-9492-d8af87c6946f",
+      "text": "用户正在准备Grab的面试，面试薄弱点是行为面试",
+      "metadata": {
+        "source": "2026-03-09.md",
+        "date": "2026-03-09",
+        "header_1": "求职目标",
+        "chunk_id": "421434d4-f639-4a43-9492-d8af87c6946f"
+      }
+    },
+    {
+      "chunk_id": "b7cc6e61-fcbe-4b1e-98f0-0648c29b1eaf",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-09-27.md",
+        "date": "2025-09-27",
+        "header_1": "求职目标",
+        "chunk_id": "b7cc6e61-fcbe-4b1e-98f0-0648c29b1eaf"
+      }
+    },
+    {
+      "chunk_id": "022e37a2-41fa-4069-9b90-f91f39897724",
+      "text": "用户目标城市为武汉，期望薪资30-45K",
+      "metadata": {
+        "source": "2025-12-18.md",
+        "date": "2025-12-18",
+        "header_1": "面试进展",
+        "chunk_id": "022e37a2-41fa-4069-9b90-f91f39897724"
+      }
+    },
+    {
+      "chunk_id": "1b3880db-ebe7-4508-a558-15ac0d057e6e",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-01-03.md",
+        "date": "2026-01-03",
+        "header_1": "技术背景",
+        "chunk_id": "1b3880db-ebe7-4508-a558-15ac0d057e6e"
+      }
+    },
+    {
+      "chunk_id": "22e52c4d-7ed3-40df-a628-ac0863188f0e",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2026-01-20.md",
+        "date": "2026-01-20",
+        "header_1": "求职目标",
+        "chunk_id": "22e52c4d-7ed3-40df-a628-ac0863188f0e"
+      }
+    },
+    {
+      "chunk_id": "66fd9408-a15e-4d74-8da6-3a1232c77cde",
+      "text": "面试薄弱点分析：架构师方向的算法与数据结构问题需要加强，建议系统学习Spring，参考谷歌的技术博客。",
+      "metadata": {
+        "source": "2024-11-28.md",
+        "date": "2024-11-28",
+        "header_1": "公司调研",
+        "chunk_id": "66fd9408-a15e-4d74-8da6-3a1232c77cde",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "48158a5b-4174-483a-ae32-4f1cd290573a",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2025-10-02.md",
+        "date": "2025-10-02",
+        "header_1": "求职目标",
+        "chunk_id": "48158a5b-4174-483a-ae32-4f1cd290573a"
+      }
+    },
+    {
+      "chunk_id": "e78cd744-332c-4977-8401-9ccf17cac5a2",
+      "text": "用户对华为的后端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-22.md",
+        "date": "2025-10-22",
+        "header_1": "技术背景",
+        "chunk_id": "e78cd744-332c-4977-8401-9ccf17cac5a2"
+      }
+    },
+    {
+      "chunk_id": "769cb5c4-95e7-406d-bb53-ca98560dcc22",
+      "text": "用户计划在3个月内提升C++技能，目标是拿到南京的数据分析师岗位offer，期望薪资25-35K，对Shopee感兴趣。",
+      "metadata": {
+        "source": "2024-01-13.md",
+        "date": "2024-01-13",
+        "header_1": "面试总结",
+        "chunk_id": "769cb5c4-95e7-406d-bb53-ca98560dcc22",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2e02e3ca-06f7-48d8-9887-7a2d7231cd10",
+      "text": "简历修改建议：前端工程师岗位简历需要突出MySQL项目经验，量化成果，针对小米的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-06-11.md",
+        "date": "2024-06-11",
+        "header_1": "职业规划",
+        "chunk_id": "2e02e3ca-06f7-48d8-9887-7a2d7231cd10",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0c616b7e-fe57-4275-afa0-e3ed9d8d175f",
+      "text": "面试薄弱点分析：全栈工程师方向的行为面试问题需要加强，建议系统学习C++，参考蚂蚁集团的技术博客。",
+      "metadata": {
+        "source": "2024-06-08.md",
+        "date": "2024-06-08",
+        "header_1": "学习计划",
+        "chunk_id": "0c616b7e-fe57-4275-afa0-e3ed9d8d175f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "7974bf65-39a9-478c-b8a2-058c6ccdac77",
+      "text": "用户希望在3个月内解决行为面试薄弱点",
+      "metadata": {
+        "source": "2025-12-14.md",
+        "date": "2025-12-14",
+        "header_1": "面试进展",
+        "chunk_id": "7974bf65-39a9-478c-b8a2-058c6ccdac77"
+      }
+    },
+    {
+      "chunk_id": "1f1d7d6e-e017-4867-97a7-e8b54adb6506",
+      "text": "微软的HR面反馈：技术考察重点为Spark，架构师岗位对行为面试要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-05-26.md",
+        "date": "2024-05-26",
+        "header_1": "简历优化",
+        "chunk_id": "1f1d7d6e-e017-4867-97a7-e8b54adb6506",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0aa3b934-17b7-4479-9b3f-e777bd307776",
+      "text": "用户正在准备蚂蚁集团的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2026-01-24.md",
+        "date": "2026-01-24",
+        "header_1": "面试进展",
+        "chunk_id": "0aa3b934-17b7-4479-9b3f-e777bd307776"
+      }
+    },
+    {
+      "chunk_id": "14d10d3e-c603-4cda-8d3c-2410762af716",
+      "text": "用户计划在3个月内提升Redis技能，目标是拿到北京的数据分析师岗位offer，期望薪资40-60K，对网易感兴趣。",
+      "metadata": {
+        "source": "2024-01-27.md",
+        "date": "2024-01-27",
+        "header_1": "求职目标",
+        "chunk_id": "14d10d3e-c603-4cda-8d3c-2410762af716",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c7f17adc-4e2e-437f-8b47-3548b8115f12",
+      "text": "用户技术栈Python、Spark在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-01.md",
+        "date": "2025-12-01",
+        "header_1": "求职目标",
+        "chunk_id": "c7f17adc-4e2e-437f-8b47-3548b8115f12"
+      }
+    },
+    {
+      "chunk_id": "9771ff8b-5701-4400-bef0-dce21851939a",
+      "text": "用户目标城市为杭州，期望薪资40-60K",
+      "metadata": {
+        "source": "2026-01-24.md",
+        "date": "2026-01-24",
+        "header_1": "面试进展",
+        "chunk_id": "9771ff8b-5701-4400-bef0-dce21851939a"
+      }
+    },
+    {
+      "chunk_id": "5d243b63-d5eb-421f-ad18-64db3af05240",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2025-10-15.md",
+        "date": "2025-10-15",
+        "header_1": "面试进展",
+        "chunk_id": "5d243b63-d5eb-421f-ad18-64db3af05240"
+      }
+    },
+    {
+      "chunk_id": "328ac33b-c509-457f-9a42-1de8d2c5f684",
+      "text": "用户更新了求职偏好：从苏州切换到考虑深圳，技术方向从Docker扩展到Flink，薪资期望调整至35-50K。",
+      "metadata": {
+        "source": "2024-02-08.md",
+        "date": "2024-02-08",
+        "header_1": "薪资期望",
+        "chunk_id": "328ac33b-c509-457f-9a42-1de8d2c5f684",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "e2eb5cb3-9150-4f2c-99d0-ad6f0cb6b27d",
+      "text": "用户目标城市为武汉，期望薪资40-60K",
+      "metadata": {
+        "source": "2025-11-08.md",
+        "date": "2025-11-08",
+        "header_1": "技术背景",
+        "chunk_id": "e2eb5cb3-9150-4f2c-99d0-ad6f0cb6b27d"
+      }
+    },
+    {
+      "chunk_id": "a6bccbf3-e07a-48fc-86dc-cb1fda47a7b2",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-01-12.md",
+        "date": "2026-01-12",
+        "header_1": "技术背景",
+        "chunk_id": "a6bccbf3-e07a-48fc-86dc-cb1fda47a7b2"
+      }
+    },
+    {
+      "chunk_id": "bc5f8135-bd9c-4776-8004-e46cb08e3a68",
+      "text": "美团的三面反馈：技术考察重点为Redis，安全工程师岗位对并发编程要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-02-21.md",
+        "date": "2024-02-21",
+        "header_1": "面试进展",
+        "chunk_id": "bc5f8135-bd9c-4776-8004-e46cb08e3a68",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9fa0d1b6-87aa-48fb-8dcd-83e9b3ecc9ce",
+      "text": "用户正在准备Grab的面试，面试薄弱点是网络编程",
+      "metadata": {
+        "source": "2025-12-04.md",
+        "date": "2025-12-04",
+        "header_1": "偏好记录",
+        "chunk_id": "9fa0d1b6-87aa-48fb-8dcd-83e9b3ecc9ce"
+      }
+    },
+    {
+      "chunk_id": "fce206a8-a1cf-4497-82e9-bd311eb9b2f4",
+      "text": "Shopee的机器学习工程师岗位技术栈包含Kafka，工作地点苏州，薪资水平60-80K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-07-15.md",
+        "date": "2024-07-15",
+        "header_1": "简历优化",
+        "chunk_id": "fce206a8-a1cf-4497-82e9-bd311eb9b2f4",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "3d1674c2-1e55-4a58-bab4-5eaf15b51889",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-04.md",
+        "date": "2025-12-04",
+        "header_1": "求职目标",
+        "chunk_id": "3d1674c2-1e55-4a58-bab4-5eaf15b51889"
+      }
+    },
+    {
+      "chunk_id": "ed68d475-03ba-4e2a-ae1e-31792578c35b",
+      "text": "用户目标岗位是测试工程师，技术栈包含JavaScript、React、Node.js、MongoDB",
+      "metadata": {
+        "source": "2025-10-24.md",
+        "date": "2025-10-24",
+        "header_1": "求职目标",
+        "chunk_id": "ed68d475-03ba-4e2a-ae1e-31792578c35b"
+      }
+    },
+    {
+      "chunk_id": "a0735cbc-d39d-4d8a-904e-f9b1d301c812",
+      "text": "用户目标岗位是前端工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+      "metadata": {
+        "source": "2026-02-02.md",
+        "date": "2026-02-02",
+        "header_1": "求职目标",
+        "chunk_id": "a0735cbc-d39d-4d8a-904e-f9b1d301c812"
+      }
+    },
+    {
+      "chunk_id": "d293693c-ecc7-43f7-8a8a-4d5d16695712",
+      "text": "用户正在准备华为的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2026-01-27.md",
+        "date": "2026-01-27",
+        "header_1": "技术背景",
+        "chunk_id": "d293693c-ecc7-43f7-8a8a-4d5d16695712"
+      }
+    },
+    {
+      "chunk_id": "4d889224-6b77-47e9-866a-995dae30126d",
+      "text": "广州的算法工程师市场分析：主要招聘方包括腾讯，普遍要求掌握TensorFlow，薪资中位数约20-28K。",
+      "metadata": {
+        "source": "2024-02-28.md",
+        "date": "2024-02-28",
+        "header_1": "求职目标",
+        "chunk_id": "4d889224-6b77-47e9-866a-995dae30126d",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8ce94087-0162-431b-8803-03b285917998",
+      "text": "职业规划讨论：用户希望3年内从安全工程师晋升为高级安全工程师，需要在苏州的美团类公司积累经验，掌握TensorFlow技术栈。",
+      "metadata": {
+        "source": "2024-10-13.md",
+        "date": "2024-10-13",
+        "header_1": "面试进展",
+        "chunk_id": "8ce94087-0162-431b-8803-03b285917998",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c8cf1c23-a598-4c4a-b2db-2e3652d1de75",
+      "text": "用户目标岗位是数据工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2025-10-22.md",
+        "date": "2025-10-22",
+        "header_1": "偏好记录",
+        "chunk_id": "c8cf1c23-a598-4c4a-b2db-2e3652d1de75"
+      }
+    },
+    {
+      "chunk_id": "3d3b8bf9-8b7c-4752-afb5-550d4a56b32f",
+      "text": "用户正在准备Shopee的面试，面试薄弱点是行为面试",
+      "metadata": {
+        "source": "2025-12-25.md",
+        "date": "2025-12-25",
+        "header_1": "面试进展",
+        "chunk_id": "3d3b8bf9-8b7c-4752-afb5-550d4a56b32f"
+      }
+    },
+    {
+      "chunk_id": "2afbf64f-bcca-4488-95b3-ba643b082268",
+      "text": "用户对小米的平台工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-30.md",
+        "date": "2025-12-30",
+        "header_1": "偏好记录",
+        "chunk_id": "2afbf64f-bcca-4488-95b3-ba643b082268"
+      }
+    },
+    {
+      "chunk_id": "5d954f75-8310-4b4d-b81b-dc85885ce3a5",
+      "text": "职业规划讨论：用户希望3年内从DevOps工程师晋升为高级DevOps工程师，需要在广州的腾讯类公司积累经验，掌握Spark技术栈。",
+      "metadata": {
+        "source": "2024-12-06.md",
+        "date": "2024-12-06",
+        "header_1": "技术背景",
+        "chunk_id": "5d954f75-8310-4b4d-b81b-dc85885ce3a5",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9a1cb8ac-b6c7-4ed0-918a-cf519a199e26",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-21.md",
+        "date": "2025-11-21",
+        "header_1": "技术背景",
+        "chunk_id": "9a1cb8ac-b6c7-4ed0-918a-cf519a199e26"
+      }
+    },
+    {
+      "chunk_id": "c91e8a07-8495-4069-b171-da8540c153b4",
+      "text": "用户已完成简历筛选阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-10-13.md",
+        "date": "2025-10-13",
+        "header_1": "偏好记录",
+        "chunk_id": "c91e8a07-8495-4069-b171-da8540c153b4"
+      }
+    },
+    {
+      "chunk_id": "55540e98-b749-4cbb-b205-1c1377cbc767",
+      "text": "用户目标岗位是推荐系统工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+      "metadata": {
+        "source": "2025-10-14.md",
+        "date": "2025-10-14",
+        "header_1": "求职目标",
+        "chunk_id": "55540e98-b749-4cbb-b205-1c1377cbc767"
+      }
+    },
+    {
+      "chunk_id": "c33bfdd0-16d5-476b-b8f7-0317f0478848",
+      "text": "用户技术栈Rust、C++在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-28.md",
+        "date": "2025-12-28",
+        "header_1": "技术背景",
+        "chunk_id": "c33bfdd0-16d5-476b-b8f7-0317f0478848"
+      }
+    },
+    {
+      "chunk_id": "48f1230d-30a8-4000-9478-c37309143a4b",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-02-05.md",
+        "date": "2026-02-05",
+        "header_1": "偏好记录",
+        "chunk_id": "48f1230d-30a8-4000-9478-c37309143a4b"
+      }
+    },
+    {
+      "chunk_id": "8204a730-7564-49e7-8bac-bd72b819190a",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-11.md",
+        "date": "2025-11-11",
+        "header_1": "求职目标",
+        "chunk_id": "8204a730-7564-49e7-8bac-bd72b819190a"
+      }
+    },
+    {
+      "chunk_id": "f363d743-5536-4a64-8cf8-1de7f43fb205",
+      "text": "用户完成了简历筛选，面试官重点考察了Java原理和算法与数据结构，整体表现中等，架构师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-07-05.md",
+        "date": "2024-07-05",
+        "header_1": "职业规划",
+        "chunk_id": "f363d743-5536-4a64-8cf8-1de7f43fb205",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "f8831e80-678c-4817-9e6f-3e23e1eb0644",
+      "text": "用户目标城市为北京，期望薪资60-80K",
+      "metadata": {
+        "source": "2025-10-23.md",
+        "date": "2025-10-23",
+        "header_1": "求职目标",
+        "chunk_id": "f8831e80-678c-4817-9e6f-3e23e1eb0644"
+      }
+    },
+    {
+      "chunk_id": "6520a9cb-302a-4a66-b026-88e3b9860d1c",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+      "metadata": {
+        "source": "2026-01-24.md",
+        "date": "2026-01-24",
+        "header_1": "技术背景",
+        "chunk_id": "6520a9cb-302a-4a66-b026-88e3b9860d1c"
+      }
+    },
+    {
+      "chunk_id": "a75fa1ba-0ef8-4734-ae50-88594266319d",
+      "text": "用户完成了二面，面试官重点考察了TensorFlow原理和系统设计，整体表现中等，机器学习工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-01-21.md",
+        "date": "2024-01-21",
+        "header_1": "公司调研",
+        "chunk_id": "a75fa1ba-0ef8-4734-ae50-88594266319d",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "32b340e4-a6c3-4219-a9dc-b1344467d1f5",
+      "text": "PingCAP的DevOps工程师岗位技术栈包含React，工作地点北京，薪资水平50-70K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-11-03.md",
+        "date": "2024-11-03",
+        "header_1": "公司调研",
+        "chunk_id": "32b340e4-a6c3-4219-a9dc-b1344467d1f5",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c65977fb-c630-4fdf-960a-a53201329e4b",
+      "text": "用户目标岗位是前端工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2025-11-09.md",
+        "date": "2025-11-09",
+        "header_1": "偏好记录",
+        "chunk_id": "c65977fb-c630-4fdf-960a-a53201329e4b"
+      }
+    },
+    {
+      "chunk_id": "57cca26a-e0f4-40b5-b723-fb1c9c45ea02",
+      "text": "蚂蚁集团的终面反馈：技术考察重点为Spring，推荐系统工程师岗位对云原生架构要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-03-22.md",
+        "date": "2024-03-22",
+        "header_1": "薪资期望",
+        "chunk_id": "57cca26a-e0f4-40b5-b723-fb1c9c45ea02",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5242528c-3af3-4ae3-8f0b-632d9f6d6654",
+      "text": "北京的全栈工程师市场分析：主要招聘方包括腾讯，普遍要求掌握Go，薪资中位数约40-60K。",
+      "metadata": {
+        "source": "2024-03-28.md",
+        "date": "2024-03-28",
+        "header_1": "技术背景",
+        "chunk_id": "5242528c-3af3-4ae3-8f0b-632d9f6d6654",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "e6110c47-db05-4f81-a296-a9de6b2798f3",
+      "text": "北京的架构师市场分析：主要招聘方包括阿里巴巴，普遍要求掌握TypeScript，薪资中位数约80-100K。",
+      "metadata": {
+        "source": "2024-08-30.md",
+        "date": "2024-08-30",
+        "header_1": "面试进展",
+        "chunk_id": "e6110c47-db05-4f81-a296-a9de6b2798f3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "89d1073b-38fe-45c4-9164-b04a41c263b8",
+      "text": "杭州的机器学习工程师市场分析：主要招聘方包括PingCAP，普遍要求掌握Docker，薪资中位数约50-70K。",
+      "metadata": {
+        "source": "2024-02-04.md",
+        "date": "2024-02-04",
+        "header_1": "简历优化",
+        "chunk_id": "89d1073b-38fe-45c4-9164-b04a41c263b8",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "f2e5bc02-88fb-466e-aaa2-944ef5b71f82",
+      "text": "用户更新了求职偏好：从广州切换到考虑武汉，技术方向从Rust扩展到Django，薪资期望调整至30-40K。",
+      "metadata": {
+        "source": "2024-06-16.md",
+        "date": "2024-06-16",
+        "header_1": "求职目标",
+        "chunk_id": "f2e5bc02-88fb-466e-aaa2-944ef5b71f82",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a2b96200-a5e6-4ca0-b658-88964763e6d9",
+      "text": "职业规划讨论：用户希望3年内从后端工程师晋升为高级后端工程师，需要在成都的Grab类公司积累经验，掌握Spring技术栈。",
+      "metadata": {
+        "source": "2024-06-13.md",
+        "date": "2024-06-13",
+        "header_1": "职业规划",
+        "chunk_id": "a2b96200-a5e6-4ca0-b658-88964763e6d9",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "939a9a24-3789-442c-9653-c91f9f1f57fb",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-11-22.md",
+        "date": "2025-11-22",
+        "header_1": "面试进展",
+        "chunk_id": "939a9a24-3789-442c-9653-c91f9f1f57fb"
+      }
+    },
+    {
+      "chunk_id": "ce9ca0cf-568c-4a4f-80c6-e3c059b8cc9a",
+      "text": "用户完成了终面，面试官重点考察了Django原理和网络编程，整体表现中等，嵌入式工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-29.md",
+        "date": "2024-11-29",
+        "header_1": "学习计划",
+        "chunk_id": "ce9ca0cf-568c-4a4f-80c6-e3c059b8cc9a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "841313db-1d31-4ee9-8734-678460b9a337",
+      "text": "用户计划在3个月内提升Spring技能，目标是拿到深圳的机器学习工程师岗位offer，期望薪资100K+，对腾讯感兴趣。",
+      "metadata": {
+        "source": "2024-09-22.md",
+        "date": "2024-09-22",
+        "header_1": "职业规划",
+        "chunk_id": "841313db-1d31-4ee9-8734-678460b9a337",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "7dd218ab-c8ed-4e19-b772-8076a1ad0389",
+      "text": "用户对快手的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-01-29.md",
+        "date": "2026-01-29",
+        "header_1": "面试进展",
+        "chunk_id": "7dd218ab-c8ed-4e19-b772-8076a1ad0389"
+      }
+    },
+    {
+      "chunk_id": "9c2cac11-ca33-4f9d-b272-ee27dcba5452",
+      "text": "用户正在准备美团的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2025-11-22.md",
+        "date": "2025-11-22",
+        "header_1": "技术背景",
+        "chunk_id": "9c2cac11-ca33-4f9d-b272-ee27dcba5452"
+      }
+    },
+    {
+      "chunk_id": "726c7af2-f925-4892-bca3-af72d8f829e0",
+      "text": "用户更新了求职偏好：从上海切换到考虑上海，技术方向从Django扩展到Azure，薪资期望调整至25-35K。",
+      "metadata": {
+        "source": "2025-01-26.md",
+        "date": "2025-01-26",
+        "header_1": "面试进展",
+        "chunk_id": "726c7af2-f925-4892-bca3-af72d8f829e0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "f9ba2959-f13d-4540-8528-76ec295499e9",
+      "text": "用户目标城市为成都，期望薪资20-30K",
+      "metadata": {
+        "source": "2025-12-19.md",
+        "date": "2025-12-19",
+        "header_1": "偏好记录",
+        "chunk_id": "f9ba2959-f13d-4540-8528-76ec295499e9"
+      }
+    },
+    {
+      "chunk_id": "c6b64bb9-0ed6-46c8-9ab0-1a7abbd73f48",
+      "text": "用户正在准备Grab的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2026-03-11.md",
+        "date": "2026-03-11",
+        "header_1": "技术背景",
+        "chunk_id": "c6b64bb9-0ed6-46c8-9ab0-1a7abbd73f48"
+      }
+    },
+    {
+      "chunk_id": "272f63e4-e223-45fd-8a70-e4f754d4eea5",
+      "text": "杭州的后端工程师市场分析：主要招聘方包括华为，普遍要求掌握Azure，薪资中位数约80-100K。",
+      "metadata": {
+        "source": "2024-06-25.md",
+        "date": "2024-06-25",
+        "header_1": "面试进展",
+        "chunk_id": "272f63e4-e223-45fd-8a70-e4f754d4eea5",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "669dd4a8-9339-47ed-b510-3635007c8548",
+      "text": "快手的全栈工程师岗位技术栈包含React，工作地点武汉，薪资水平20-28K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-03-25.md",
+        "date": "2024-03-25",
+        "header_1": "偏好记录",
+        "chunk_id": "669dd4a8-9339-47ed-b510-3635007c8548",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "715024a3-c142-4dae-93ca-53b683ce41a7",
+      "text": "用户已完成简历筛选阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-10-03.md",
+        "date": "2025-10-03",
+        "header_1": "偏好记录",
+        "chunk_id": "715024a3-c142-4dae-93ca-53b683ce41a7"
+      }
+    },
+    {
+      "chunk_id": "f91a22c8-9911-412e-a586-820f8918f393",
+      "text": "简历修改建议：架构师岗位简历需要突出JavaScript项目经验，量化成果，针对美团的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-06-30.md",
+        "date": "2024-06-30",
+        "header_1": "求职目标",
+        "chunk_id": "f91a22c8-9911-412e-a586-820f8918f393",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d0d7ee9a-69a7-4300-9fef-a06eada92ae9",
+      "text": "微软的产品经理岗位技术栈包含TypeScript，工作地点成都，薪资水平40-60K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-11-06.md",
+        "date": "2024-11-06",
+        "header_1": "薪资期望",
+        "chunk_id": "d0d7ee9a-69a7-4300-9fef-a06eada92ae9",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2070391e-baee-4cb4-8ff9-f4a62890df08",
+      "text": "腾讯的二面反馈：技术考察重点为Django，游戏开发工程师岗位对英文面试要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-03-23.md",
+        "date": "2024-03-23",
+        "header_1": "学习计划",
+        "chunk_id": "2070391e-baee-4cb4-8ff9-f4a62890df08",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2a56ad5b-8fa3-4b70-b837-5ba34fc38370",
+      "text": "简历修改建议：推荐系统工程师岗位简历需要突出Docker项目经验，量化成果，针对蚂蚁集团的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-11-27.md",
+        "date": "2024-11-27",
+        "header_1": "职业规划",
+        "chunk_id": "2a56ad5b-8fa3-4b70-b837-5ba34fc38370",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "629d4681-966f-419d-b4c2-a7545e3567de",
+      "text": "用户正在准备Grab的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-11-05.md",
+        "date": "2025-11-05",
+        "header_1": "面试进展",
+        "chunk_id": "629d4681-966f-419d-b4c2-a7545e3567de"
+      }
+    },
+    {
+      "chunk_id": "79263604-6a37-4fdd-8ba1-84ecd50a41c6",
+      "text": "Shopee的DevOps工程师岗位技术栈包含AWS，工作地点广州，薪资水平20-28K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2025-02-16.md",
+        "date": "2025-02-16",
+        "header_1": "偏好记录",
+        "chunk_id": "79263604-6a37-4fdd-8ba1-84ecd50a41c6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0f583188-a001-422a-8ba3-d8f103b64241",
+      "text": "用户完成了简历筛选，面试官重点考察了Java原理和行为面试，整体表现中等，机器学习工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-04-09.md",
+        "date": "2024-04-09",
+        "header_1": "职业规划",
+        "chunk_id": "0f583188-a001-422a-8ba3-d8f103b64241",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1d1cc574-61fb-41df-bbdb-d309a7db62d3",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-14.md",
+        "date": "2026-03-14",
+        "header_1": "技术背景",
+        "chunk_id": "1d1cc574-61fb-41df-bbdb-d309a7db62d3"
+      }
+    },
+    {
+      "chunk_id": "4bfa9694-f4e0-4bf3-9b5f-66e5415fcc90",
+      "text": "用户更新了求职偏好：从西安切换到考虑南京，技术方向从PostgreSQL扩展到Python，薪资期望调整至60-80K。",
+      "metadata": {
+        "source": "2025-02-05.md",
+        "date": "2025-02-05",
+        "header_1": "薪资期望",
+        "chunk_id": "4bfa9694-f4e0-4bf3-9b5f-66e5415fcc90",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "ed9b075d-c1cf-4012-9afc-09763c1b6d75",
+      "text": "职业规划讨论：用户希望3年内从DevOps工程师晋升为高级DevOps工程师，需要在西安的PingCAP类公司积累经验，掌握JavaScript技术栈。",
+      "metadata": {
+        "source": "2025-02-25.md",
+        "date": "2025-02-25",
+        "header_1": "简历优化",
+        "chunk_id": "ed9b075d-c1cf-4012-9afc-09763c1b6d75",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1d5fed14-8b2f-4fb6-9e9b-0cae61b92333",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-22.md",
+        "date": "2026-01-22",
+        "header_1": "求职目标",
+        "chunk_id": "1d5fed14-8b2f-4fb6-9e9b-0cae61b92333"
+      }
+    },
+    {
+      "chunk_id": "396b3bad-79cb-48de-a909-1da7f912a7a7",
+      "text": "用户正在准备小米的面试，面试薄弱点是网络编程",
+      "metadata": {
+        "source": "2025-12-10.md",
+        "date": "2025-12-10",
+        "header_1": "求职目标",
+        "chunk_id": "396b3bad-79cb-48de-a909-1da7f912a7a7"
+      }
+    },
+    {
+      "chunk_id": "31f8e501-1c58-4d2b-b91d-f0deaa372ce2",
+      "text": "职业规划讨论：用户希望3年内从推荐系统工程师晋升为高级推荐系统工程师，需要在深圳的美团类公司积累经验，掌握JavaScript技术栈。",
+      "metadata": {
+        "source": "2024-12-21.md",
+        "date": "2024-12-21",
+        "header_1": "偏好记录",
+        "chunk_id": "31f8e501-1c58-4d2b-b91d-f0deaa372ce2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "039a8fbd-29cc-4eb0-a93e-1ed28b391879",
+      "text": "用户正在准备阿里巴巴的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2025-11-02.md",
+        "date": "2025-11-02",
+        "header_1": "求职目标",
+        "chunk_id": "039a8fbd-29cc-4eb0-a93e-1ed28b391879"
+      }
+    },
+    {
+      "chunk_id": "fdb5c7d3-bdaf-4bd5-aeb8-6f0555075731",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2025-11-05.md",
+        "date": "2025-11-05",
+        "header_1": "面试进展",
+        "chunk_id": "fdb5c7d3-bdaf-4bd5-aeb8-6f0555075731"
+      }
+    },
+    {
+      "chunk_id": "44f51564-daac-4aee-a3c6-390efdb80d9e",
+      "text": "用户目标城市为北京，期望薪资35-50K",
+      "metadata": {
+        "source": "2025-12-15.md",
+        "date": "2025-12-15",
+        "header_1": "偏好记录",
+        "chunk_id": "44f51564-daac-4aee-a3c6-390efdb80d9e"
+      }
+    },
+    {
+      "chunk_id": "de133da6-5a61-459a-b230-d0e01708a7d5",
+      "text": "用户完成了终面，面试官重点考察了Spark原理和行为面试，整体表现中等，产品经理岗位竞争较激烈。",
+      "metadata": {
+        "source": "2025-02-25.md",
+        "date": "2025-02-25",
+        "header_1": "面试进展",
+        "chunk_id": "de133da6-5a61-459a-b230-d0e01708a7d5",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "ce29a60e-18fa-4129-a64e-448e2b5f0143",
+      "text": "用户目标岗位是后端工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2025-12-08.md",
+        "date": "2025-12-08",
+        "header_1": "偏好记录",
+        "chunk_id": "ce29a60e-18fa-4129-a64e-448e2b5f0143"
+      }
+    },
+    {
+      "chunk_id": "89269e18-3391-4776-89f4-b984c899ab3f",
+      "text": "微软的数据分析师岗位技术栈包含Spring，工作地点杭州，薪资水平25-35K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2025-03-14.md",
+        "date": "2025-03-14",
+        "header_1": "面试进展",
+        "chunk_id": "89269e18-3391-4776-89f4-b984c899ab3f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fa08334d-2a1a-4ca7-92f5-a2246d6259af",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2026-01-01.md",
+        "date": "2026-01-01",
+        "header_1": "求职目标",
+        "chunk_id": "fa08334d-2a1a-4ca7-92f5-a2246d6259af"
+      }
+    },
+    {
+      "chunk_id": "fe43d083-7d36-4083-bcfd-a1cd131a813a",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-19.md",
+        "date": "2025-10-19",
+        "header_1": "技术背景",
+        "chunk_id": "fe43d083-7d36-4083-bcfd-a1cd131a813a"
+      }
+    },
+    {
+      "chunk_id": "ad607f8a-f4ca-4d65-ad9b-d939d13f2c1f",
+      "text": "面试薄弱点分析：后端工程师方向的英文面试问题需要加强，建议系统学习MySQL，参考Shopee的技术博客。",
+      "metadata": {
+        "source": "2024-03-24.md",
+        "date": "2024-03-24",
+        "header_1": "面试总结",
+        "chunk_id": "ad607f8a-f4ca-4d65-ad9b-d939d13f2c1f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "123249e5-c548-4e09-8468-4354c0dcab47",
+      "text": "用户正在准备百度的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2026-02-21.md",
+        "date": "2026-02-21",
+        "header_1": "求职目标",
+        "chunk_id": "123249e5-c548-4e09-8468-4354c0dcab47"
+      }
+    },
+    {
+      "chunk_id": "981ba999-f73e-446c-941e-9df16a89923f",
+      "text": "用户完成了一面，面试官重点考察了MySQL原理和安全开发，整体表现中等，架构师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-02-07.md",
+        "date": "2024-02-07",
+        "header_1": "求职目标",
+        "chunk_id": "981ba999-f73e-446c-941e-9df16a89923f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d6905bd0-d3fa-4e45-b29f-e31aa4929947",
+      "text": "用户目标城市为北京，期望薪资40-60K",
+      "metadata": {
+        "source": "2026-01-04.md",
+        "date": "2026-01-04",
+        "header_1": "面试进展",
+        "chunk_id": "d6905bd0-d3fa-4e45-b29f-e31aa4929947"
+      }
+    },
+    {
+      "chunk_id": "f69d3642-ce81-40e3-9cb0-1ccc4d2ee1b0",
+      "text": "用户正在准备快手的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-11-27.md",
+        "date": "2025-11-27",
+        "header_1": "偏好记录",
+        "chunk_id": "f69d3642-ce81-40e3-9cb0-1ccc4d2ee1b0"
+      }
+    },
+    {
+      "chunk_id": "f7eb1e52-fefe-4414-8758-0f6c311d86a0",
+      "text": "用户目标城市为成都，期望薪资80-120K",
+      "metadata": {
+        "source": "2025-09-29.md",
+        "date": "2025-09-29",
+        "header_1": "偏好记录",
+        "chunk_id": "f7eb1e52-fefe-4414-8758-0f6c311d86a0"
+      }
+    },
+    {
+      "chunk_id": "2a096043-8683-4d2b-b678-61b69de776c2",
+      "text": "用户在小米面试数据分析师岗位，位于广州，薪资范围30-40K，面试过程中考察了Rust相关知识点，目前处于简历筛选阶段。",
+      "metadata": {
+        "source": "2025-01-10.md",
+        "date": "2025-01-10",
+        "header_1": "技术背景",
+        "chunk_id": "2a096043-8683-4d2b-b678-61b69de776c2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b6259eda-6526-4bfb-83fb-e5d1b6c17b65",
+      "text": "用户对快手的测试工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-01-17.md",
+        "date": "2026-01-17",
+        "header_1": "求职目标",
+        "chunk_id": "b6259eda-6526-4bfb-83fb-e5d1b6c17b65"
+      }
+    },
+    {
+      "chunk_id": "dcb4674c-c35f-4777-a02a-90ef9247d71c",
+      "text": "用户目标岗位是数据工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+      "metadata": {
+        "source": "2025-11-20.md",
+        "date": "2025-11-20",
+        "header_1": "技术背景",
+        "chunk_id": "dcb4674c-c35f-4777-a02a-90ef9247d71c"
+      }
+    },
+    {
+      "chunk_id": "36e38fc5-0f09-4964-8e73-573fa50352e3",
+      "text": "百度的算法工程师岗位技术栈包含Django，工作地点武汉，薪资水平30-40K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2025-02-21.md",
+        "date": "2025-02-21",
+        "header_1": "学习计划",
+        "chunk_id": "36e38fc5-0f09-4964-8e73-573fa50352e3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a2d51f4f-390b-4abd-8203-32d5f0c3acd2",
+      "text": "用户完成了HR面，面试官重点考察了Redis原理和数据库调优，整体表现中等，测试工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-04-21.md",
+        "date": "2024-04-21",
+        "header_1": "公司调研",
+        "chunk_id": "a2d51f4f-390b-4abd-8203-32d5f0c3acd2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c47c9f4e-1d7f-4039-8f1c-b803206d1f2c",
+      "text": "用户对快手的全栈工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-03-13.md",
+        "date": "2026-03-13",
+        "header_1": "求职目标",
+        "chunk_id": "c47c9f4e-1d7f-4039-8f1c-b803206d1f2c"
+      }
+    },
+    {
+      "chunk_id": "347f7088-2548-49af-afc8-77128fdedfcd",
+      "text": "京东的全栈工程师岗位技术栈包含Rust，工作地点南京，薪资水平60-80K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-08-26.md",
+        "date": "2024-08-26",
+        "header_1": "面试总结",
+        "chunk_id": "347f7088-2548-49af-afc8-77128fdedfcd",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "7e08b315-58d0-44bc-817f-6df82f1065cc",
+      "text": "用户完成了三面，面试官重点考察了JavaScript原理和安全开发，整体表现中等，机器学习工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-04-15.md",
+        "date": "2024-04-15",
+        "header_1": "面试总结",
+        "chunk_id": "7e08b315-58d0-44bc-817f-6df82f1065cc",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "24234dcf-7968-4ebc-9db8-0dbddea74387",
+      "text": "用户倾向于广州，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-24.md",
+        "date": "2026-02-24",
+        "header_1": "面试进展",
+        "chunk_id": "24234dcf-7968-4ebc-9db8-0dbddea74387"
+      }
+    },
+    {
+      "chunk_id": "9b89b8f6-2e20-4713-af30-cab17a91863f",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2025-12-13.md",
+        "date": "2025-12-13",
+        "header_1": "偏好记录",
+        "chunk_id": "9b89b8f6-2e20-4713-af30-cab17a91863f"
+      }
+    },
+    {
+      "chunk_id": "95681342-1488-4cba-9cb0-056977c301ac",
+      "text": "用户正在准备华为的面试，面试薄弱点是系统设计",
+      "metadata": {
+        "source": "2025-11-12.md",
+        "date": "2025-11-12",
+        "header_1": "面试进展",
+        "chunk_id": "95681342-1488-4cba-9cb0-056977c301ac"
+      }
+    },
+    {
+      "chunk_id": "dc2def84-2be9-4d8e-844b-f25c1185042a",
+      "text": "用户已完成三面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-10-31.md",
+        "date": "2025-10-31",
+        "header_1": "求职目标",
+        "chunk_id": "dc2def84-2be9-4d8e-844b-f25c1185042a"
+      }
+    },
+    {
+      "chunk_id": "12fa66bd-557e-45b8-950d-4449e95bdfc2",
+      "text": "面试薄弱点分析：推荐系统工程师方向的云原生架构问题需要加强，建议系统学习Hive，参考快手的技术博客。",
+      "metadata": {
+        "source": "2024-12-10.md",
+        "date": "2024-12-10",
+        "header_1": "面试进展",
+        "chunk_id": "12fa66bd-557e-45b8-950d-4449e95bdfc2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b0a53c78-afb6-4f5f-b53a-38be604d377a",
+      "text": "面试薄弱点分析：前端工程师方向的系统设计问题需要加强，建议系统学习Go，参考Shopee的技术博客。",
+      "metadata": {
+        "source": "2024-05-10.md",
+        "date": "2024-05-10",
+        "header_1": "技术背景",
+        "chunk_id": "b0a53c78-afb6-4f5f-b53a-38be604d377a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "69566022-4c08-49b7-8cb1-c7180cb59355",
+      "text": "用户完成了笔试，面试官重点考察了PyTorch原理和云原生架构，整体表现中等，游戏开发工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-25.md",
+        "date": "2024-11-25",
+        "header_1": "偏好记录",
+        "chunk_id": "69566022-4c08-49b7-8cb1-c7180cb59355",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5f9d702c-9585-4d36-9c65-229ce0ecb90b",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-28.md",
+        "date": "2026-01-28",
+        "header_1": "偏好记录",
+        "chunk_id": "5f9d702c-9585-4d36-9c65-229ce0ecb90b"
+      }
+    },
+    {
+      "chunk_id": "6a2ddd29-5205-4fbf-8d35-fe71042e2209",
+      "text": "用户目标城市为成都，期望薪资40-60K",
+      "metadata": {
+        "source": "2026-03-01.md",
+        "date": "2026-03-01",
+        "header_1": "求职目标",
+        "chunk_id": "6a2ddd29-5205-4fbf-8d35-fe71042e2209"
+      }
+    },
+    {
+      "chunk_id": "d765bd28-f01a-47b8-9560-97c5800ceab0",
+      "text": "职业规划讨论：用户希望3年内从产品经理晋升为高级产品经理，需要在苏州的美团类公司积累经验，掌握MongoDB技术栈。",
+      "metadata": {
+        "source": "2024-07-07.md",
+        "date": "2024-07-07",
+        "header_1": "公司调研",
+        "chunk_id": "d765bd28-f01a-47b8-9560-97c5800ceab0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "42ab051f-7c91-4a05-9503-0c2e02cf9f92",
+      "text": "用户正在准备百度的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-11-17.md",
+        "date": "2025-11-17",
+        "header_1": "技术背景",
+        "chunk_id": "42ab051f-7c91-4a05-9503-0c2e02cf9f92"
+      }
+    },
+    {
+      "chunk_id": "99b6a914-f6fb-4119-82d4-2e734a3ea25a",
+      "text": "简历修改建议：嵌入式工程师岗位简历需要突出Flink项目经验，量化成果，针对京东的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-08-24.md",
+        "date": "2024-08-24",
+        "header_1": "技术背景",
+        "chunk_id": "99b6a914-f6fb-4119-82d4-2e734a3ea25a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d49a47de-4c8f-4485-9ed5-73ac9b8e811a",
+      "text": "面试薄弱点分析：安全工程师方向的网络编程问题需要加强，建议系统学习FastAPI，参考Shopee的技术博客。",
+      "metadata": {
+        "source": "2024-11-26.md",
+        "date": "2024-11-26",
+        "header_1": "简历优化",
+        "chunk_id": "d49a47de-4c8f-4485-9ed5-73ac9b8e811a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "874a11e9-dff2-4564-ac9c-c237ee94d726",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-02-25.md",
+        "date": "2026-02-25",
+        "header_1": "技术背景",
+        "chunk_id": "874a11e9-dff2-4564-ac9c-c237ee94d726"
+      }
+    },
+    {
+      "chunk_id": "faa35a36-c498-4588-ad04-97a5e9477a1c",
+      "text": "用户技术栈JavaScript、React在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-26.md",
+        "date": "2025-12-26",
+        "header_1": "面试进展",
+        "chunk_id": "faa35a36-c498-4588-ad04-97a5e9477a1c"
+      }
+    },
+    {
+      "chunk_id": "6e653e40-4b52-4892-899b-c24123178392",
+      "text": "用户更新了求职偏好：从广州切换到考虑北京，技术方向从Django扩展到Kafka，薪资期望调整至25-35K。",
+      "metadata": {
+        "source": "2025-01-20.md",
+        "date": "2025-01-20",
+        "header_1": "学习计划",
+        "chunk_id": "6e653e40-4b52-4892-899b-c24123178392",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "42dbed9e-09fb-4f4b-87a4-4f1689ef9fbd",
+      "text": "用户完成了一面，面试官重点考察了Go原理和算法与数据结构，整体表现中等，游戏开发工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-17.md",
+        "date": "2024-11-17",
+        "header_1": "简历优化",
+        "chunk_id": "42dbed9e-09fb-4f4b-87a4-4f1689ef9fbd",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1f0bb810-302e-4a8e-8d05-2479046783b0",
+      "text": "用户已完成三面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-31.md",
+        "date": "2025-12-31",
+        "header_1": "面试进展",
+        "chunk_id": "1f0bb810-302e-4a8e-8d05-2479046783b0"
+      }
+    },
+    {
+      "chunk_id": "f9fddbf8-c7a4-44c7-bdfb-f2346b14cd3e",
+      "text": "用户计划在3个月内提升MongoDB技能，目标是拿到上海的产品经理岗位offer，期望薪资20-28K，对京东感兴趣。",
+      "metadata": {
+        "source": "2024-01-02.md",
+        "date": "2024-01-02",
+        "header_1": "技术背景",
+        "chunk_id": "f9fddbf8-c7a4-44c7-bdfb-f2346b14cd3e",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "de1b8cc2-08af-47aa-afb8-b8d7ea886988",
+      "text": "用户更新了求职偏好：从北京切换到考虑西安，技术方向从Python扩展到MySQL，薪资期望调整至30-40K。",
+      "metadata": {
+        "source": "2024-08-05.md",
+        "date": "2024-08-05",
+        "header_1": "学习计划",
+        "chunk_id": "de1b8cc2-08af-47aa-afb8-b8d7ea886988",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "85f1bce1-8143-44ba-81fb-4ff79248fd67",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-20.md",
+        "date": "2025-12-20",
+        "header_1": "面试进展",
+        "chunk_id": "85f1bce1-8143-44ba-81fb-4ff79248fd67"
+      }
+    },
+    {
+      "chunk_id": "1b56976d-8623-4db9-9c56-9a6885ac7709",
+      "text": "用户计划在3个月内提升Kafka技能，目标是拿到上海的机器学习工程师岗位offer，期望薪资30-40K，对Grab感兴趣。",
+      "metadata": {
+        "source": "2025-01-01.md",
+        "date": "2025-01-01",
+        "header_1": "薪资期望",
+        "chunk_id": "1b56976d-8623-4db9-9c56-9a6885ac7709",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "3aa82816-2650-4d19-90d6-5db3f0754b0b",
+      "text": "成都的游戏开发工程师市场分析：主要招聘方包括京东，普遍要求掌握Flink，薪资中位数约80-100K。",
+      "metadata": {
+        "source": "2025-01-10.md",
+        "date": "2025-01-10",
+        "header_1": "学习计划",
+        "chunk_id": "3aa82816-2650-4d19-90d6-5db3f0754b0b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "16979105-5d0e-499c-84d7-58fff6d926b4",
+      "text": "用户在百度面试算法工程师岗位，位于深圳，薪资范围20-28K，面试过程中考察了Flink相关知识点，目前处于二面阶段。",
+      "metadata": {
+        "source": "2024-12-13.md",
+        "date": "2024-12-13",
+        "header_1": "薪资期望",
+        "chunk_id": "16979105-5d0e-499c-84d7-58fff6d926b4",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d984073c-3492-4058-8e9a-9625b8162eb3",
+      "text": "简历修改建议：产品经理岗位简历需要突出Spark项目经验，量化成果，针对京东的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-04-29.md",
+        "date": "2024-04-29",
+        "header_1": "偏好记录",
+        "chunk_id": "d984073c-3492-4058-8e9a-9625b8162eb3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8718bc42-5fd9-46f1-9217-a3e7afa3d938",
+      "text": "用户希望在3个月内解决行为面试薄弱点",
+      "metadata": {
+        "source": "2026-02-17.md",
+        "date": "2026-02-17",
+        "header_1": "面试进展",
+        "chunk_id": "8718bc42-5fd9-46f1-9217-a3e7afa3d938"
+      }
+    },
+    {
+      "chunk_id": "003675a8-0f3e-46dd-8022-b09fcac8c1a6",
+      "text": "面试薄弱点分析：安全工程师方向的并发编程问题需要加强，建议系统学习Spark，参考网易的技术博客。",
+      "metadata": {
+        "source": "2025-02-21.md",
+        "date": "2025-02-21",
+        "header_1": "面试进展",
+        "chunk_id": "003675a8-0f3e-46dd-8022-b09fcac8c1a6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "54ca60f0-0085-4ff7-81eb-8b1e5fbda68d",
+      "text": "用户技术栈Python、Spark在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-09-30.md",
+        "date": "2025-09-30",
+        "header_1": "技术背景",
+        "chunk_id": "54ca60f0-0085-4ff7-81eb-8b1e5fbda68d"
+      }
+    },
+    {
+      "chunk_id": "fea61fa3-1e7f-412b-8192-6cadc731c158",
+      "text": "用户目标岗位是平台工程师，技术栈包含JavaScript、React、Node.js、MongoDB",
+      "metadata": {
+        "source": "2026-02-21.md",
+        "date": "2026-02-21",
+        "header_1": "面试进展",
+        "chunk_id": "fea61fa3-1e7f-412b-8192-6cadc731c158"
+      }
+    },
+    {
+      "chunk_id": "0fedb35a-6245-4dad-b7af-4c59c64ce75c",
+      "text": "面试薄弱点分析：机器学习工程师方向的分布式事务问题需要加强，建议系统学习FastAPI，参考字节跳动的技术博客。",
+      "metadata": {
+        "source": "2024-12-23.md",
+        "date": "2024-12-23",
+        "header_1": "学习计划",
+        "chunk_id": "0fedb35a-6245-4dad-b7af-4c59c64ce75c",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b6bccfc3-57e9-470f-b6cb-29462a1c7576",
+      "text": "用户目标城市为上海，期望薪资50-70K",
+      "metadata": {
+        "source": "2026-01-07.md",
+        "date": "2026-01-07",
+        "header_1": "偏好记录",
+        "chunk_id": "b6bccfc3-57e9-470f-b6cb-29462a1c7576"
+      }
+    },
+    {
+      "chunk_id": "ba8e8fc2-f2d8-45dd-b854-970c33ac0cc4",
+      "text": "职业规划讨论：用户希望3年内从DevOps工程师晋升为高级DevOps工程师，需要在深圳的京东类公司积累经验，掌握JavaScript技术栈。",
+      "metadata": {
+        "source": "2025-01-10.md",
+        "date": "2025-01-10",
+        "header_1": "公司调研",
+        "chunk_id": "ba8e8fc2-f2d8-45dd-b854-970c33ac0cc4",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "10561182-b883-4a52-8626-7c9552007689",
+      "text": "用户对Grab的测试工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-01-19.md",
+        "date": "2026-01-19",
+        "header_1": "偏好记录",
+        "chunk_id": "10561182-b883-4a52-8626-7c9552007689"
+      }
+    },
+    {
+      "chunk_id": "6edadb76-e2ce-4fed-913c-740e2beae702",
+      "text": "用户更新了求职偏好：从西安切换到考虑苏州，技术方向从PostgreSQL扩展到Kubernetes，薪资期望调整至60-80K。",
+      "metadata": {
+        "source": "2024-10-16.md",
+        "date": "2024-10-16",
+        "header_1": "面试总结",
+        "chunk_id": "6edadb76-e2ce-4fed-913c-740e2beae702",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "7ef47844-d57f-4533-9ace-dc45a6a160f4",
+      "text": "用户目标岗位是算法工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2025-10-10.md",
+        "date": "2025-10-10",
+        "header_1": "偏好记录",
+        "chunk_id": "7ef47844-d57f-4533-9ace-dc45a6a160f4"
+      }
+    },
+    {
+      "chunk_id": "ae91b9e6-b864-45a4-a33b-b41e4a1a1a30",
+      "text": "用户技术栈Go、gRPC在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-02-14.md",
+        "date": "2026-02-14",
+        "header_1": "求职目标",
+        "chunk_id": "ae91b9e6-b864-45a4-a33b-b41e4a1a1a30"
+      }
+    },
+    {
+      "chunk_id": "2e8f4478-67eb-4b2a-8fd4-3bc07d10663d",
+      "text": "用户目标城市为成都，期望薪资80-120K",
+      "metadata": {
+        "source": "2025-09-29.md",
+        "date": "2025-09-29",
+        "header_1": "求职目标",
+        "chunk_id": "2e8f4478-67eb-4b2a-8fd4-3bc07d10663d"
+      }
+    },
+    {
+      "chunk_id": "51358e57-1088-4a5b-9986-80d6a1410272",
+      "text": "用户技术栈JavaScript、React在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-17.md",
+        "date": "2025-12-17",
+        "header_1": "偏好记录",
+        "chunk_id": "51358e57-1088-4a5b-9986-80d6a1410272"
+      }
+    },
+    {
+      "chunk_id": "eb9d5de6-d50f-40c7-a1e7-ad5f6ebccde6",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2026-02-07.md",
+        "date": "2026-02-07",
+        "header_1": "求职目标",
+        "chunk_id": "eb9d5de6-d50f-40c7-a1e7-ad5f6ebccde6"
+      }
+    },
+    {
+      "chunk_id": "318fde61-cb8d-4b0e-8177-1ac13fd45ae9",
+      "text": "用户计划在3个月内提升Azure技能，目标是拿到南京的后端工程师岗位offer，期望薪资40-60K，对网易感兴趣。",
+      "metadata": {
+        "source": "2024-02-09.md",
+        "date": "2024-02-09",
+        "header_1": "面试总结",
+        "chunk_id": "318fde61-cb8d-4b0e-8177-1ac13fd45ae9",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c863bce3-bc03-4c5c-ad06-8781fdf6aeee",
+      "text": "用户目标城市为广州，期望薪资80-120K",
+      "metadata": {
+        "source": "2026-02-18.md",
+        "date": "2026-02-18",
+        "header_1": "求职目标",
+        "chunk_id": "c863bce3-bc03-4c5c-ad06-8781fdf6aeee"
+      }
+    },
+    {
+      "chunk_id": "6439506c-9d6a-4e9b-9524-ceb13f8c0d13",
+      "text": "用户目标城市为西安，期望薪资80-120K",
+      "metadata": {
+        "source": "2025-12-18.md",
+        "date": "2025-12-18",
+        "header_1": "面试进展",
+        "chunk_id": "6439506c-9d6a-4e9b-9524-ceb13f8c0d13"
+      }
+    },
+    {
+      "chunk_id": "206e4e32-da39-45f3-b54d-d6d613173279",
+      "text": "用户正在准备网易的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-12-18.md",
+        "date": "2025-12-18",
+        "header_1": "求职目标",
+        "chunk_id": "206e4e32-da39-45f3-b54d-d6d613173279"
+      }
+    },
+    {
+      "chunk_id": "2b21d8ac-3aec-409d-9340-abe8b7560f2f",
+      "text": "用户对PingCAP的测试工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-03.md",
+        "date": "2025-12-03",
+        "header_1": "偏好记录",
+        "chunk_id": "2b21d8ac-3aec-409d-9340-abe8b7560f2f"
+      }
+    },
+    {
+      "chunk_id": "ea034ede-e4d9-4898-8af0-e7652baed744",
+      "text": "用户完成了HR面，面试官重点考察了Spark原理和数据库调优，整体表现中等，算法工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-09-19.md",
+        "date": "2024-09-19",
+        "header_1": "偏好记录",
+        "chunk_id": "ea034ede-e4d9-4898-8af0-e7652baed744",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "bb7d0236-7857-470a-adb8-780fd6207882",
+      "text": "用户技术栈Python、Spark在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-14.md",
+        "date": "2025-11-14",
+        "header_1": "技术背景",
+        "chunk_id": "bb7d0236-7857-470a-adb8-780fd6207882"
+      }
+    },
+    {
+      "chunk_id": "75b36b58-de5a-44ba-a5e3-173edff648d5",
+      "text": "用户正在准备蚂蚁集团的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2025-11-18.md",
+        "date": "2025-11-18",
+        "header_1": "技术背景",
+        "chunk_id": "75b36b58-de5a-44ba-a5e3-173edff648d5"
+      }
+    },
+    {
+      "chunk_id": "799229bb-a7ae-4190-9d0b-d200dd14dfc6",
+      "text": "用户对PingCAP的推荐系统工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-31.md",
+        "date": "2025-12-31",
+        "header_1": "求职目标",
+        "chunk_id": "799229bb-a7ae-4190-9d0b-d200dd14dfc6"
+      }
+    },
+    {
+      "chunk_id": "d3c7d2bb-41e3-40b0-bd70-6aa1cf1e1c30",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-24.md",
+        "date": "2025-11-24",
+        "header_1": "技术背景",
+        "chunk_id": "d3c7d2bb-41e3-40b0-bd70-6aa1cf1e1c30"
+      }
+    },
+    {
+      "chunk_id": "db4ca7ef-6cf3-405b-bd42-dca8a0bfcc91",
+      "text": "用户希望在3个月内解决行为面试薄弱点",
+      "metadata": {
+        "source": "2025-11-03.md",
+        "date": "2025-11-03",
+        "header_1": "求职目标",
+        "chunk_id": "db4ca7ef-6cf3-405b-bd42-dca8a0bfcc91"
+      }
+    },
+    {
+      "chunk_id": "ed401e34-d16a-408c-aeab-9459f4033e87",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "面试进展",
+        "chunk_id": "ed401e34-d16a-408c-aeab-9459f4033e87"
+      }
+    },
+    {
+      "chunk_id": "68c29138-b8ad-48be-9287-ef74479c9880",
+      "text": "用户目标城市为北京，期望薪资60-80K",
+      "metadata": {
+        "source": "2025-10-19.md",
+        "date": "2025-10-19",
+        "header_1": "技术背景",
+        "chunk_id": "68c29138-b8ad-48be-9287-ef74479c9880"
+      }
+    },
+    {
+      "chunk_id": "6d8d5c9f-448f-488b-b040-f0c98fc8a49f",
+      "text": "用户正在准备阿里巴巴的面试，面试薄弱点是网络编程",
+      "metadata": {
+        "source": "2026-02-13.md",
+        "date": "2026-02-13",
+        "header_1": "技术背景",
+        "chunk_id": "6d8d5c9f-448f-488b-b040-f0c98fc8a49f"
+      }
+    },
+    {
+      "chunk_id": "4550887a-a961-44ca-ade5-2b355465f9db",
+      "text": "面试薄弱点分析：产品经理方向的算法与数据结构问题需要加强，建议系统学习MySQL，参考谷歌的技术博客。",
+      "metadata": {
+        "source": "2025-03-08.md",
+        "date": "2025-03-08",
+        "header_1": "公司调研",
+        "chunk_id": "4550887a-a961-44ca-ade5-2b355465f9db",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1c1b0b8c-c2ff-4fe6-9b19-da7b8788e97b",
+      "text": "职业规划讨论：用户希望3年内从全栈工程师晋升为高级全栈工程师，需要在上海的字节跳动类公司积累经验，掌握FastAPI技术栈。",
+      "metadata": {
+        "source": "2025-03-25.md",
+        "date": "2025-03-25",
+        "header_1": "技术背景",
+        "chunk_id": "1c1b0b8c-c2ff-4fe6-9b19-da7b8788e97b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "02488686-0113-446c-b8c1-d7ad737261d7",
+      "text": "用户正在准备网易的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2026-02-09.md",
+        "date": "2026-02-09",
+        "header_1": "技术背景",
+        "chunk_id": "02488686-0113-446c-b8c1-d7ad737261d7"
+      }
+    },
+    {
+      "chunk_id": "ab3c1b42-4ef7-41db-b89d-10e8ad3c40db",
+      "text": "用户希望在3个月内解决系统设计薄弱点",
+      "metadata": {
+        "source": "2026-02-18.md",
+        "date": "2026-02-18",
+        "header_1": "偏好记录",
+        "chunk_id": "ab3c1b42-4ef7-41db-b89d-10e8ad3c40db"
+      }
+    },
+    {
+      "chunk_id": "f66e129a-4a1b-47ef-895b-ba09a00c2e4f",
+      "text": "简历修改建议：数据工程师岗位简历需要突出AWS项目经验，量化成果，针对微软的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-11-21.md",
+        "date": "2024-11-21",
+        "header_1": "简历优化",
+        "chunk_id": "f66e129a-4a1b-47ef-895b-ba09a00c2e4f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "54929d1b-cf7a-421d-bc9a-a502471c86cb",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "求职目标",
+        "chunk_id": "54929d1b-cf7a-421d-bc9a-a502471c86cb"
+      }
+    },
+    {
+      "chunk_id": "be05c9b7-711b-4fad-ab0b-624a629a7075",
+      "text": "用户技术栈Rust、C++在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-26.md",
+        "date": "2026-01-26",
+        "header_1": "求职目标",
+        "chunk_id": "be05c9b7-711b-4fad-ab0b-624a629a7075"
+      }
+    },
+    {
+      "chunk_id": "015f0852-c5ba-47dd-97d2-6e834d3dcf11",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2026-02-13.md",
+        "date": "2026-02-13",
+        "header_1": "偏好记录",
+        "chunk_id": "015f0852-c5ba-47dd-97d2-6e834d3dcf11"
+      }
+    },
+    {
+      "chunk_id": "8ea8b16b-5688-4c28-b10f-98b1e3391e97",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-14.md",
+        "date": "2025-12-14",
+        "header_1": "求职目标",
+        "chunk_id": "8ea8b16b-5688-4c28-b10f-98b1e3391e97"
+      }
+    },
+    {
+      "chunk_id": "38fc7597-e6b8-4104-af78-6a8e609b19b8",
+      "text": "职业规划讨论：用户希望3年内从机器学习工程师晋升为高级机器学习工程师，需要在广州的PingCAP类公司积累经验，掌握MySQL技术栈。",
+      "metadata": {
+        "source": "2024-08-14.md",
+        "date": "2024-08-14",
+        "header_1": "面试进展",
+        "chunk_id": "38fc7597-e6b8-4104-af78-6a8e609b19b8",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "41bf64ab-c869-4ab4-88b6-a08837f2ed13",
+      "text": "用户在美团面试全栈工程师岗位，位于杭州，薪资范围15-20K，面试过程中考察了Flink相关知识点，目前处于终面阶段。",
+      "metadata": {
+        "source": "2024-02-21.md",
+        "date": "2024-02-21",
+        "header_1": "面试总结",
+        "chunk_id": "41bf64ab-c869-4ab4-88b6-a08837f2ed13",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2e1b65e1-1403-4681-8fbc-492d5127c445",
+      "text": "用户对阿里巴巴的DevOps工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-03.md",
+        "date": "2025-12-03",
+        "header_1": "面试进展",
+        "chunk_id": "2e1b65e1-1403-4681-8fbc-492d5127c445"
+      }
+    },
+    {
+      "chunk_id": "4c62d8db-6b55-4dbb-93ec-78a7a5a26c2b",
+      "text": "用户倾向于广州，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-04.md",
+        "date": "2026-03-04",
+        "header_1": "技术背景",
+        "chunk_id": "4c62d8db-6b55-4dbb-93ec-78a7a5a26c2b"
+      }
+    },
+    {
+      "chunk_id": "af9ec280-d267-4892-9c2e-61e5592fb366",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-09.md",
+        "date": "2026-03-09",
+        "header_1": "面试进展",
+        "chunk_id": "af9ec280-d267-4892-9c2e-61e5592fb366"
+      }
+    },
+    {
+      "chunk_id": "9b432df5-c512-49af-8c3b-03bb9d0a2f22",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-20.md",
+        "date": "2025-10-20",
+        "header_1": "求职目标",
+        "chunk_id": "9b432df5-c512-49af-8c3b-03bb9d0a2f22"
+      }
+    },
+    {
+      "chunk_id": "0e3fee05-98ce-443d-9705-955816144811",
+      "text": "用户目标城市为武汉，期望薪资50-70K",
+      "metadata": {
+        "source": "2025-11-10.md",
+        "date": "2025-11-10",
+        "header_1": "面试进展",
+        "chunk_id": "0e3fee05-98ce-443d-9705-955816144811"
+      }
+    },
+    {
+      "chunk_id": "57ebc3b4-f945-43ba-a9c4-a71d32cb6895",
+      "text": "用户对PingCAP的DevOps工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-18.md",
+        "date": "2025-10-18",
+        "header_1": "偏好记录",
+        "chunk_id": "57ebc3b4-f945-43ba-a9c4-a71d32cb6895"
+      }
+    },
+    {
+      "chunk_id": "2b1a38e1-df8c-4699-bf75-a64f21b82cab",
+      "text": "用户对字节跳动的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-15.md",
+        "date": "2025-12-15",
+        "header_1": "技术背景",
+        "chunk_id": "2b1a38e1-df8c-4699-bf75-a64f21b82cab"
+      }
+    },
+    {
+      "chunk_id": "78f62314-5754-4e8c-a2e2-f81839b5715d",
+      "text": "用户已完成二面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-10-18.md",
+        "date": "2025-10-18",
+        "header_1": "求职目标",
+        "chunk_id": "78f62314-5754-4e8c-a2e2-f81839b5715d"
+      }
+    },
+    {
+      "chunk_id": "5eae22e5-c30b-4a6f-825b-6d6961047ab1",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-09.md",
+        "date": "2026-02-09",
+        "header_1": "求职目标",
+        "chunk_id": "5eae22e5-c30b-4a6f-825b-6d6961047ab1"
+      }
+    },
+    {
+      "chunk_id": "f814025b-3394-4cf4-b8d3-4d7ccbdb624c",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-10.md",
+        "date": "2025-11-10",
+        "header_1": "求职目标",
+        "chunk_id": "f814025b-3394-4cf4-b8d3-4d7ccbdb624c"
+      }
+    },
+    {
+      "chunk_id": "fd62eb60-c7f0-4c35-ab69-38eb78a5f722",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-09-27.md",
+        "date": "2025-09-27",
+        "header_1": "技术背景",
+        "chunk_id": "fd62eb60-c7f0-4c35-ab69-38eb78a5f722"
+      }
+    },
+    {
+      "chunk_id": "c3ce1b45-2b89-4628-a846-b5b7aa4d5033",
+      "text": "阿里巴巴的架构师岗位技术栈包含Azure，工作地点苏州，薪资水平60-80K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-02-12.md",
+        "date": "2024-02-12",
+        "header_1": "技术背景",
+        "chunk_id": "c3ce1b45-2b89-4628-a846-b5b7aa4d5033",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b3c53ee0-2d24-4abb-9e47-26c394b79fe4",
+      "text": "用户正在准备小米的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-12-16.md",
+        "date": "2025-12-16",
+        "header_1": "面试进展",
+        "chunk_id": "b3c53ee0-2d24-4abb-9e47-26c394b79fe4"
+      }
+    },
+    {
+      "chunk_id": "ce5ee3d6-9dcb-4ba4-9650-070dbe5ffcb0",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-11-19.md",
+        "date": "2025-11-19",
+        "header_1": "技术背景",
+        "chunk_id": "ce5ee3d6-9dcb-4ba4-9650-070dbe5ffcb0"
+      }
+    },
+    {
+      "chunk_id": "cc882383-9cf5-4245-afe5-7eb78c12bbd8",
+      "text": "用户目标岗位是平台工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+      "metadata": {
+        "source": "2025-11-29.md",
+        "date": "2025-11-29",
+        "header_1": "技术背景",
+        "chunk_id": "cc882383-9cf5-4245-afe5-7eb78c12bbd8"
+      }
+    },
+    {
+      "chunk_id": "4e760dfb-7aff-4b24-80bd-76f3cf22c0db",
+      "text": "面试薄弱点分析：数据工程师方向的云原生架构问题需要加强，建议系统学习AWS，参考蚂蚁集团的技术博客。",
+      "metadata": {
+        "source": "2024-10-28.md",
+        "date": "2024-10-28",
+        "header_1": "职业规划",
+        "chunk_id": "4e760dfb-7aff-4b24-80bd-76f3cf22c0db",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8715a00b-a8cd-40f1-a0e5-2ca9580f13de",
+      "text": "用户目标城市为广州，期望薪资35-50K",
+      "metadata": {
+        "source": "2025-10-25.md",
+        "date": "2025-10-25",
+        "header_1": "技术背景",
+        "chunk_id": "8715a00b-a8cd-40f1-a0e5-2ca9580f13de"
+      }
+    },
+    {
+      "chunk_id": "d574deb8-9e9f-48c9-8bf6-aaa9b611b9dd",
+      "text": "用户计划在3个月内提升TensorFlow技能，目标是拿到武汉的安全工程师岗位offer，期望薪资60-80K，对京东感兴趣。",
+      "metadata": {
+        "source": "2024-04-13.md",
+        "date": "2024-04-13",
+        "header_1": "薪资期望",
+        "chunk_id": "d574deb8-9e9f-48c9-8bf6-aaa9b611b9dd",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "91910efb-444b-455e-ab8e-a7e8054b10a2",
+      "text": "PingCAP的架构师岗位技术栈包含Python，工作地点西安，薪资水平50-70K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-12-23.md",
+        "date": "2024-12-23",
+        "header_1": "学习计划",
+        "chunk_id": "91910efb-444b-455e-ab8e-a7e8054b10a2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "55f76e7a-d50b-4df7-a882-b07cee848fce",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2025-10-19.md",
+        "date": "2025-10-19",
+        "header_1": "面试进展",
+        "chunk_id": "55f76e7a-d50b-4df7-a882-b07cee848fce"
+      }
+    },
+    {
+      "chunk_id": "5a171da5-40b7-4ef0-8d50-62e4b7635a47",
+      "text": "用户技术栈Java、Spring Boot在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-27.md",
+        "date": "2025-11-27",
+        "header_1": "偏好记录",
+        "chunk_id": "5a171da5-40b7-4ef0-8d50-62e4b7635a47"
+      }
+    },
+    {
+      "chunk_id": "0fe16a60-f3e9-48d6-8c6f-5eb8217f197a",
+      "text": "用户完成了一面，面试官重点考察了TensorFlow原理和并发编程，整体表现中等，机器学习工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-05-18.md",
+        "date": "2024-05-18",
+        "header_1": "简历优化",
+        "chunk_id": "0fe16a60-f3e9-48d6-8c6f-5eb8217f197a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2f1330fe-98f6-4c6e-b9ca-4252a632fbe9",
+      "text": "用户对PingCAP的推荐系统工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-03-18.md",
+        "date": "2026-03-18",
+        "header_1": "偏好记录",
+        "chunk_id": "2f1330fe-98f6-4c6e-b9ca-4252a632fbe9"
+      }
+    },
+    {
+      "chunk_id": "3592a9aa-ee7a-468d-b277-78a5a334cc89",
+      "text": "用户更新了求职偏好：从上海切换到考虑上海，技术方向从Python扩展到C++，薪资期望调整至25-35K。",
+      "metadata": {
+        "source": "2024-04-30.md",
+        "date": "2024-04-30",
+        "header_1": "学习计划",
+        "chunk_id": "3592a9aa-ee7a-468d-b277-78a5a334cc89",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "01dd2080-d439-45c5-99fb-abec73affd96",
+      "text": "用户目标城市为广州，期望薪资60-80K",
+      "metadata": {
+        "source": "2025-10-30.md",
+        "date": "2025-10-30",
+        "header_1": "求职目标",
+        "chunk_id": "01dd2080-d439-45c5-99fb-abec73affd96"
+      }
+    },
+    {
+      "chunk_id": "ba6506b9-c8c8-48d2-be7c-0d015b4313e7",
+      "text": "用户更新了求职偏好：从西安切换到考虑深圳，技术方向从MongoDB扩展到Go，薪资期望调整至50-70K。",
+      "metadata": {
+        "source": "2025-01-22.md",
+        "date": "2025-01-22",
+        "header_1": "求职目标",
+        "chunk_id": "ba6506b9-c8c8-48d2-be7c-0d015b4313e7",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9cdafec9-d5e1-4673-9289-2bfb97445fb8",
+      "text": "用户目标城市为深圳，期望薪资80-120K",
+      "metadata": {
+        "source": "2026-03-25.md",
+        "date": "2026-03-25",
+        "header_1": "面试进展",
+        "chunk_id": "9cdafec9-d5e1-4673-9289-2bfb97445fb8"
+      }
+    },
+    {
+      "chunk_id": "2b871bc5-4f50-4962-9e89-f2583a52b07b",
+      "text": "用户计划在3个月内提升Redis技能，目标是拿到上海的推荐系统工程师岗位offer，期望薪资40-60K，对PingCAP感兴趣。",
+      "metadata": {
+        "source": "2025-02-25.md",
+        "date": "2025-02-25",
+        "header_1": "薪资期望",
+        "chunk_id": "2b871bc5-4f50-4962-9e89-f2583a52b07b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "001ece3e-9bda-494c-a25e-dd9fc01689b0",
+      "text": "用户正在准备字节跳动的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-11-26.md",
+        "date": "2025-11-26",
+        "header_1": "求职目标",
+        "chunk_id": "001ece3e-9bda-494c-a25e-dd9fc01689b0"
+      }
+    },
+    {
+      "chunk_id": "65e4af6d-5906-4ad6-8669-9eef0e1d53e3",
+      "text": "用户对快手的架构师岗位感兴趣",
+      "metadata": {
+        "source": "2026-01-11.md",
+        "date": "2026-01-11",
+        "header_1": "偏好记录",
+        "chunk_id": "65e4af6d-5906-4ad6-8669-9eef0e1d53e3"
+      }
+    },
+    {
+      "chunk_id": "735c10aa-3df8-41eb-ba16-b4a7c69ee952",
+      "text": "华为的笔试反馈：技术考察重点为Spring，后端工程师岗位对分布式事务要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-11-05.md",
+        "date": "2024-11-05",
+        "header_1": "技术背景",
+        "chunk_id": "735c10aa-3df8-41eb-ba16-b4a7c69ee952",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "93e475a6-f35d-411c-baa8-20e0bcb1a3a6",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-03-20.md",
+        "date": "2026-03-20",
+        "header_1": "技术背景",
+        "chunk_id": "93e475a6-f35d-411c-baa8-20e0bcb1a3a6"
+      }
+    },
+    {
+      "chunk_id": "545a4ac9-4897-44d0-9301-0d2e148e0043",
+      "text": "用户倾向于杭州，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-11.md",
+        "date": "2026-02-11",
+        "header_1": "面试进展",
+        "chunk_id": "545a4ac9-4897-44d0-9301-0d2e148e0043"
+      }
+    },
+    {
+      "chunk_id": "96ff60f3-9391-455b-8d27-ac775e255b9c",
+      "text": "用户技术栈JavaScript、React在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-03-01.md",
+        "date": "2026-03-01",
+        "header_1": "技术背景",
+        "chunk_id": "96ff60f3-9391-455b-8d27-ac775e255b9c"
+      }
+    },
+    {
+      "chunk_id": "b226154b-489c-4c06-8ff4-d5e4bfa5e396",
+      "text": "用户对PingCAP的平台工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-02-07.md",
+        "date": "2026-02-07",
+        "header_1": "技术背景",
+        "chunk_id": "b226154b-489c-4c06-8ff4-d5e4bfa5e396"
+      }
+    },
+    {
+      "chunk_id": "5b34b976-95b1-44d6-8d2a-ed5d1e27ba09",
+      "text": "用户目标城市为成都，期望薪资25-35K",
+      "metadata": {
+        "source": "2026-01-12.md",
+        "date": "2026-01-12",
+        "header_1": "技术背景",
+        "chunk_id": "5b34b976-95b1-44d6-8d2a-ed5d1e27ba09"
+      }
+    },
+    {
+      "chunk_id": "78be6009-5f42-4d6f-9cd0-0ff4b9673329",
+      "text": "简历修改建议：后端工程师岗位简历需要突出Kubernetes项目经验，量化成果，针对美团的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-02-08.md",
+        "date": "2024-02-08",
+        "header_1": "面试总结",
+        "chunk_id": "78be6009-5f42-4d6f-9cd0-0ff4b9673329",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "f15b2030-d8f7-4691-9149-a0cd7c202899",
+      "text": "用户目标城市为深圳，期望薪资40-60K",
+      "metadata": {
+        "source": "2025-10-07.md",
+        "date": "2025-10-07",
+        "header_1": "面试进展",
+        "chunk_id": "f15b2030-d8f7-4691-9149-a0cd7c202899"
+      }
+    },
+    {
+      "chunk_id": "59596c58-5143-425b-9cf9-52cf08401dea",
+      "text": "职业规划讨论：用户希望3年内从后端工程师晋升为高级后端工程师，需要在苏州的腾讯类公司积累经验，掌握Rust技术栈。",
+      "metadata": {
+        "source": "2025-01-13.md",
+        "date": "2025-01-13",
+        "header_1": "面试进展",
+        "chunk_id": "59596c58-5143-425b-9cf9-52cf08401dea",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fea4cac1-fdc5-4857-925c-544e1e876277",
+      "text": "职业规划讨论：用户希望3年内从测试工程师晋升为高级测试工程师，需要在西安的谷歌类公司积累经验，掌握Rust技术栈。",
+      "metadata": {
+        "source": "2024-07-21.md",
+        "date": "2024-07-21",
+        "header_1": "公司调研",
+        "chunk_id": "fea4cac1-fdc5-4857-925c-544e1e876277",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "18681dd0-8c93-4529-ab24-052777a76a26",
+      "text": "用户技术栈Java、Spring Boot在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-16.md",
+        "date": "2026-01-16",
+        "header_1": "求职目标",
+        "chunk_id": "18681dd0-8c93-4529-ab24-052777a76a26"
+      }
+    },
+    {
+      "chunk_id": "b9c0c592-1268-4f3f-8374-48b210be79db",
+      "text": "用户更新了求职偏好：从西安切换到考虑苏州，技术方向从Kafka扩展到Hive，薪资期望调整至100K+。",
+      "metadata": {
+        "source": "2024-07-27.md",
+        "date": "2024-07-27",
+        "header_1": "职业规划",
+        "chunk_id": "b9c0c592-1268-4f3f-8374-48b210be79db",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "35bc30f9-9603-4bdc-bb67-db7846d108f2",
+      "text": "用户在字节跳动面试数据分析师岗位，位于深圳，薪资范围30-40K，面试过程中考察了Java相关知识点，目前处于笔试阶段。",
+      "metadata": {
+        "source": "2024-04-05.md",
+        "date": "2024-04-05",
+        "header_1": "求职目标",
+        "chunk_id": "35bc30f9-9603-4bdc-bb67-db7846d108f2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "642e3ef7-c2a5-4a21-8385-9b175ba7b220",
+      "text": "用户目标岗位是测试工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2026-02-14.md",
+        "date": "2026-02-14",
+        "header_1": "技术背景",
+        "chunk_id": "642e3ef7-c2a5-4a21-8385-9b175ba7b220"
+      }
+    },
+    {
+      "chunk_id": "b5c43215-d252-4fa0-8b2c-56216da12ec0",
+      "text": "面试薄弱点分析：后端工程师方向的安全开发问题需要加强，建议系统学习Elasticsearch，参考京东的技术博客。",
+      "metadata": {
+        "source": "2024-12-27.md",
+        "date": "2024-12-27",
+        "header_1": "职业规划",
+        "chunk_id": "b5c43215-d252-4fa0-8b2c-56216da12ec0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b7b34c83-6966-45bf-8cdc-cabfc1a3e51b",
+      "text": "用户在小米面试后端工程师岗位，位于苏州，薪资范围40-60K，面试过程中考察了TypeScript相关知识点，目前处于终面阶段。",
+      "metadata": {
+        "source": "2024-08-20.md",
+        "date": "2024-08-20",
+        "header_1": "简历优化",
+        "chunk_id": "b7b34c83-6966-45bf-8cdc-cabfc1a3e51b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d7a08041-fe39-4e02-9c47-17c17517d54e",
+      "text": "职业规划讨论：用户希望3年内从算法工程师晋升为高级算法工程师，需要在杭州的美团类公司积累经验，掌握Python技术栈。",
+      "metadata": {
+        "source": "2024-02-29.md",
+        "date": "2024-02-29",
+        "header_1": "面试进展",
+        "chunk_id": "d7a08041-fe39-4e02-9c47-17c17517d54e",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a1a9556a-db0e-4ec9-8586-3725a4973217",
+      "text": "用户目标城市为深圳，期望薪资30-45K",
+      "metadata": {
+        "source": "2026-01-29.md",
+        "date": "2026-01-29",
+        "header_1": "技术背景",
+        "chunk_id": "a1a9556a-db0e-4ec9-8586-3725a4973217"
+      }
+    },
+    {
+      "chunk_id": "97f1fe36-087e-4e73-b267-a07298e0368a",
+      "text": "面试薄弱点分析：算法工程师方向的英文面试问题需要加强，建议系统学习PostgreSQL，参考微软的技术博客。",
+      "metadata": {
+        "source": "2024-02-09.md",
+        "date": "2024-02-09",
+        "header_1": "简历优化",
+        "chunk_id": "97f1fe36-087e-4e73-b267-a07298e0368a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "be12d166-6b19-414b-bfee-a1bbbbc8af06",
+      "text": "用户正在准备滴滴的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2025-10-27.md",
+        "date": "2025-10-27",
+        "header_1": "求职目标",
+        "chunk_id": "be12d166-6b19-414b-bfee-a1bbbbc8af06"
+      }
+    },
+    {
+      "chunk_id": "c529f511-768a-4a94-8215-63a50ad00bf6",
+      "text": "简历修改建议：测试工程师岗位简历需要突出Hive项目经验，量化成果，针对华为的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-06-08.md",
+        "date": "2024-06-08",
+        "header_1": "公司调研",
+        "chunk_id": "c529f511-768a-4a94-8215-63a50ad00bf6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "46e3f888-e801-451c-a2dd-a9a62471b43e",
+      "text": "用户目标城市为成都，期望薪资40-60K",
+      "metadata": {
+        "source": "2026-01-07.md",
+        "date": "2026-01-07",
+        "header_1": "面试进展",
+        "chunk_id": "46e3f888-e801-451c-a2dd-a9a62471b43e"
+      }
+    },
+    {
+      "chunk_id": "4a888a9e-8200-4fb9-aa12-a79889333a55",
+      "text": "用户在Shopee面试全栈工程师岗位，位于西安，薪资范围20-28K，面试过程中考察了Redis相关知识点，目前处于简历筛选阶段。",
+      "metadata": {
+        "source": "2025-01-08.md",
+        "date": "2025-01-08",
+        "header_1": "面试总结",
+        "chunk_id": "4a888a9e-8200-4fb9-aa12-a79889333a55",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c2722329-85eb-462a-900a-1c143591d7f7",
+      "text": "用户对腾讯的推荐系统工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-02-28.md",
+        "date": "2026-02-28",
+        "header_1": "偏好记录",
+        "chunk_id": "c2722329-85eb-462a-900a-1c143591d7f7"
+      }
+    },
+    {
+      "chunk_id": "1370c7bf-e7e2-473c-9fe3-0de1f5448701",
+      "text": "用户计划在3个月内提升Redis技能，目标是拿到苏州的算法工程师岗位offer，期望薪资60-80K，对字节跳动感兴趣。",
+      "metadata": {
+        "source": "2024-06-27.md",
+        "date": "2024-06-27",
+        "header_1": "面试总结",
+        "chunk_id": "1370c7bf-e7e2-473c-9fe3-0de1f5448701",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "90e1c63e-d2ea-4b02-b540-98a3f82b9700",
+      "text": "职业规划讨论：用户希望3年内从架构师晋升为高级架构师，需要在武汉的美团类公司积累经验，掌握Java技术栈。",
+      "metadata": {
+        "source": "2024-02-07.md",
+        "date": "2024-02-07",
+        "header_1": "学习计划",
+        "chunk_id": "90e1c63e-d2ea-4b02-b540-98a3f82b9700",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "61ee37e9-1858-49df-b134-89a393e18a62",
+      "text": "面试薄弱点分析：架构师方向的云原生架构问题需要加强，建议系统学习Go，参考京东的技术博客。",
+      "metadata": {
+        "source": "2025-01-07.md",
+        "date": "2025-01-07",
+        "header_1": "薪资期望",
+        "chunk_id": "61ee37e9-1858-49df-b134-89a393e18a62",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1e4b1874-3b1c-4dc1-ad97-9a0a4dee791b",
+      "text": "用户计划在3个月内提升Java技能，目标是拿到成都的数据工程师岗位offer，期望薪资60-80K，对美团感兴趣。",
+      "metadata": {
+        "source": "2024-08-09.md",
+        "date": "2024-08-09",
+        "header_1": "技术背景",
+        "chunk_id": "1e4b1874-3b1c-4dc1-ad97-9a0a4dee791b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "7207d6d8-5713-49f8-bc27-0e4f61021bfb",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2025-12-28.md",
+        "date": "2025-12-28",
+        "header_1": "技术背景",
+        "chunk_id": "7207d6d8-5713-49f8-bc27-0e4f61021bfb"
+      }
+    },
+    {
+      "chunk_id": "2a89893b-9b95-4406-ae03-d9e72487cac0",
+      "text": "面试薄弱点分析：游戏开发工程师方向的数据库调优问题需要加强，建议系统学习Go，参考华为的技术博客。",
+      "metadata": {
+        "source": "2024-07-21.md",
+        "date": "2024-07-21",
+        "header_1": "职业规划",
+        "chunk_id": "2a89893b-9b95-4406-ae03-d9e72487cac0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "39470006-2878-4720-a782-cfeb0316b8ea",
+      "text": "用户对蚂蚁集团的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-03.md",
+        "date": "2025-10-03",
+        "header_1": "偏好记录",
+        "chunk_id": "39470006-2878-4720-a782-cfeb0316b8ea"
+      }
+    },
+    {
+      "chunk_id": "69055781-ace6-439e-94f0-03228047e52a",
+      "text": "用户完成了笔试，面试官重点考察了PyTorch原理和分布式事务，整体表现中等，测试工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-03-23.md",
+        "date": "2024-03-23",
+        "header_1": "偏好记录",
+        "chunk_id": "69055781-ace6-439e-94f0-03228047e52a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "bf5848b3-3d01-44d8-a887-d572c85169ae",
+      "text": "Grab的数据分析师岗位技术栈包含Docker，工作地点广州，薪资水平100K+，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-10-07.md",
+        "date": "2024-10-07",
+        "header_1": "求职目标",
+        "chunk_id": "bf5848b3-3d01-44d8-a887-d572c85169ae",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "479fe2a1-4088-4510-a3fb-119864e45ac2",
+      "text": "面试薄弱点分析：安全工程师方向的并发编程问题需要加强，建议系统学习AWS，参考腾讯的技术博客。",
+      "metadata": {
+        "source": "2024-12-17.md",
+        "date": "2024-12-17",
+        "header_1": "职业规划",
+        "chunk_id": "479fe2a1-4088-4510-a3fb-119864e45ac2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "7f87dc50-7e20-4ff5-986c-46cbaa99b10e",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-10-24.md",
+        "date": "2025-10-24",
+        "header_1": "偏好记录",
+        "chunk_id": "7f87dc50-7e20-4ff5-986c-46cbaa99b10e"
+      }
+    },
+    {
+      "chunk_id": "b703f588-1446-49ce-9d71-b9fc51e23614",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2026-01-09.md",
+        "date": "2026-01-09",
+        "header_1": "技术背景",
+        "chunk_id": "b703f588-1446-49ce-9d71-b9fc51e23614"
+      }
+    },
+    {
+      "chunk_id": "f595ac27-4911-47cd-aa67-9cdb905e049f",
+      "text": "用户完成了二面，面试官重点考察了MongoDB原理和数据库调优，整体表现中等，机器学习工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-03.md",
+        "date": "2024-11-03",
+        "header_1": "职业规划",
+        "chunk_id": "f595ac27-4911-47cd-aa67-9cdb905e049f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "e7318a7f-e042-40d2-bffe-3836dcc749d6",
+      "text": "用户倾向于广州，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-16.md",
+        "date": "2025-10-16",
+        "header_1": "面试进展",
+        "chunk_id": "e7318a7f-e042-40d2-bffe-3836dcc749d6"
+      }
+    },
+    {
+      "chunk_id": "7fd9cfa4-5c54-4c25-9f5b-3ab4868fdba2",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-11-12.md",
+        "date": "2025-11-12",
+        "header_1": "偏好记录",
+        "chunk_id": "7fd9cfa4-5c54-4c25-9f5b-3ab4868fdba2"
+      }
+    },
+    {
+      "chunk_id": "663932d5-7c87-43e0-b312-924f902a145f",
+      "text": "用户正在准备百度的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-10-14.md",
+        "date": "2025-10-14",
+        "header_1": "面试进展",
+        "chunk_id": "663932d5-7c87-43e0-b312-924f902a145f"
+      }
+    },
+    {
+      "chunk_id": "e5364b13-24bb-4175-bbf9-fdc63994195a",
+      "text": "用户技术栈Java、Kubernetes在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-17.md",
+        "date": "2025-11-17",
+        "header_1": "面试进展",
+        "chunk_id": "e5364b13-24bb-4175-bbf9-fdc63994195a"
+      }
+    },
+    {
+      "chunk_id": "604f46df-5221-4c00-9516-258128f0b1d7",
+      "text": "用户计划在3个月内提升PostgreSQL技能，目标是拿到广州的DevOps工程师岗位offer，期望薪资30-40K，对滴滴感兴趣。",
+      "metadata": {
+        "source": "2024-04-20.md",
+        "date": "2024-04-20",
+        "header_1": "面试进展",
+        "chunk_id": "604f46df-5221-4c00-9516-258128f0b1d7",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "418f0b7a-aa67-4319-9c35-0f7b54c8af13",
+      "text": "用户希望在3个月内解决网络编程薄弱点",
+      "metadata": {
+        "source": "2025-11-06.md",
+        "date": "2025-11-06",
+        "header_1": "技术背景",
+        "chunk_id": "418f0b7a-aa67-4319-9c35-0f7b54c8af13"
+      }
+    },
+    {
+      "chunk_id": "ff49cbc5-20e7-4585-ac7e-44b1569a88b4",
+      "text": "用户正在准备滴滴的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-10-28.md",
+        "date": "2025-10-28",
+        "header_1": "技术背景",
+        "chunk_id": "ff49cbc5-20e7-4585-ac7e-44b1569a88b4"
+      }
+    },
+    {
+      "chunk_id": "11d6dab1-49a7-4f2e-956f-b931faaca340",
+      "text": "面试薄弱点分析：机器学习工程师方向的云原生架构问题需要加强，建议系统学习TensorFlow，参考网易的技术博客。",
+      "metadata": {
+        "source": "2025-01-30.md",
+        "date": "2025-01-30",
+        "header_1": "薪资期望",
+        "chunk_id": "11d6dab1-49a7-4f2e-956f-b931faaca340",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "488b97da-49b5-4cb4-8df4-bc0655bd9961",
+      "text": "腾讯的数据工程师岗位技术栈包含MongoDB，工作地点上海，薪资水平40-60K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-02-29.md",
+        "date": "2024-02-29",
+        "header_1": "偏好记录",
+        "chunk_id": "488b97da-49b5-4cb4-8df4-bc0655bd9961",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "eb00faca-2564-4ba4-8656-3a66f6f5bf2a",
+      "text": "用户在京东面试机器学习工程师岗位，位于北京，薪资范围20-28K，面试过程中考察了Rust相关知识点，目前处于HR面阶段。",
+      "metadata": {
+        "source": "2024-02-18.md",
+        "date": "2024-02-18",
+        "header_1": "简历优化",
+        "chunk_id": "eb00faca-2564-4ba4-8656-3a66f6f5bf2a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8d990b89-4073-4ba3-a358-0d443596eaae",
+      "text": "用户目标城市为北京，期望薪资35-50K",
+      "metadata": {
+        "source": "2025-10-12.md",
+        "date": "2025-10-12",
+        "header_1": "偏好记录",
+        "chunk_id": "8d990b89-4073-4ba3-a358-0d443596eaae"
+      }
+    },
+    {
+      "chunk_id": "6b6efa14-64bb-4c16-882e-649c00392a77",
+      "text": "用户目标岗位是前端工程师，技术栈包含JavaScript、React、Node.js、MongoDB",
+      "metadata": {
+        "source": "2025-10-20.md",
+        "date": "2025-10-20",
+        "header_1": "偏好记录",
+        "chunk_id": "6b6efa14-64bb-4c16-882e-649c00392a77"
+      }
+    },
+    {
+      "chunk_id": "c4670a3e-bdce-4022-b810-7fbe9a7388b4",
+      "text": "用户倾向于杭州，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-21.md",
+        "date": "2026-03-21",
+        "header_1": "技术背景",
+        "chunk_id": "c4670a3e-bdce-4022-b810-7fbe9a7388b4"
+      }
+    },
+    {
+      "chunk_id": "74ad2632-63b9-4630-bc4f-3cb18b00b595",
+      "text": "用户在Shopee面试数据工程师岗位，位于杭州，薪资范围15-20K，面试过程中考察了Rust相关知识点，目前处于HR面阶段。",
+      "metadata": {
+        "source": "2024-04-16.md",
+        "date": "2024-04-16",
+        "header_1": "技术背景",
+        "chunk_id": "74ad2632-63b9-4630-bc4f-3cb18b00b595",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "77739f01-f2b5-43be-b894-85b469513933",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-09-28.md",
+        "date": "2025-09-28",
+        "header_1": "面试进展",
+        "chunk_id": "77739f01-f2b5-43be-b894-85b469513933"
+      }
+    },
+    {
+      "chunk_id": "933a7778-0739-4986-8415-e4f4eb8e8a7e",
+      "text": "小米的数据分析师岗位技术栈包含FastAPI，工作地点武汉，薪资水平20-28K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-07-26.md",
+        "date": "2024-07-26",
+        "header_1": "求职目标",
+        "chunk_id": "933a7778-0739-4986-8415-e4f4eb8e8a7e",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5c2f7b75-bd24-4d7f-b46e-b473af1f9811",
+      "text": "用户目标岗位是全栈工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+      "metadata": {
+        "source": "2025-11-11.md",
+        "date": "2025-11-11",
+        "header_1": "偏好记录",
+        "chunk_id": "5c2f7b75-bd24-4d7f-b46e-b473af1f9811"
+      }
+    },
+    {
+      "chunk_id": "c9602478-07fb-43bb-bc32-f5ae54e37476",
+      "text": "用户目标城市为武汉，期望薪资20-30K",
+      "metadata": {
+        "source": "2025-11-25.md",
+        "date": "2025-11-25",
+        "header_1": "技术背景",
+        "chunk_id": "c9602478-07fb-43bb-bc32-f5ae54e37476"
+      }
+    },
+    {
+      "chunk_id": "045c2e63-865e-49dd-9f19-56600cbe5ed0",
+      "text": "用户希望在3个月内解决系统设计薄弱点",
+      "metadata": {
+        "source": "2026-03-06.md",
+        "date": "2026-03-06",
+        "header_1": "求职目标",
+        "chunk_id": "045c2e63-865e-49dd-9f19-56600cbe5ed0"
+      }
+    },
+    {
+      "chunk_id": "eab2fb59-3f62-4281-9f53-00c7e012b9c7",
+      "text": "职业规划讨论：用户希望3年内从游戏开发工程师晋升为高级游戏开发工程师，需要在上海的PingCAP类公司积累经验，掌握Java技术栈。",
+      "metadata": {
+        "source": "2024-04-17.md",
+        "date": "2024-04-17",
+        "header_1": "面试总结",
+        "chunk_id": "eab2fb59-3f62-4281-9f53-00c7e012b9c7",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9fba49f4-d0c7-43e7-be87-3467d52dfc23",
+      "text": "用户倾向于北京，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-01-24.md",
+        "date": "2026-01-24",
+        "header_1": "面试进展",
+        "chunk_id": "9fba49f4-d0c7-43e7-be87-3467d52dfc23"
+      }
+    },
+    {
+      "chunk_id": "d0227edd-3d38-4333-a97a-5aa63ec7c6bd",
+      "text": "用户计划在3个月内提升Azure技能，目标是拿到上海的数据工程师岗位offer，期望薪资60-80K，对美团感兴趣。",
+      "metadata": {
+        "source": "2024-10-10.md",
+        "date": "2024-10-10",
+        "header_1": "简历优化",
+        "chunk_id": "d0227edd-3d38-4333-a97a-5aa63ec7c6bd",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "278e36fc-6b51-45fb-8f55-5d27817b8620",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2026-01-02.md",
+        "date": "2026-01-02",
+        "header_1": "技术背景",
+        "chunk_id": "278e36fc-6b51-45fb-8f55-5d27817b8620"
+      }
+    },
+    {
+      "chunk_id": "25fa1706-c774-4dba-ad11-5bde236a99e3",
+      "text": "用户对京东的全栈工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-24.md",
+        "date": "2025-12-24",
+        "header_1": "偏好记录",
+        "chunk_id": "25fa1706-c774-4dba-ad11-5bde236a99e3"
+      }
+    },
+    {
+      "chunk_id": "07121d7d-50aa-45ba-b752-97dd7084883a",
+      "text": "用户已完成笔试阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-18.md",
+        "date": "2025-12-18",
+        "header_1": "技术背景",
+        "chunk_id": "07121d7d-50aa-45ba-b752-97dd7084883a"
+      }
+    },
+    {
+      "chunk_id": "b843276e-ea62-49c0-9ff7-cc2e01ab2232",
+      "text": "用户完成了简历筛选，面试官重点考察了Spark原理和行为面试，整体表现中等，算法工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-12-28.md",
+        "date": "2024-12-28",
+        "header_1": "求职目标",
+        "chunk_id": "b843276e-ea62-49c0-9ff7-cc2e01ab2232",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "753c8f47-1950-4144-9961-f1c1ad65725e",
+      "text": "用户目标岗位是前端工程师，技术栈包含Rust、C++、Linux、内核开发",
+      "metadata": {
+        "source": "2026-01-01.md",
+        "date": "2026-01-01",
+        "header_1": "求职目标",
+        "chunk_id": "753c8f47-1950-4144-9961-f1c1ad65725e"
+      }
+    },
+    {
+      "chunk_id": "1c0891c6-99e4-42e7-8328-1e5a8fc93d99",
+      "text": "用户正在准备小米的面试，面试薄弱点是数据库调优",
+      "metadata": {
+        "source": "2026-02-10.md",
+        "date": "2026-02-10",
+        "header_1": "求职目标",
+        "chunk_id": "1c0891c6-99e4-42e7-8328-1e5a8fc93d99"
+      }
+    },
+    {
+      "chunk_id": "0593aea6-bad2-4b1d-9d14-edf9a0dc603d",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2025-10-02.md",
+        "date": "2025-10-02",
+        "header_1": "面试进展",
+        "chunk_id": "0593aea6-bad2-4b1d-9d14-edf9a0dc603d"
+      }
+    },
+    {
+      "chunk_id": "3a25385d-b0f8-47af-8cba-bac242bf382b",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-09.md",
+        "date": "2026-02-09",
+        "header_1": "求职目标",
+        "chunk_id": "3a25385d-b0f8-47af-8cba-bac242bf382b"
+      }
+    },
+    {
+      "chunk_id": "b94e12c7-a45a-4207-8f43-44a43f015636",
+      "text": "用户已完成简历筛选阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "求职目标",
+        "chunk_id": "b94e12c7-a45a-4207-8f43-44a43f015636"
+      }
+    },
+    {
+      "chunk_id": "dd06b285-b033-40ba-a629-4bba00b1d048",
+      "text": "简历修改建议：机器学习工程师岗位简历需要突出MySQL项目经验，量化成果，针对PingCAP的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-09-02.md",
+        "date": "2024-09-02",
+        "header_1": "求职目标",
+        "chunk_id": "dd06b285-b033-40ba-a629-4bba00b1d048",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5400193d-37cc-4d74-9138-62bfa52b6def",
+      "text": "面试薄弱点分析：测试工程师方向的云原生架构问题需要加强，建议系统学习MongoDB，参考谷歌的技术博客。",
+      "metadata": {
+        "source": "2025-02-16.md",
+        "date": "2025-02-16",
+        "header_1": "求职目标",
+        "chunk_id": "5400193d-37cc-4d74-9138-62bfa52b6def",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "45f05347-77e2-444c-a7dc-ec4adcb57163",
+      "text": "北京的机器学习工程师市场分析：主要招聘方包括腾讯，普遍要求掌握Spark，薪资中位数约30-40K。",
+      "metadata": {
+        "source": "2024-09-17.md",
+        "date": "2024-09-17",
+        "header_1": "技术背景",
+        "chunk_id": "45f05347-77e2-444c-a7dc-ec4adcb57163",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b8ea8f29-ba53-4d09-b3f1-14ee988a503a",
+      "text": "京东的笔试反馈：技术考察重点为PostgreSQL，架构师岗位对云原生架构要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-07-25.md",
+        "date": "2024-07-25",
+        "header_1": "面试进展",
+        "chunk_id": "b8ea8f29-ba53-4d09-b3f1-14ee988a503a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c6e78942-4fda-41b9-898d-41078b86bca1",
+      "text": "用户完成了一面，面试官重点考察了MongoDB原理和算法与数据结构，整体表现中等，产品经理岗位竞争较激烈。",
+      "metadata": {
+        "source": "2025-01-16.md",
+        "date": "2025-01-16",
+        "header_1": "技术背景",
+        "chunk_id": "c6e78942-4fda-41b9-898d-41078b86bca1",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "250faa01-7a99-485f-ac8e-7b2e39a2780f",
+      "text": "用户计划在3个月内提升Azure技能，目标是拿到深圳的后端工程师岗位offer，期望薪资30-40K，对谷歌感兴趣。",
+      "metadata": {
+        "source": "2024-02-18.md",
+        "date": "2024-02-18",
+        "header_1": "薪资期望",
+        "chunk_id": "250faa01-7a99-485f-ac8e-7b2e39a2780f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "6035975e-f9e6-484f-9bd6-a73904fd9030",
+      "text": "用户倾向于上海，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-09.md",
+        "date": "2025-12-09",
+        "header_1": "偏好记录",
+        "chunk_id": "6035975e-f9e6-484f-9bd6-a73904fd9030"
+      }
+    },
+    {
+      "chunk_id": "4714f039-6288-4c6a-9ac2-8c2a92dcee3c",
+      "text": "武汉的安全工程师市场分析：主要招聘方包括网易，普遍要求掌握Java，薪资中位数约100K+。",
+      "metadata": {
+        "source": "2024-10-02.md",
+        "date": "2024-10-02",
+        "header_1": "技术背景",
+        "chunk_id": "4714f039-6288-4c6a-9ac2-8c2a92dcee3c",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9a0a9473-6cbe-4bee-b125-1067afe5b1a4",
+      "text": "腾讯的HR面反馈：技术考察重点为Rust，全栈工程师岗位对安全开发要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-11-04.md",
+        "date": "2024-11-04",
+        "header_1": "薪资期望",
+        "chunk_id": "9a0a9473-6cbe-4bee-b125-1067afe5b1a4",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "68c7f5d2-d9f7-45f3-9507-909164400ba6",
+      "text": "用户目标岗位是全栈工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2025-10-09.md",
+        "date": "2025-10-09",
+        "header_1": "求职目标",
+        "chunk_id": "68c7f5d2-d9f7-45f3-9507-909164400ba6"
+      }
+    },
+    {
+      "chunk_id": "beeade57-5ad9-4812-8b3e-8df21b394b08",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-25.md",
+        "date": "2026-03-25",
+        "header_1": "偏好记录",
+        "chunk_id": "beeade57-5ad9-4812-8b3e-8df21b394b08"
+      }
+    },
+    {
+      "chunk_id": "6181bf8e-a1b4-48ef-b0b9-f6f9e84b3178",
+      "text": "腾讯的三面反馈：技术考察重点为TensorFlow，前端工程师岗位对安全开发要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-07-14.md",
+        "date": "2024-07-14",
+        "header_1": "学习计划",
+        "chunk_id": "6181bf8e-a1b4-48ef-b0b9-f6f9e84b3178",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5ecb2a6e-6d15-4563-bfd8-a5604a51b550",
+      "text": "简历修改建议：后端工程师岗位简历需要突出JavaScript项目经验，量化成果，针对华为的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2025-03-14.md",
+        "date": "2025-03-14",
+        "header_1": "面试总结",
+        "chunk_id": "5ecb2a6e-6d15-4563-bfd8-a5604a51b550",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "3f07c1ed-fa3a-48a1-9445-8d6630600fdf",
+      "text": "用户对滴滴的测试工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-29.md",
+        "date": "2025-12-29",
+        "header_1": "求职目标",
+        "chunk_id": "3f07c1ed-fa3a-48a1-9445-8d6630600fdf"
+      }
+    },
+    {
+      "chunk_id": "1dc7c09f-c5c9-47e0-bcbb-dcc01c5e3ea4",
+      "text": "用户目标岗位是测试工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2026-03-24.md",
+        "date": "2026-03-24",
+        "header_1": "求职目标",
+        "chunk_id": "1dc7c09f-c5c9-47e0-bcbb-dcc01c5e3ea4"
+      }
+    },
+    {
+      "chunk_id": "bed85006-0aa2-4653-9c43-27500953863f",
+      "text": "用户正在准备滴滴的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-11-29.md",
+        "date": "2025-11-29",
+        "header_1": "面试进展",
+        "chunk_id": "bed85006-0aa2-4653-9c43-27500953863f"
+      }
+    },
+    {
+      "chunk_id": "ccbcbbbb-51f8-4482-8cdf-416485ccbf23",
+      "text": "用户对京东的测试工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-24.md",
+        "date": "2025-12-24",
+        "header_1": "面试进展",
+        "chunk_id": "ccbcbbbb-51f8-4482-8cdf-416485ccbf23"
+      }
+    },
+    {
+      "chunk_id": "70d0e953-612b-4c85-a610-f189b95f1284",
+      "text": "用户倾向于北京，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-11-17.md",
+        "date": "2025-11-17",
+        "header_1": "求职目标",
+        "chunk_id": "70d0e953-612b-4c85-a610-f189b95f1284"
+      }
+    },
+    {
+      "chunk_id": "e70373d4-7570-48db-86d8-f4c2eb6f341c",
+      "text": "用户更新了求职偏好：从武汉切换到考虑杭州，技术方向从PyTorch扩展到Go，薪资期望调整至40-60K。",
+      "metadata": {
+        "source": "2024-12-03.md",
+        "date": "2024-12-03",
+        "header_1": "偏好记录",
+        "chunk_id": "e70373d4-7570-48db-86d8-f4c2eb6f341c",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1b3dc555-3903-4587-b38c-cde61e538a95",
+      "text": "用户希望在3个月内解决网络编程薄弱点",
+      "metadata": {
+        "source": "2025-12-29.md",
+        "date": "2025-12-29",
+        "header_1": "偏好记录",
+        "chunk_id": "1b3dc555-3903-4587-b38c-cde61e538a95"
+      }
+    },
+    {
+      "chunk_id": "7ec62d56-f264-41d2-9d33-9919754028c8",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-10-04.md",
+        "date": "2025-10-04",
+        "header_1": "偏好记录",
+        "chunk_id": "7ec62d56-f264-41d2-9d33-9919754028c8"
+      }
+    },
+    {
+      "chunk_id": "0fd07978-4889-453f-880b-0a6c55252f73",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-28.md",
+        "date": "2025-11-28",
+        "header_1": "技术背景",
+        "chunk_id": "0fd07978-4889-453f-880b-0a6c55252f73"
+      }
+    },
+    {
+      "chunk_id": "eeccd6c2-b250-402d-8223-a10438c3aad9",
+      "text": "用户计划在3个月内提升Hive技能，目标是拿到广州的前端工程师岗位offer，期望薪资30-40K，对京东感兴趣。",
+      "metadata": {
+        "source": "2025-01-06.md",
+        "date": "2025-01-06",
+        "header_1": "技术背景",
+        "chunk_id": "eeccd6c2-b250-402d-8223-a10438c3aad9",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "061605dd-3063-47ee-ba64-24d6b47f83c0",
+      "text": "职业规划讨论：用户希望3年内从推荐系统工程师晋升为高级推荐系统工程师，需要在广州的京东类公司积累经验，掌握Redis技术栈。",
+      "metadata": {
+        "source": "2024-02-22.md",
+        "date": "2024-02-22",
+        "header_1": "公司调研",
+        "chunk_id": "061605dd-3063-47ee-ba64-24d6b47f83c0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5756d91e-8ed0-4b1a-a07b-fb75bf012a4b",
+      "text": "用户在京东面试算法工程师岗位，位于南京，薪资范围15-20K，面试过程中考察了JavaScript相关知识点，目前处于笔试阶段。",
+      "metadata": {
+        "source": "2024-06-15.md",
+        "date": "2024-06-15",
+        "header_1": "偏好记录",
+        "chunk_id": "5756d91e-8ed0-4b1a-a07b-fb75bf012a4b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fde2470a-757c-4352-82fc-ba6a62ddb0d3",
+      "text": "快手的机器学习工程师岗位技术栈包含Django，工作地点成都，薪资水平25-35K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-06-26.md",
+        "date": "2024-06-26",
+        "header_1": "公司调研",
+        "chunk_id": "fde2470a-757c-4352-82fc-ba6a62ddb0d3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "3a9ba944-5ac2-4c8a-9488-cb0724421cb6",
+      "text": "用户目标城市为深圳，期望薪资60-80K",
+      "metadata": {
+        "source": "2026-02-07.md",
+        "date": "2026-02-07",
+        "header_1": "偏好记录",
+        "chunk_id": "3a9ba944-5ac2-4c8a-9488-cb0724421cb6"
+      }
+    },
+    {
+      "chunk_id": "f2b3b770-1efc-4ddb-aff1-b4a53d68d12d",
+      "text": "用户完成了笔试，面试官重点考察了Flink原理和数据库调优，整体表现中等，游戏开发工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-12-07.md",
+        "date": "2024-12-07",
+        "header_1": "薪资期望",
+        "chunk_id": "f2b3b770-1efc-4ddb-aff1-b4a53d68d12d",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2fa7aca9-1a15-4189-9348-2e7b7e9d4c06",
+      "text": "面试薄弱点分析：全栈工程师方向的网络编程问题需要加强，建议系统学习FastAPI，参考华为的技术博客。",
+      "metadata": {
+        "source": "2025-01-14.md",
+        "date": "2025-01-14",
+        "header_1": "职业规划",
+        "chunk_id": "2fa7aca9-1a15-4189-9348-2e7b7e9d4c06",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "81661a9a-7aa1-483b-bdd5-42b95706d69e",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-15.md",
+        "date": "2025-10-15",
+        "header_1": "技术背景",
+        "chunk_id": "81661a9a-7aa1-483b-bdd5-42b95706d69e"
+      }
+    },
+    {
+      "chunk_id": "52ae294b-4aa2-46f1-b01b-6a3d638269d6",
+      "text": "用户对快手的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-22.md",
+        "date": "2025-10-22",
+        "header_1": "求职目标",
+        "chunk_id": "52ae294b-4aa2-46f1-b01b-6a3d638269d6"
+      }
+    },
+    {
+      "chunk_id": "37f45f21-c3c0-4ad0-86e7-2d0d76b3a030",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2025-12-21.md",
+        "date": "2025-12-21",
+        "header_1": "求职目标",
+        "chunk_id": "37f45f21-c3c0-4ad0-86e7-2d0d76b3a030"
+      }
+    },
+    {
+      "chunk_id": "af71238c-b8a4-47ce-a26a-260092c383b8",
+      "text": "用户完成了二面，面试官重点考察了AWS原理和并发编程，整体表现中等，机器学习工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-03-04.md",
+        "date": "2024-03-04",
+        "header_1": "面试进展",
+        "chunk_id": "af71238c-b8a4-47ce-a26a-260092c383b8",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9834ac12-0447-492a-a632-a26b26605abe",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-27.md",
+        "date": "2026-02-27",
+        "header_1": "技术背景",
+        "chunk_id": "9834ac12-0447-492a-a632-a26b26605abe"
+      }
+    },
+    {
+      "chunk_id": "17ed89cc-3e98-47d2-8d1a-79594632282d",
+      "text": "谷歌的简历筛选反馈：技术考察重点为Go，安全工程师岗位对并发编程要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-05-30.md",
+        "date": "2024-05-30",
+        "header_1": "简历优化",
+        "chunk_id": "17ed89cc-3e98-47d2-8d1a-79594632282d",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "78a88a91-a0b6-45b3-a105-3c5476c71395",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-24.md",
+        "date": "2025-10-24",
+        "header_1": "偏好记录",
+        "chunk_id": "78a88a91-a0b6-45b3-a105-3c5476c71395"
+      }
+    },
+    {
+      "chunk_id": "96e46c30-0bd0-4e64-9426-87547b2bb440",
+      "text": "小米的数据工程师岗位技术栈包含PyTorch，工作地点杭州，薪资水平50-70K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-11-12.md",
+        "date": "2024-11-12",
+        "header_1": "面试总结",
+        "chunk_id": "96e46c30-0bd0-4e64-9426-87547b2bb440",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "24770263-4b40-492e-adcc-2c51a425cc72",
+      "text": "用户技术栈Python、Spark在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-02-05.md",
+        "date": "2026-02-05",
+        "header_1": "面试进展",
+        "chunk_id": "24770263-4b40-492e-adcc-2c51a425cc72"
+      }
+    },
+    {
+      "chunk_id": "47e4b49a-a380-4172-8003-5a1f305700d4",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2026-03-02.md",
+        "date": "2026-03-02",
+        "header_1": "求职目标",
+        "chunk_id": "47e4b49a-a380-4172-8003-5a1f305700d4"
+      }
+    },
+    {
+      "chunk_id": "4d643d53-fa2f-43b3-837e-ebb1c4190da6",
+      "text": "职业规划讨论：用户希望3年内从数据工程师晋升为高级数据工程师，需要在武汉的百度类公司积累经验，掌握Django技术栈。",
+      "metadata": {
+        "source": "2024-03-27.md",
+        "date": "2024-03-27",
+        "header_1": "面试进展",
+        "chunk_id": "4d643d53-fa2f-43b3-837e-ebb1c4190da6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8e1bdba8-da26-431a-a1fb-7bfc4a30ff85",
+      "text": "职业规划讨论：用户希望3年内从产品经理晋升为高级产品经理，需要在苏州的美团类公司积累经验，掌握React技术栈。",
+      "metadata": {
+        "source": "2024-10-04.md",
+        "date": "2024-10-04",
+        "header_1": "偏好记录",
+        "chunk_id": "8e1bdba8-da26-431a-a1fb-7bfc4a30ff85",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "e27f0d1d-3290-4c22-a927-092d59df1d07",
+      "text": "用户目标城市为上海，期望薪资25-35K",
+      "metadata": {
+        "source": "2025-10-20.md",
+        "date": "2025-10-20",
+        "header_1": "技术背景",
+        "chunk_id": "e27f0d1d-3290-4c22-a927-092d59df1d07"
+      }
+    },
+    {
+      "chunk_id": "0196781b-99a3-43c4-9e69-5962f9c58588",
+      "text": "用户目标城市为杭州，期望薪资25-35K",
+      "metadata": {
+        "source": "2026-02-11.md",
+        "date": "2026-02-11",
+        "header_1": "面试进展",
+        "chunk_id": "0196781b-99a3-43c4-9e69-5962f9c58588"
+      }
+    },
+    {
+      "chunk_id": "2b0de11a-267f-4248-ab3e-a4b15dd92536",
+      "text": "简历修改建议：算法工程师岗位简历需要突出Redis项目经验，量化成果，针对百度的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-12-23.md",
+        "date": "2024-12-23",
+        "header_1": "偏好记录",
+        "chunk_id": "2b0de11a-267f-4248-ab3e-a4b15dd92536",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "767b73ea-2dac-4c97-8471-42e25f385475",
+      "text": "用户对网易的测试工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-01-08.md",
+        "date": "2026-01-08",
+        "header_1": "面试进展",
+        "chunk_id": "767b73ea-2dac-4c97-8471-42e25f385475"
+      }
+    },
+    {
+      "chunk_id": "1dd675e0-45e0-4b0f-941f-2fa4e5e718c5",
+      "text": "用户对百度的算法工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-11-02.md",
+        "date": "2025-11-02",
+        "header_1": "技术背景",
+        "chunk_id": "1dd675e0-45e0-4b0f-941f-2fa4e5e718c5"
+      }
+    },
+    {
+      "chunk_id": "f027c674-6b98-4e17-90c5-f72cea52f327",
+      "text": "用户目标岗位是推荐系统工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+      "metadata": {
+        "source": "2026-01-01.md",
+        "date": "2026-01-01",
+        "header_1": "求职目标",
+        "chunk_id": "f027c674-6b98-4e17-90c5-f72cea52f327"
+      }
+    },
+    {
+      "chunk_id": "e79bc787-7e5f-4581-846a-e6e9fb89f856",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-03-19.md",
+        "date": "2026-03-19",
+        "header_1": "偏好记录",
+        "chunk_id": "e79bc787-7e5f-4581-846a-e6e9fb89f856"
+      }
+    },
+    {
+      "chunk_id": "d733a1a5-948f-41b4-9e4b-544cda2fc8fb",
+      "text": "面试薄弱点分析：嵌入式工程师方向的并发编程问题需要加强，建议系统学习Docker，参考美团的技术博客。",
+      "metadata": {
+        "source": "2024-05-28.md",
+        "date": "2024-05-28",
+        "header_1": "偏好记录",
+        "chunk_id": "d733a1a5-948f-41b4-9e4b-544cda2fc8fb",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5e9a7f77-61b5-4ada-adbf-ea1e97191991",
+      "text": "用户更新了求职偏好：从深圳切换到考虑杭州，技术方向从JavaScript扩展到Hive，薪资期望调整至100K+。",
+      "metadata": {
+        "source": "2024-04-28.md",
+        "date": "2024-04-28",
+        "header_1": "学习计划",
+        "chunk_id": "5e9a7f77-61b5-4ada-adbf-ea1e97191991",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8d4f41d0-d1fa-486e-b200-390c8aa54ba1",
+      "text": "用户目标岗位是后端工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+      "metadata": {
+        "source": "2026-01-24.md",
+        "date": "2026-01-24",
+        "header_1": "面试进展",
+        "chunk_id": "8d4f41d0-d1fa-486e-b200-390c8aa54ba1"
+      }
+    },
+    {
+      "chunk_id": "2e6a4bbc-bcc9-459a-82dc-727cba0d74d4",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-02.md",
+        "date": "2025-12-02",
+        "header_1": "技术背景",
+        "chunk_id": "2e6a4bbc-bcc9-459a-82dc-727cba0d74d4"
+      }
+    },
+    {
+      "chunk_id": "460bdcce-f8a9-40ae-b760-7ced492ddafd",
+      "text": "用户正在准备PingCAP的面试，面试薄弱点是系统设计",
+      "metadata": {
+        "source": "2026-03-10.md",
+        "date": "2026-03-10",
+        "header_1": "偏好记录",
+        "chunk_id": "460bdcce-f8a9-40ae-b760-7ced492ddafd"
+      }
+    },
+    {
+      "chunk_id": "192a557d-433a-4375-b847-d945aeaebc86",
+      "text": "京东的HR面反馈：技术考察重点为Spring，嵌入式工程师岗位对安全开发要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2025-01-09.md",
+        "date": "2025-01-09",
+        "header_1": "偏好记录",
+        "chunk_id": "192a557d-433a-4375-b847-d945aeaebc86",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "85f9d433-7467-4d53-95d1-4ff8b5bafdaa",
+      "text": "用户目标岗位是架构师，技术栈包含Java、Kubernetes、Prometheus、微服务",
+      "metadata": {
+        "source": "2025-10-08.md",
+        "date": "2025-10-08",
+        "header_1": "面试进展",
+        "chunk_id": "85f9d433-7467-4d53-95d1-4ff8b5bafdaa"
+      }
+    },
+    {
+      "chunk_id": "b20a831a-2933-4e31-8a36-7847c244b736",
+      "text": "用户在蚂蚁集团面试前端工程师岗位，位于西安，薪资范围50-70K，面试过程中考察了Java相关知识点，目前处于HR面阶段。",
+      "metadata": {
+        "source": "2024-03-09.md",
+        "date": "2024-03-09",
+        "header_1": "面试进展",
+        "chunk_id": "b20a831a-2933-4e31-8a36-7847c244b736",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1f74ee0d-24df-4e08-a77d-09df565518f3",
+      "text": "用户已完成二面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-01-02.md",
+        "date": "2026-01-02",
+        "header_1": "偏好记录",
+        "chunk_id": "1f74ee0d-24df-4e08-a77d-09df565518f3"
+      }
+    },
+    {
+      "chunk_id": "ab195632-145b-4d0b-9913-b29bbd7db511",
+      "text": "用户在腾讯面试DevOps工程师岗位，位于上海，薪资范围20-28K，面试过程中考察了MySQL相关知识点，目前处于二面阶段。",
+      "metadata": {
+        "source": "2025-03-04.md",
+        "date": "2025-03-04",
+        "header_1": "公司调研",
+        "chunk_id": "ab195632-145b-4d0b-9913-b29bbd7db511",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "82057486-f0ca-4a1e-9380-014bcbe6f638",
+      "text": "用户目标城市为成都，期望薪资50-70K",
+      "metadata": {
+        "source": "2026-02-11.md",
+        "date": "2026-02-11",
+        "header_1": "面试进展",
+        "chunk_id": "82057486-f0ca-4a1e-9380-014bcbe6f638"
+      }
+    },
+    {
+      "chunk_id": "19093833-77d4-48fd-9376-a939346b9165",
+      "text": "用户目标城市为杭州，期望薪资25-35K",
+      "metadata": {
+        "source": "2026-02-23.md",
+        "date": "2026-02-23",
+        "header_1": "求职目标",
+        "chunk_id": "19093833-77d4-48fd-9376-a939346b9165"
+      }
+    },
+    {
+      "chunk_id": "e3fe580f-c50a-4f5b-8a82-0e2488ad7610",
+      "text": "用户对腾讯的数据工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-03-10.md",
+        "date": "2026-03-10",
+        "header_1": "面试进展",
+        "chunk_id": "e3fe580f-c50a-4f5b-8a82-0e2488ad7610"
+      }
+    },
+    {
+      "chunk_id": "d5c50c6a-96ff-4e2f-a36b-aceb4466a373",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2026-01-18.md",
+        "date": "2026-01-18",
+        "header_1": "技术背景",
+        "chunk_id": "d5c50c6a-96ff-4e2f-a36b-aceb4466a373"
+      }
+    },
+    {
+      "chunk_id": "58f04d77-4d9d-40b3-8c8a-ffae04377839",
+      "text": "用户正在准备京东的面试，面试薄弱点是系统设计",
+      "metadata": {
+        "source": "2025-12-04.md",
+        "date": "2025-12-04",
+        "header_1": "技术背景",
+        "chunk_id": "58f04d77-4d9d-40b3-8c8a-ffae04377839"
+      }
+    },
+    {
+      "chunk_id": "caadeffd-45fb-4b2e-a8cc-93b7b3530f97",
+      "text": "用户技术栈Java、Spring Boot在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-07.md",
+        "date": "2025-10-07",
+        "header_1": "技术背景",
+        "chunk_id": "caadeffd-45fb-4b2e-a8cc-93b7b3530f97"
+      }
+    },
+    {
+      "chunk_id": "30bfe67f-f78a-4465-9cd3-86288e332783",
+      "text": "用户目标岗位是数据工程师，技术栈包含Python、Spark、Flink、Hive、数据仓库",
+      "metadata": {
+        "source": "2025-10-17.md",
+        "date": "2025-10-17",
+        "header_1": "偏好记录",
+        "chunk_id": "30bfe67f-f78a-4465-9cd3-86288e332783"
+      }
+    },
+    {
+      "chunk_id": "74c49771-766f-4d99-8252-da1fd6667259",
+      "text": "用户更新了求职偏好：从深圳切换到考虑上海，技术方向从TensorFlow扩展到Docker，薪资期望调整至80-100K。",
+      "metadata": {
+        "source": "2024-12-15.md",
+        "date": "2024-12-15",
+        "header_1": "公司调研",
+        "chunk_id": "74c49771-766f-4d99-8252-da1fd6667259",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "23e2c81b-a0ab-4fae-a475-a9d7f4aa8f3e",
+      "text": "用户希望在3个月内解决网络编程薄弱点",
+      "metadata": {
+        "source": "2026-03-12.md",
+        "date": "2026-03-12",
+        "header_1": "技术背景",
+        "chunk_id": "23e2c81b-a0ab-4fae-a475-a9d7f4aa8f3e"
+      }
+    },
+    {
+      "chunk_id": "b76886d7-24ec-4278-959f-de390d30fa94",
+      "text": "简历修改建议：后端工程师岗位简历需要突出PyTorch项目经验，量化成果，针对Grab的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2025-01-27.md",
+        "date": "2025-01-27",
+        "header_1": "职业规划",
+        "chunk_id": "b76886d7-24ec-4278-959f-de390d30fa94",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c2b6427e-1dca-4182-ab75-a0e618caf8ca",
+      "text": "用户计划在3个月内提升Docker技能，目标是拿到广州的前端工程师岗位offer，期望薪资20-28K，对美团感兴趣。",
+      "metadata": {
+        "source": "2024-09-20.md",
+        "date": "2024-09-20",
+        "header_1": "公司调研",
+        "chunk_id": "c2b6427e-1dca-4182-ab75-a0e618caf8ca",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5a502ffd-2493-4980-aa83-f63211e19f1c",
+      "text": "用户对Shopee的前端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-03.md",
+        "date": "2025-10-03",
+        "header_1": "技术背景",
+        "chunk_id": "5a502ffd-2493-4980-aa83-f63211e19f1c"
+      }
+    },
+    {
+      "chunk_id": "a6ba9061-cc03-4d05-8ac7-ee17cd3326a2",
+      "text": "用户目标岗位是DevOps工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2026-03-02.md",
+        "date": "2026-03-02",
+        "header_1": "技术背景",
+        "chunk_id": "a6ba9061-cc03-4d05-8ac7-ee17cd3326a2"
+      }
+    },
+    {
+      "chunk_id": "76bf1876-34f8-4551-9dd2-7c121f1a94e9",
+      "text": "用户正在准备网易的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2026-03-08.md",
+        "date": "2026-03-08",
+        "header_1": "技术背景",
+        "chunk_id": "76bf1876-34f8-4551-9dd2-7c121f1a94e9"
+      }
+    },
+    {
+      "chunk_id": "4688202b-e18c-4f0e-b5c1-215a65effd66",
+      "text": "用户正在准备快手的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2025-10-08.md",
+        "date": "2025-10-08",
+        "header_1": "技术背景",
+        "chunk_id": "4688202b-e18c-4f0e-b5c1-215a65effd66"
+      }
+    },
+    {
+      "chunk_id": "6b78076d-f53b-427d-9872-6ae885ed26e2",
+      "text": "用户对小米的DevOps工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-07.md",
+        "date": "2025-10-07",
+        "header_1": "面试进展",
+        "chunk_id": "6b78076d-f53b-427d-9872-6ae885ed26e2"
+      }
+    },
+    {
+      "chunk_id": "e4f69b62-3fff-4b77-be7e-5a1607e85713",
+      "text": "用户更新了求职偏好：从北京切换到考虑苏州，技术方向从AWS扩展到Docker，薪资期望调整至80-100K。",
+      "metadata": {
+        "source": "2024-11-13.md",
+        "date": "2024-11-13",
+        "header_1": "薪资期望",
+        "chunk_id": "e4f69b62-3fff-4b77-be7e-5a1607e85713",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fe3483b5-ca81-4c38-8aa4-8c7a2fd76323",
+      "text": "用户已完成二面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-03-01.md",
+        "date": "2026-03-01",
+        "header_1": "偏好记录",
+        "chunk_id": "fe3483b5-ca81-4c38-8aa4-8c7a2fd76323"
+      }
+    },
+    {
+      "chunk_id": "617c968e-9bca-4010-b81b-f4658fa12442",
+      "text": "用户计划在3个月内提升Spark技能，目标是拿到深圳的测试工程师岗位offer，期望薪资50-70K，对快手感兴趣。",
+      "metadata": {
+        "source": "2024-08-15.md",
+        "date": "2024-08-15",
+        "header_1": "面试总结",
+        "chunk_id": "617c968e-9bca-4010-b81b-f4658fa12442",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b8283725-5b97-4718-8075-b451dde3022c",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-31.md",
+        "date": "2025-12-31",
+        "header_1": "面试进展",
+        "chunk_id": "b8283725-5b97-4718-8075-b451dde3022c"
+      }
+    },
+    {
+      "chunk_id": "b808ca85-7c31-4816-89ef-02bf49fb991a",
+      "text": "用户完成了笔试，面试官重点考察了Docker原理和行为面试，整体表现中等，推荐系统工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-12.md",
+        "date": "2024-11-12",
+        "header_1": "职业规划",
+        "chunk_id": "b808ca85-7c31-4816-89ef-02bf49fb991a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a3bfbd87-178c-4851-b8ae-76eae78a3c69",
+      "text": "用户目标城市为北京，期望薪资60-80K",
+      "metadata": {
+        "source": "2026-02-11.md",
+        "date": "2026-02-11",
+        "header_1": "偏好记录",
+        "chunk_id": "a3bfbd87-178c-4851-b8ae-76eae78a3c69"
+      }
+    },
+    {
+      "chunk_id": "20f4d20e-5f0c-4ed7-8229-142016508f5e",
+      "text": "用户在百度面试安全工程师岗位，位于广州，薪资范围80-100K，面试过程中考察了Python相关知识点，目前处于一面阶段。",
+      "metadata": {
+        "source": "2024-08-12.md",
+        "date": "2024-08-12",
+        "header_1": "求职目标",
+        "chunk_id": "20f4d20e-5f0c-4ed7-8229-142016508f5e",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b40ff46c-6284-414c-b437-ccc8a5ffade8",
+      "text": "美团的全栈工程师岗位技术栈包含Docker，工作地点南京，薪资水平35-50K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-08-24.md",
+        "date": "2024-08-24",
+        "header_1": "简历优化",
+        "chunk_id": "b40ff46c-6284-414c-b437-ccc8a5ffade8",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "90d8da37-291d-4c07-848b-da2aa00f2419",
+      "text": "用户对阿里巴巴的数据工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-24.md",
+        "date": "2025-10-24",
+        "header_1": "面试进展",
+        "chunk_id": "90d8da37-291d-4c07-848b-da2aa00f2419"
+      }
+    },
+    {
+      "chunk_id": "060414d1-bb6a-4d0a-b6fd-40fd5eb4d3fa",
+      "text": "用户目标岗位是前端工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2026-03-17.md",
+        "date": "2026-03-17",
+        "header_1": "偏好记录",
+        "chunk_id": "060414d1-bb6a-4d0a-b6fd-40fd5eb4d3fa"
+      }
+    },
+    {
+      "chunk_id": "09e6f440-1c79-4f85-ae5e-b0addd6d287e",
+      "text": "用户技术栈Rust、C++在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-27.md",
+        "date": "2025-11-27",
+        "header_1": "技术背景",
+        "chunk_id": "09e6f440-1c79-4f85-ae5e-b0addd6d287e"
+      }
+    },
+    {
+      "chunk_id": "9a3126ea-b7c7-4bed-8cec-44a5bf54dea2",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-12.md",
+        "date": "2026-03-12",
+        "header_1": "技术背景",
+        "chunk_id": "9a3126ea-b7c7-4bed-8cec-44a5bf54dea2"
+      }
+    },
+    {
+      "chunk_id": "c6bdb46e-59a5-4fc4-b5d9-c08d86889910",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-01-17.md",
+        "date": "2026-01-17",
+        "header_1": "技术背景",
+        "chunk_id": "c6bdb46e-59a5-4fc4-b5d9-c08d86889910"
+      }
+    },
+    {
+      "chunk_id": "3d87df26-6e53-4bbf-87d7-ee5756c54144",
+      "text": "简历修改建议：游戏开发工程师岗位简历需要突出Elasticsearch项目经验，量化成果，针对快手的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2025-01-20.md",
+        "date": "2025-01-20",
+        "header_1": "面试进展",
+        "chunk_id": "3d87df26-6e53-4bbf-87d7-ee5756c54144",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "da2e70cb-e615-4ce5-9825-026f74c0eda0",
+      "text": "用户已完成简历筛选阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-23.md",
+        "date": "2025-11-23",
+        "header_1": "技术背景",
+        "chunk_id": "da2e70cb-e615-4ce5-9825-026f74c0eda0"
+      }
+    },
+    {
+      "chunk_id": "26ed5d87-6266-4625-8945-5b9733edaae8",
+      "text": "用户更新了求职偏好：从广州切换到考虑深圳，技术方向从Redis扩展到Redis，薪资期望调整至40-60K。",
+      "metadata": {
+        "source": "2024-04-19.md",
+        "date": "2024-04-19",
+        "header_1": "职业规划",
+        "chunk_id": "26ed5d87-6266-4625-8945-5b9733edaae8",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "4d3559d5-40e0-4d3e-86f0-860113dd19e4",
+      "text": "用户已完成简历筛选阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-02-21.md",
+        "date": "2026-02-21",
+        "header_1": "求职目标",
+        "chunk_id": "4d3559d5-40e0-4d3e-86f0-860113dd19e4"
+      }
+    },
+    {
+      "chunk_id": "ab688aff-b218-44f7-8489-a3006410f93f",
+      "text": "用户在快手面试测试工程师岗位，位于深圳，薪资范围50-70K，面试过程中考察了Elasticsearch相关知识点，目前处于一面阶段。",
+      "metadata": {
+        "source": "2024-12-18.md",
+        "date": "2024-12-18",
+        "header_1": "简历优化",
+        "chunk_id": "ab688aff-b218-44f7-8489-a3006410f93f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "340f3cd3-6a55-4b83-ad23-084f279b5865",
+      "text": "用户目标岗位是前端工程师，技术栈包含Rust、C++、Linux、内核开发",
+      "metadata": {
+        "source": "2026-01-31.md",
+        "date": "2026-01-31",
+        "header_1": "偏好记录",
+        "chunk_id": "340f3cd3-6a55-4b83-ad23-084f279b5865"
+      }
+    },
+    {
+      "chunk_id": "2e26766d-3e05-49f5-9cb8-9d6e82226369",
+      "text": "用户计划在3个月内提升Java技能，目标是拿到上海的机器学习工程师岗位offer，期望薪资25-35K，对蚂蚁集团感兴趣。",
+      "metadata": {
+        "source": "2024-08-30.md",
+        "date": "2024-08-30",
+        "header_1": "公司调研",
+        "chunk_id": "2e26766d-3e05-49f5-9cb8-9d6e82226369",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "15418494-5f9e-4fa2-a34a-9748563d413e",
+      "text": "用户计划在3个月内提升Python技能，目标是拿到上海的数据分析师岗位offer，期望薪资50-70K，对谷歌感兴趣。",
+      "metadata": {
+        "source": "2024-03-01.md",
+        "date": "2024-03-01",
+        "header_1": "学习计划",
+        "chunk_id": "15418494-5f9e-4fa2-a34a-9748563d413e",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "4ff1b81e-9c9f-453d-b1ba-504a5a9a6e0f",
+      "text": "用户目标城市为广州，期望薪资35-50K",
+      "metadata": {
+        "source": "2025-12-26.md",
+        "date": "2025-12-26",
+        "header_1": "技术背景",
+        "chunk_id": "4ff1b81e-9c9f-453d-b1ba-504a5a9a6e0f"
+      }
+    },
+    {
+      "chunk_id": "ee85d995-631d-4e9d-a1fa-119bc3e04e08",
+      "text": "腾讯的终面反馈：技术考察重点为Flink，游戏开发工程师岗位对算法与数据结构要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-05-03.md",
+        "date": "2024-05-03",
+        "header_1": "学习计划",
+        "chunk_id": "ee85d995-631d-4e9d-a1fa-119bc3e04e08",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0b8322a3-3431-4a0e-b9c9-0b17ecbbbb4f",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-01-09.md",
+        "date": "2026-01-09",
+        "header_1": "求职目标",
+        "chunk_id": "0b8322a3-3431-4a0e-b9c9-0b17ecbbbb4f"
+      }
+    },
+    {
+      "chunk_id": "fba82bc7-f9d6-49fb-abf4-2d60f29bb9b4",
+      "text": "用户目标城市为上海，期望薪资60-80K",
+      "metadata": {
+        "source": "2026-01-09.md",
+        "date": "2026-01-09",
+        "header_1": "求职目标",
+        "chunk_id": "fba82bc7-f9d6-49fb-abf4-2d60f29bb9b4"
+      }
+    },
+    {
+      "chunk_id": "86773413-038f-41fe-a535-3d5dcad94229",
+      "text": "谷歌的推荐系统工程师岗位技术栈包含Flink，工作地点武汉，薪资水平35-50K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-04-14.md",
+        "date": "2024-04-14",
+        "header_1": "技术背景",
+        "chunk_id": "86773413-038f-41fe-a535-3d5dcad94229",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "224862a7-62bf-43db-83a3-f8b0852f6952",
+      "text": "用户对京东的平台工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-14.md",
+        "date": "2025-12-14",
+        "header_1": "技术背景",
+        "chunk_id": "224862a7-62bf-43db-83a3-f8b0852f6952"
+      }
+    },
+    {
+      "chunk_id": "25ade5c5-156a-4b3f-8f84-f74fb5a80424",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2025-12-09.md",
+        "date": "2025-12-09",
+        "header_1": "偏好记录",
+        "chunk_id": "25ade5c5-156a-4b3f-8f84-f74fb5a80424"
+      }
+    },
+    {
+      "chunk_id": "5425f293-c9d1-4281-b153-2ed01db69a69",
+      "text": "用户目标岗位是DevOps工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2026-01-29.md",
+        "date": "2026-01-29",
+        "header_1": "求职目标",
+        "chunk_id": "5425f293-c9d1-4281-b153-2ed01db69a69"
+      }
+    },
+    {
+      "chunk_id": "23fdeb55-7636-414d-ab04-e38dda182219",
+      "text": "用户对滴滴的后端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-03-04.md",
+        "date": "2026-03-04",
+        "header_1": "求职目标",
+        "chunk_id": "23fdeb55-7636-414d-ab04-e38dda182219"
+      }
+    },
+    {
+      "chunk_id": "75c64491-47ab-4906-8b47-79d2a3d569c1",
+      "text": "用户已完成终面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-27.md",
+        "date": "2025-12-27",
+        "header_1": "面试进展",
+        "chunk_id": "75c64491-47ab-4906-8b47-79d2a3d569c1"
+      }
+    },
+    {
+      "chunk_id": "62aee100-bb03-47fc-8fe5-d8bb561cb262",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2025-11-29.md",
+        "date": "2025-11-29",
+        "header_1": "面试进展",
+        "chunk_id": "62aee100-bb03-47fc-8fe5-d8bb561cb262"
+      }
+    },
+    {
+      "chunk_id": "294ce4f2-df2a-4393-8702-d8d497d781fb",
+      "text": "用户目标城市为成都，期望薪资80-120K",
+      "metadata": {
+        "source": "2026-02-08.md",
+        "date": "2026-02-08",
+        "header_1": "偏好记录",
+        "chunk_id": "294ce4f2-df2a-4393-8702-d8d497d781fb"
+      }
+    },
+    {
+      "chunk_id": "e2a4b031-5867-4b75-8653-4fefcb470228",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-01-21.md",
+        "date": "2026-01-21",
+        "header_1": "技术背景",
+        "chunk_id": "e2a4b031-5867-4b75-8653-4fefcb470228"
+      }
+    },
+    {
+      "chunk_id": "2bf3b7ea-682d-49ec-8b36-475136995e0f",
+      "text": "快手的二面反馈：技术考察重点为PyTorch，后端工程师岗位对安全开发要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2025-02-26.md",
+        "date": "2025-02-26",
+        "header_1": "学习计划",
+        "chunk_id": "2bf3b7ea-682d-49ec-8b36-475136995e0f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "55a268d1-ab00-40e2-8b14-faff53d8b041",
+      "text": "用户已完成三面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-02-19.md",
+        "date": "2026-02-19",
+        "header_1": "偏好记录",
+        "chunk_id": "55a268d1-ab00-40e2-8b14-faff53d8b041"
+      }
+    },
+    {
+      "chunk_id": "86a688ea-c225-47c2-af5c-6caf24e1a918",
+      "text": "用户倾向于北京，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-07.md",
+        "date": "2026-02-07",
+        "header_1": "技术背景",
+        "chunk_id": "86a688ea-c225-47c2-af5c-6caf24e1a918"
+      }
+    },
+    {
+      "chunk_id": "271827fc-6db7-4f53-98f6-bf07a79573ea",
+      "text": "用户技术栈Python、Spark在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-03.md",
+        "date": "2025-10-03",
+        "header_1": "偏好记录",
+        "chunk_id": "271827fc-6db7-4f53-98f6-bf07a79573ea"
+      }
+    },
+    {
+      "chunk_id": "b627dd37-0640-4a11-ad3e-8f2ec3492bc4",
+      "text": "用户目标岗位是算法工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2026-03-12.md",
+        "date": "2026-03-12",
+        "header_1": "偏好记录",
+        "chunk_id": "b627dd37-0640-4a11-ad3e-8f2ec3492bc4"
+      }
+    },
+    {
+      "chunk_id": "59ef5e48-8f8a-4097-94f7-755019e2cba0",
+      "text": "用户正在准备快手的面试，面试薄弱点是网络编程",
+      "metadata": {
+        "source": "2026-02-24.md",
+        "date": "2026-02-24",
+        "header_1": "偏好记录",
+        "chunk_id": "59ef5e48-8f8a-4097-94f7-755019e2cba0"
+      }
+    },
+    {
+      "chunk_id": "0bc13569-1e26-457b-a783-e1c7b5344101",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-10.md",
+        "date": "2025-12-10",
+        "header_1": "求职目标",
+        "chunk_id": "0bc13569-1e26-457b-a783-e1c7b5344101"
+      }
+    },
+    {
+      "chunk_id": "3b94a1d7-a799-4bba-91fc-d566542443f6",
+      "text": "职业规划讨论：用户希望3年内从游戏开发工程师晋升为高级游戏开发工程师，需要在北京的谷歌类公司积累经验，掌握Python技术栈。",
+      "metadata": {
+        "source": "2024-01-27.md",
+        "date": "2024-01-27",
+        "header_1": "面试总结",
+        "chunk_id": "3b94a1d7-a799-4bba-91fc-d566542443f6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "6004033a-03b7-426c-8c5a-880852de5d9f",
+      "text": "用户倾向于北京，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-01-28.md",
+        "date": "2026-01-28",
+        "header_1": "面试进展",
+        "chunk_id": "6004033a-03b7-426c-8c5a-880852de5d9f"
+      }
+    },
+    {
+      "chunk_id": "4ea2d20a-1801-42a6-9319-3533d452d3ee",
+      "text": "西安的推荐系统工程师市场分析：主要招聘方包括阿里巴巴，普遍要求掌握FastAPI，薪资中位数约30-40K。",
+      "metadata": {
+        "source": "2024-08-17.md",
+        "date": "2024-08-17",
+        "header_1": "薪资期望",
+        "chunk_id": "4ea2d20a-1801-42a6-9319-3533d452d3ee",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2cb4abc0-f402-4b60-8ac6-d78522e6083b",
+      "text": "用户在PingCAP面试安全工程师岗位，位于武汉，薪资范围100K+，面试过程中考察了Kubernetes相关知识点，目前处于终面阶段。",
+      "metadata": {
+        "source": "2024-12-14.md",
+        "date": "2024-12-14",
+        "header_1": "公司调研",
+        "chunk_id": "2cb4abc0-f402-4b60-8ac6-d78522e6083b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c09c04ba-8f4c-4792-8cb2-9a29475011a2",
+      "text": "用户对京东的产品经理岗位感兴趣",
+      "metadata": {
+        "source": "2026-02-24.md",
+        "date": "2026-02-24",
+        "header_1": "技术背景",
+        "chunk_id": "c09c04ba-8f4c-4792-8cb2-9a29475011a2"
+      }
+    },
+    {
+      "chunk_id": "8b360130-55c3-48b6-8f1b-bb5557a1ebe1",
+      "text": "用户正在准备蚂蚁集团的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-12-31.md",
+        "date": "2025-12-31",
+        "header_1": "技术背景",
+        "chunk_id": "8b360130-55c3-48b6-8f1b-bb5557a1ebe1"
+      }
+    },
+    {
+      "chunk_id": "be29ed8f-58d5-4292-9ea6-aa0648e061b4",
+      "text": "简历修改建议：后端工程师岗位简历需要突出Hive项目经验，量化成果，针对百度的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2025-03-18.md",
+        "date": "2025-03-18",
+        "header_1": "面试进展",
+        "chunk_id": "be29ed8f-58d5-4292-9ea6-aa0648e061b4",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "ac6c41ed-cac0-490e-b5c5-819a9d50534f",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-02-09.md",
+        "date": "2026-02-09",
+        "header_1": "技术背景",
+        "chunk_id": "ac6c41ed-cac0-490e-b5c5-819a9d50534f"
+      }
+    },
+    {
+      "chunk_id": "46014d02-dcca-4767-95b7-30c5455ef497",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2026-03-08.md",
+        "date": "2026-03-08",
+        "header_1": "偏好记录",
+        "chunk_id": "46014d02-dcca-4767-95b7-30c5455ef497"
+      }
+    },
+    {
+      "chunk_id": "cf084b2f-a84c-441c-98b3-c19db40ee587",
+      "text": "用户已完成HR面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-01-15.md",
+        "date": "2026-01-15",
+        "header_1": "求职目标",
+        "chunk_id": "cf084b2f-a84c-441c-98b3-c19db40ee587"
+      }
+    },
+    {
+      "chunk_id": "fdf7221b-aeb9-4fcc-a7ea-c8dc5bf94302",
+      "text": "用户对Shopee的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2026-03-02.md",
+        "date": "2026-03-02",
+        "header_1": "偏好记录",
+        "chunk_id": "fdf7221b-aeb9-4fcc-a7ea-c8dc5bf94302"
+      }
+    },
+    {
+      "chunk_id": "9e1f42a5-f34d-44e8-873b-434e78f129a2",
+      "text": "职业规划讨论：用户希望3年内从嵌入式工程师晋升为高级嵌入式工程师，需要在北京的Grab类公司积累经验，掌握Python技术栈。",
+      "metadata": {
+        "source": "2024-04-30.md",
+        "date": "2024-04-30",
+        "header_1": "简历优化",
+        "chunk_id": "9e1f42a5-f34d-44e8-873b-434e78f129a2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "786b4d88-2f6a-4f40-84f5-2984ca0248ee",
+      "text": "用户完成了三面，面试官重点考察了Hive原理和英文面试，整体表现中等，数据分析师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-05-05.md",
+        "date": "2024-05-05",
+        "header_1": "公司调研",
+        "chunk_id": "786b4d88-2f6a-4f40-84f5-2984ca0248ee",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "37d4b0d5-26c7-4732-9529-158157b04820",
+      "text": "用户完成了简历筛选，面试官重点考察了Elasticsearch原理和安全开发，整体表现中等，数据分析师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-02-07.md",
+        "date": "2024-02-07",
+        "header_1": "面试总结",
+        "chunk_id": "37d4b0d5-26c7-4732-9529-158157b04820",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "928a9c17-c292-4504-89d1-064cf14cafb7",
+      "text": "用户目标岗位是算法工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+      "metadata": {
+        "source": "2026-02-08.md",
+        "date": "2026-02-08",
+        "header_1": "偏好记录",
+        "chunk_id": "928a9c17-c292-4504-89d1-064cf14cafb7"
+      }
+    },
+    {
+      "chunk_id": "352a1378-3921-47ba-b58a-337a1d5ed2af",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2025-09-28.md",
+        "date": "2025-09-28",
+        "header_1": "偏好记录",
+        "chunk_id": "352a1378-3921-47ba-b58a-337a1d5ed2af"
+      }
+    },
+    {
+      "chunk_id": "950918b7-6622-4e6b-8300-9003ab19088f",
+      "text": "北京的全栈工程师市场分析：主要招聘方包括腾讯，普遍要求掌握PyTorch，薪资中位数约60-80K。",
+      "metadata": {
+        "source": "2024-02-20.md",
+        "date": "2024-02-20",
+        "header_1": "学习计划",
+        "chunk_id": "950918b7-6622-4e6b-8300-9003ab19088f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "df8dd42b-f480-4d58-baeb-6b59fe57b21e",
+      "text": "用户对网易的产品经理岗位感兴趣",
+      "metadata": {
+        "source": "2026-02-17.md",
+        "date": "2026-02-17",
+        "header_1": "技术背景",
+        "chunk_id": "df8dd42b-f480-4d58-baeb-6b59fe57b21e"
+      }
+    },
+    {
+      "chunk_id": "496c5904-7ef2-4314-ae36-1721b545a7bb",
+      "text": "用户正在准备快手的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2026-02-09.md",
+        "date": "2026-02-09",
+        "header_1": "技术背景",
+        "chunk_id": "496c5904-7ef2-4314-ae36-1721b545a7bb"
+      }
+    },
+    {
+      "chunk_id": "95d8a8c6-ab7c-4788-bfa1-0d6f9c148d04",
+      "text": "简历修改建议：安全工程师岗位简历需要突出React项目经验，量化成果，针对华为的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-06-08.md",
+        "date": "2024-06-08",
+        "header_1": "公司调研",
+        "chunk_id": "95d8a8c6-ab7c-4788-bfa1-0d6f9c148d04",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1fb1c14f-9f1c-4f85-92c6-e7cec36de37a",
+      "text": "面试薄弱点分析：安全工程师方向的分布式事务问题需要加强，建议系统学习Rust，参考字节跳动的技术博客。",
+      "metadata": {
+        "source": "2024-05-01.md",
+        "date": "2024-05-01",
+        "header_1": "简历优化",
+        "chunk_id": "1fb1c14f-9f1c-4f85-92c6-e7cec36de37a",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a7ecbc4a-8aac-4842-9532-a89e91c8f535",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-30.md",
+        "date": "2026-01-30",
+        "header_1": "技术背景",
+        "chunk_id": "a7ecbc4a-8aac-4842-9532-a89e91c8f535"
+      }
+    },
+    {
+      "chunk_id": "81cbbde9-f18b-4042-90b2-0d80f8a64bf2",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-12-25.md",
+        "date": "2025-12-25",
+        "header_1": "面试进展",
+        "chunk_id": "81cbbde9-f18b-4042-90b2-0d80f8a64bf2"
+      }
+    },
+    {
+      "chunk_id": "5c7b77d3-ac14-4e62-90c6-7b978cd0c15d",
+      "text": "用户完成了HR面，面试官重点考察了JavaScript原理和云原生架构，整体表现中等，游戏开发工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-07-03.md",
+        "date": "2024-07-03",
+        "header_1": "简历优化",
+        "chunk_id": "5c7b77d3-ac14-4e62-90c6-7b978cd0c15d",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "73a7cf43-3d51-4f33-b01a-228317c52a08",
+      "text": "用户希望在3个月内解决网络编程薄弱点",
+      "metadata": {
+        "source": "2026-01-31.md",
+        "date": "2026-01-31",
+        "header_1": "技术背景",
+        "chunk_id": "73a7cf43-3d51-4f33-b01a-228317c52a08"
+      }
+    },
+    {
+      "chunk_id": "e896fde4-18ff-4189-8053-a43b85c65e50",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2025-12-10.md",
+        "date": "2025-12-10",
+        "header_1": "偏好记录",
+        "chunk_id": "e896fde4-18ff-4189-8053-a43b85c65e50"
+      }
+    },
+    {
+      "chunk_id": "40ab712e-fa76-4201-8fa1-8f3bfa03c3ff",
+      "text": "职业规划讨论：用户希望3年内从机器学习工程师晋升为高级机器学习工程师，需要在苏州的美团类公司积累经验，掌握React技术栈。",
+      "metadata": {
+        "source": "2024-04-03.md",
+        "date": "2024-04-03",
+        "header_1": "职业规划",
+        "chunk_id": "40ab712e-fa76-4201-8fa1-8f3bfa03c3ff",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "3b02ef4a-acf2-4733-8aea-21895744d4e6",
+      "text": "PingCAP的终面反馈：技术考察重点为Elasticsearch，安全工程师岗位对网络编程要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2025-02-03.md",
+        "date": "2025-02-03",
+        "header_1": "学习计划",
+        "chunk_id": "3b02ef4a-acf2-4733-8aea-21895744d4e6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b9beab23-90ca-4dd0-b999-74b73f54849e",
+      "text": "用户正在准备PingCAP的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-10-26.md",
+        "date": "2025-10-26",
+        "header_1": "求职目标",
+        "chunk_id": "b9beab23-90ca-4dd0-b999-74b73f54849e"
+      }
+    },
+    {
+      "chunk_id": "64a727a0-83de-470f-bfae-c5dec42ace3d",
+      "text": "简历修改建议：推荐系统工程师岗位简历需要突出Django项目经验，量化成果，针对PingCAP的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-11-29.md",
+        "date": "2024-11-29",
+        "header_1": "面试总结",
+        "chunk_id": "64a727a0-83de-470f-bfae-c5dec42ace3d",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "6d851887-f557-465d-965e-39fed63b2fb5",
+      "text": "用户目标岗位是平台工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2025-11-24.md",
+        "date": "2025-11-24",
+        "header_1": "求职目标",
+        "chunk_id": "6d851887-f557-465d-965e-39fed63b2fb5"
+      }
+    },
+    {
+      "chunk_id": "141bb41f-8aa0-4e3a-8e3f-113b0bb74dc9",
+      "text": "用户目标城市为武汉，期望薪资20-30K",
+      "metadata": {
+        "source": "2025-12-28.md",
+        "date": "2025-12-28",
+        "header_1": "偏好记录",
+        "chunk_id": "141bb41f-8aa0-4e3a-8e3f-113b0bb74dc9"
+      }
+    },
+    {
+      "chunk_id": "6b6acf04-6fef-4154-9831-f4ce56dbd2e8",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-01.md",
+        "date": "2025-10-01",
+        "header_1": "面试进展",
+        "chunk_id": "6b6acf04-6fef-4154-9831-f4ce56dbd2e8"
+      }
+    },
+    {
+      "chunk_id": "6a035b4b-b539-41da-9a40-7d5021e6565b",
+      "text": "小米的后端工程师岗位技术栈包含Kubernetes，工作地点苏州，薪资水平30-40K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2025-01-13.md",
+        "date": "2025-01-13",
+        "header_1": "职业规划",
+        "chunk_id": "6a035b4b-b539-41da-9a40-7d5021e6565b",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1de7dfac-eb87-4414-81b9-1155a0537d17",
+      "text": "用户希望在3个月内解决算法与数据结构薄弱点",
+      "metadata": {
+        "source": "2026-02-10.md",
+        "date": "2026-02-10",
+        "header_1": "面试进展",
+        "chunk_id": "1de7dfac-eb87-4414-81b9-1155a0537d17"
+      }
+    },
+    {
+      "chunk_id": "a84722f9-8f6f-463c-ac08-69620eb42fa7",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "技术背景",
+        "chunk_id": "a84722f9-8f6f-463c-ac08-69620eb42fa7"
+      }
+    },
+    {
+      "chunk_id": "c173b092-fc71-4456-be1b-3a2f222166b8",
+      "text": "用户对华为的前端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-30.md",
+        "date": "2025-10-30",
+        "header_1": "偏好记录",
+        "chunk_id": "c173b092-fc71-4456-be1b-3a2f222166b8"
+      }
+    },
+    {
+      "chunk_id": "8c3dffb0-37d3-4a2f-a56b-f6b8da87f293",
+      "text": "用户希望在3个月内解决分布式事务薄弱点",
+      "metadata": {
+        "source": "2026-01-21.md",
+        "date": "2026-01-21",
+        "header_1": "面试进展",
+        "chunk_id": "8c3dffb0-37d3-4a2f-a56b-f6b8da87f293"
+      }
+    },
+    {
+      "chunk_id": "6c4b26ee-fed5-450c-8b8d-71625e5e95ae",
+      "text": "用户对阿里巴巴的前端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-04.md",
+        "date": "2025-10-04",
+        "header_1": "偏好记录",
+        "chunk_id": "6c4b26ee-fed5-450c-8b8d-71625e5e95ae"
+      }
+    },
+    {
+      "chunk_id": "ef27e64e-68a5-48b7-b35e-08bbb3559f23",
+      "text": "用户已完成简历筛选阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-12-03.md",
+        "date": "2025-12-03",
+        "header_1": "求职目标",
+        "chunk_id": "ef27e64e-68a5-48b7-b35e-08bbb3559f23"
+      }
+    },
+    {
+      "chunk_id": "38e68a1f-8219-4c5b-a371-22cea820e57d",
+      "text": "用户倾向于西安，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-11-13.md",
+        "date": "2025-11-13",
+        "header_1": "技术背景",
+        "chunk_id": "38e68a1f-8219-4c5b-a371-22cea820e57d"
+      }
+    },
+    {
+      "chunk_id": "234d114e-5dc6-4599-a548-e475d1aa0924",
+      "text": "用户在快手面试测试工程师岗位，位于杭州，薪资范围35-50K，面试过程中考察了JavaScript相关知识点，目前处于笔试阶段。",
+      "metadata": {
+        "source": "2025-03-26.md",
+        "date": "2025-03-26",
+        "header_1": "简历优化",
+        "chunk_id": "234d114e-5dc6-4599-a548-e475d1aa0924",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9d5e1b53-9fa0-4cb0-842b-b50d671fef00",
+      "text": "苏州的算法工程师市场分析：主要招聘方包括滴滴，普遍要求掌握TensorFlow，薪资中位数约50-70K。",
+      "metadata": {
+        "source": "2024-09-22.md",
+        "date": "2024-09-22",
+        "header_1": "技术背景",
+        "chunk_id": "9d5e1b53-9fa0-4cb0-842b-b50d671fef00",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "35d27565-0d03-46eb-8e27-f120681895d3",
+      "text": "面试薄弱点分析：后端工程师方向的英文面试问题需要加强，建议系统学习Elasticsearch，参考腾讯的技术博客。",
+      "metadata": {
+        "source": "2024-03-24.md",
+        "date": "2024-03-24",
+        "header_1": "技术背景",
+        "chunk_id": "35d27565-0d03-46eb-8e27-f120681895d3",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "619eb52a-8611-497d-93d9-1804544b9f9b",
+      "text": "用户正在准备华为的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-12-12.md",
+        "date": "2025-12-12",
+        "header_1": "求职目标",
+        "chunk_id": "619eb52a-8611-497d-93d9-1804544b9f9b"
+      }
+    },
+    {
+      "chunk_id": "e156d648-f6cb-46ad-a02b-0e154e40ac23",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-03-14.md",
+        "date": "2026-03-14",
+        "header_1": "面试进展",
+        "chunk_id": "e156d648-f6cb-46ad-a02b-0e154e40ac23"
+      }
+    },
+    {
+      "chunk_id": "bffa43b6-86e2-4f7a-9197-39e43500861a",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2025-11-03.md",
+        "date": "2025-11-03",
+        "header_1": "面试进展",
+        "chunk_id": "bffa43b6-86e2-4f7a-9197-39e43500861a"
+      }
+    },
+    {
+      "chunk_id": "4104cc91-d073-44c1-b450-5fcc4537ea4c",
+      "text": "用户计划在3个月内提升Redis技能，目标是拿到深圳的算法工程师岗位offer，期望薪资60-80K，对Grab感兴趣。",
+      "metadata": {
+        "source": "2025-01-29.md",
+        "date": "2025-01-29",
+        "header_1": "职业规划",
+        "chunk_id": "4104cc91-d073-44c1-b450-5fcc4537ea4c",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d836b4f0-9257-4d2a-bccd-fce55b0feb08",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-03-13.md",
+        "date": "2026-03-13",
+        "header_1": "技术背景",
+        "chunk_id": "d836b4f0-9257-4d2a-bccd-fce55b0feb08"
+      }
+    },
+    {
+      "chunk_id": "399ed267-b581-446f-b26b-52254c87dfb7",
+      "text": "字节跳动的三面反馈：技术考察重点为TensorFlow，游戏开发工程师岗位对安全开发要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-09-04.md",
+        "date": "2024-09-04",
+        "header_1": "面试进展",
+        "chunk_id": "399ed267-b581-446f-b26b-52254c87dfb7",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2fa04c95-6132-47b7-b765-0f8fcf9baaf1",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2026-01-17.md",
+        "date": "2026-01-17",
+        "header_1": "技术背景",
+        "chunk_id": "2fa04c95-6132-47b7-b765-0f8fcf9baaf1"
+      }
+    },
+    {
+      "chunk_id": "38882b19-9db2-49b6-a71b-4a92cc18de73",
+      "text": "用户正在准备小米的面试，面试薄弱点是分布式事务",
+      "metadata": {
+        "source": "2025-11-04.md",
+        "date": "2025-11-04",
+        "header_1": "求职目标",
+        "chunk_id": "38882b19-9db2-49b6-a71b-4a92cc18de73"
+      }
+    },
+    {
+      "chunk_id": "5247152c-eaef-4ce8-9c32-457f9639db6c",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-11-06.md",
+        "date": "2025-11-06",
+        "header_1": "偏好记录",
+        "chunk_id": "5247152c-eaef-4ce8-9c32-457f9639db6c"
+      }
+    },
+    {
+      "chunk_id": "9529153a-60ee-472e-af49-9ed858f203ed",
+      "text": "简历修改建议：数据分析师岗位简历需要突出Docker项目经验，量化成果，针对网易的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-07-26.md",
+        "date": "2024-07-26",
+        "header_1": "技术背景",
+        "chunk_id": "9529153a-60ee-472e-af49-9ed858f203ed",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fe651c63-0ad4-4039-a52f-11eba3ee971c",
+      "text": "用户正在准备百度的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2026-01-03.md",
+        "date": "2026-01-03",
+        "header_1": "技术背景",
+        "chunk_id": "fe651c63-0ad4-4039-a52f-11eba3ee971c"
+      }
+    },
+    {
+      "chunk_id": "55499014-c2ce-4049-8c06-708bd6539608",
+      "text": "用户目标岗位是平台工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2026-02-03.md",
+        "date": "2026-02-03",
+        "header_1": "面试进展",
+        "chunk_id": "55499014-c2ce-4049-8c06-708bd6539608"
+      }
+    },
+    {
+      "chunk_id": "568deb13-6d7b-4c6c-8f5f-e890468abf13",
+      "text": "用户目标城市为杭州，期望薪资40-60K",
+      "metadata": {
+        "source": "2026-01-24.md",
+        "date": "2026-01-24",
+        "header_1": "面试进展",
+        "chunk_id": "568deb13-6d7b-4c6c-8f5f-e890468abf13"
+      }
+    },
+    {
+      "chunk_id": "58f3fe70-43e8-4142-b2b2-f7a6f37db120",
+      "text": "用户倾向于西安，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-02-06.md",
+        "date": "2026-02-06",
+        "header_1": "偏好记录",
+        "chunk_id": "58f3fe70-43e8-4142-b2b2-f7a6f37db120"
+      }
+    },
+    {
+      "chunk_id": "fce73253-a357-40de-bbfa-1dfab1332d3f",
+      "text": "用户正在准备网易的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2026-01-14.md",
+        "date": "2026-01-14",
+        "header_1": "技术背景",
+        "chunk_id": "fce73253-a357-40de-bbfa-1dfab1332d3f"
+      }
+    },
+    {
+      "chunk_id": "4d4e255c-91f0-431e-b8b1-ee16b41feb4e",
+      "text": "成都的数据分析师市场分析：主要招聘方包括PingCAP，普遍要求掌握Kubernetes，薪资中位数约50-70K。",
+      "metadata": {
+        "source": "2024-08-18.md",
+        "date": "2024-08-18",
+        "header_1": "技术背景",
+        "chunk_id": "4d4e255c-91f0-431e-b8b1-ee16b41feb4e",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "047a1395-fadf-422e-9d4f-5c09103a85b2",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-26.md",
+        "date": "2026-01-26",
+        "header_1": "偏好记录",
+        "chunk_id": "047a1395-fadf-422e-9d4f-5c09103a85b2"
+      }
+    },
+    {
+      "chunk_id": "cc67b0ca-05bd-4551-bb50-fe96230a0819",
+      "text": "用户技术栈JavaScript、React在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-02.md",
+        "date": "2025-10-02",
+        "header_1": "面试进展",
+        "chunk_id": "cc67b0ca-05bd-4551-bb50-fe96230a0819"
+      }
+    },
+    {
+      "chunk_id": "524d4601-774a-4e1f-988f-4652859a6269",
+      "text": "用户在网易面试机器学习工程师岗位，位于成都，薪资范围15-20K，面试过程中考察了MongoDB相关知识点，目前处于三面阶段。",
+      "metadata": {
+        "source": "2024-11-05.md",
+        "date": "2024-11-05",
+        "header_1": "公司调研",
+        "chunk_id": "524d4601-774a-4e1f-988f-4652859a6269",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "51f1151a-7137-41a8-a699-d1cbc17f41d5",
+      "text": "用户对快手的机器学习工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-12-25.md",
+        "date": "2025-12-25",
+        "header_1": "面试进展",
+        "chunk_id": "51f1151a-7137-41a8-a699-d1cbc17f41d5"
+      }
+    },
+    {
+      "chunk_id": "e86d3ffe-1051-416e-b6e3-e9af355b0bc0",
+      "text": "用户倾向于北京，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-03-19.md",
+        "date": "2026-03-19",
+        "header_1": "技术背景",
+        "chunk_id": "e86d3ffe-1051-416e-b6e3-e9af355b0bc0"
+      }
+    },
+    {
+      "chunk_id": "faaefd69-f6b8-415c-829f-e123cf4a6f8f",
+      "text": "用户完成了一面，面试官重点考察了Kafka原理和网络编程，整体表现中等，DevOps工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-28.md",
+        "date": "2024-11-28",
+        "header_1": "学习计划",
+        "chunk_id": "faaefd69-f6b8-415c-829f-e123cf4a6f8f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "17d764a9-5dc4-4f3c-a82f-a35884ac43f2",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-08.md",
+        "date": "2025-12-08",
+        "header_1": "偏好记录",
+        "chunk_id": "17d764a9-5dc4-4f3c-a82f-a35884ac43f2"
+      }
+    },
+    {
+      "chunk_id": "08e80f90-75ef-46be-ac3a-e55c4454ea01",
+      "text": "蚂蚁集团的测试工程师岗位技术栈包含AWS，工作地点上海，薪资水平50-70K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-01-25.md",
+        "date": "2024-01-25",
+        "header_1": "技术背景",
+        "chunk_id": "08e80f90-75ef-46be-ac3a-e55c4454ea01",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "8b504a12-be45-413a-a4a7-aaf38590d007",
+      "text": "简历修改建议：产品经理岗位简历需要突出Docker项目经验，量化成果，针对腾讯的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-07-19.md",
+        "date": "2024-07-19",
+        "header_1": "面试总结",
+        "chunk_id": "8b504a12-be45-413a-a4a7-aaf38590d007",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d0f44f1b-6b53-4761-9f68-b4e4474a9157",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2025-09-28.md",
+        "date": "2025-09-28",
+        "header_1": "面试进展",
+        "chunk_id": "d0f44f1b-6b53-4761-9f68-b4e4474a9157"
+      }
+    },
+    {
+      "chunk_id": "de7d5823-3234-4374-b18b-0b601acfbf4e",
+      "text": "用户希望在3个月内解决数据库调优薄弱点",
+      "metadata": {
+        "source": "2025-10-05.md",
+        "date": "2025-10-05",
+        "header_1": "面试进展",
+        "chunk_id": "de7d5823-3234-4374-b18b-0b601acfbf4e"
+      }
+    },
+    {
+      "chunk_id": "8fcf11ee-b10c-4556-8c0c-7ef3ee801a09",
+      "text": "苏州的算法工程师市场分析：主要招聘方包括PingCAP，普遍要求掌握PyTorch，薪资中位数约50-70K。",
+      "metadata": {
+        "source": "2024-09-23.md",
+        "date": "2024-09-23",
+        "header_1": "面试进展",
+        "chunk_id": "8fcf11ee-b10c-4556-8c0c-7ef3ee801a09",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "69d97096-e87d-414f-ba25-2ce91f89e693",
+      "text": "腾讯的笔试反馈：技术考察重点为Azure，DevOps工程师岗位对并发编程要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-01-21.md",
+        "date": "2024-01-21",
+        "header_1": "公司调研",
+        "chunk_id": "69d97096-e87d-414f-ba25-2ce91f89e693",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "e045a15a-c476-4ed6-b10f-8fa1d0c31867",
+      "text": "职业规划讨论：用户希望3年内从前端工程师晋升为高级前端工程师，需要在武汉的Grab类公司积累经验，掌握Spring技术栈。",
+      "metadata": {
+        "source": "2024-02-26.md",
+        "date": "2024-02-26",
+        "header_1": "职业规划",
+        "chunk_id": "e045a15a-c476-4ed6-b10f-8fa1d0c31867",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "9045e376-6180-4208-8c18-6a5d6f34d5a9",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-14.md",
+        "date": "2025-10-14",
+        "header_1": "求职目标",
+        "chunk_id": "9045e376-6180-4208-8c18-6a5d6f34d5a9"
+      }
+    },
+    {
+      "chunk_id": "d4d9e544-aba5-4247-a8c9-f58fc05cb5a4",
+      "text": "用户倾向于杭州，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-29.md",
+        "date": "2025-12-29",
+        "header_1": "求职目标",
+        "chunk_id": "d4d9e544-aba5-4247-a8c9-f58fc05cb5a4"
+      }
+    },
+    {
+      "chunk_id": "97908791-1b28-4ea4-aa13-0fe1adea9216",
+      "text": "用户在蚂蚁集团面试产品经理岗位，位于武汉，薪资范围35-50K，面试过程中考察了TypeScript相关知识点，目前处于简历筛选阶段。",
+      "metadata": {
+        "source": "2024-12-15.md",
+        "date": "2024-12-15",
+        "header_1": "面试总结",
+        "chunk_id": "97908791-1b28-4ea4-aa13-0fe1adea9216",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0e03e25f-451d-4b25-8bdc-5770f271d761",
+      "text": "用户对小米的前端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-13.md",
+        "date": "2025-10-13",
+        "header_1": "技术背景",
+        "chunk_id": "0e03e25f-451d-4b25-8bdc-5770f271d761"
+      }
+    },
+    {
+      "chunk_id": "8b5a58c6-09fb-4625-8a89-ac611f23a170",
+      "text": "用户更新了求职偏好：从北京切换到考虑北京，技术方向从PostgreSQL扩展到AWS，薪资期望调整至20-28K。",
+      "metadata": {
+        "source": "2024-09-01.md",
+        "date": "2024-09-01",
+        "header_1": "面试进展",
+        "chunk_id": "8b5a58c6-09fb-4625-8a89-ac611f23a170",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "ba13b067-fb03-42af-b014-8770735e1212",
+      "text": "腾讯的测试工程师岗位技术栈包含C++，工作地点苏州，薪资水平35-50K，公司规模中等，加班情况一般。",
+      "metadata": {
+        "source": "2024-10-09.md",
+        "date": "2024-10-09",
+        "header_1": "面试总结",
+        "chunk_id": "ba13b067-fb03-42af-b014-8770735e1212",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "1589fbbd-5850-4408-a164-d0f1b727b6a4",
+      "text": "用户目标岗位是全栈工程师，技术栈包含Python、FastAPI、Redis、MySQL",
+      "metadata": {
+        "source": "2026-01-17.md",
+        "date": "2026-01-17",
+        "header_1": "求职目标",
+        "chunk_id": "1589fbbd-5850-4408-a164-d0f1b727b6a4"
+      }
+    },
+    {
+      "chunk_id": "3aa750e6-4f1a-43cb-a1a4-8fff0f950bce",
+      "text": "用户技术栈Java、Spring Boot在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-17.md",
+        "date": "2026-01-17",
+        "header_1": "技术背景",
+        "chunk_id": "3aa750e6-4f1a-43cb-a1a4-8fff0f950bce"
+      }
+    },
+    {
+      "chunk_id": "8889659d-134e-471d-9ac6-c695b8ef8ca1",
+      "text": "深圳的前端工程师市场分析：主要招聘方包括滴滴，普遍要求掌握Docker，薪资中位数约15-20K。",
+      "metadata": {
+        "source": "2024-01-20.md",
+        "date": "2024-01-20",
+        "header_1": "偏好记录",
+        "chunk_id": "8889659d-134e-471d-9ac6-c695b8ef8ca1",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "5a8389be-bf16-4522-9b6c-df9606aaebd6",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-16.md",
+        "date": "2025-11-16",
+        "header_1": "偏好记录",
+        "chunk_id": "5a8389be-bf16-4522-9b6c-df9606aaebd6"
+      }
+    },
+    {
+      "chunk_id": "9f360e01-213c-4a6c-b94d-6be96ba9b124",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2026-01-21.md",
+        "date": "2026-01-21",
+        "header_1": "求职目标",
+        "chunk_id": "9f360e01-213c-4a6c-b94d-6be96ba9b124"
+      }
+    },
+    {
+      "chunk_id": "a7334559-bdd4-4c2f-90a9-2febc5272d5a",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-01-22.md",
+        "date": "2026-01-22",
+        "header_1": "求职目标",
+        "chunk_id": "a7334559-bdd4-4c2f-90a9-2febc5272d5a"
+      }
+    },
+    {
+      "chunk_id": "ca1551f2-b209-463e-89ea-bbfec13ec274",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2026-03-10.md",
+        "date": "2026-03-10",
+        "header_1": "偏好记录",
+        "chunk_id": "ca1551f2-b209-463e-89ea-bbfec13ec274"
+      }
+    },
+    {
+      "chunk_id": "2a052918-ca59-4c00-a973-788b66d22cdf",
+      "text": "蚂蚁集团的三面反馈：技术考察重点为Rust，安全工程师岗位对并发编程要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-10-20.md",
+        "date": "2024-10-20",
+        "header_1": "职业规划",
+        "chunk_id": "2a052918-ca59-4c00-a973-788b66d22cdf",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "b9b06c0c-9ca8-47b9-bc36-57aeb534aef0",
+      "text": "职业规划讨论：用户希望3年内从数据分析师晋升为高级数据分析师，需要在西安的Shopee类公司积累经验，掌握Kubernetes技术栈。",
+      "metadata": {
+        "source": "2024-05-01.md",
+        "date": "2024-05-01",
+        "header_1": "面试进展",
+        "chunk_id": "b9b06c0c-9ca8-47b9-bc36-57aeb534aef0",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "98787e55-b0a1-4e2b-b5fc-ee57c55a68ae",
+      "text": "用户对滴滴的数据工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-16.md",
+        "date": "2025-10-16",
+        "header_1": "偏好记录",
+        "chunk_id": "98787e55-b0a1-4e2b-b5fc-ee57c55a68ae"
+      }
+    },
+    {
+      "chunk_id": "2e023a65-f990-4167-8813-b01190132ab2",
+      "text": "职业规划讨论：用户希望3年内从数据工程师晋升为高级数据工程师，需要在西安的阿里巴巴类公司积累经验，掌握Spark技术栈。",
+      "metadata": {
+        "source": "2024-12-21.md",
+        "date": "2024-12-21",
+        "header_1": "简历优化",
+        "chunk_id": "2e023a65-f990-4167-8813-b01190132ab2",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "0ef513d4-172e-454a-bace-56dcd5b8a384",
+      "text": "用户已完成笔试阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-03-09.md",
+        "date": "2026-03-09",
+        "header_1": "偏好记录",
+        "chunk_id": "0ef513d4-172e-454a-bace-56dcd5b8a384"
+      }
+    },
+    {
+      "chunk_id": "21b32489-983a-4995-9bd6-6afe0560ed37",
+      "text": "用户对快手的数据工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-11-17.md",
+        "date": "2025-11-17",
+        "header_1": "求职目标",
+        "chunk_id": "21b32489-983a-4995-9bd6-6afe0560ed37"
+      }
+    },
+    {
+      "chunk_id": "e1c97f7f-e8bf-4410-a0b1-9c9cb6c52dfb",
+      "text": "简历修改建议：前端工程师岗位简历需要突出Docker项目经验，量化成果，针对小米的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-12-01.md",
+        "date": "2024-12-01",
+        "header_1": "求职目标",
+        "chunk_id": "e1c97f7f-e8bf-4410-a0b1-9c9cb6c52dfb",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "d0455fe2-4132-4f68-9fea-008910851784",
+      "text": "用户在滴滴面试全栈工程师岗位，位于成都，薪资范围20-28K，面试过程中考察了FastAPI相关知识点，目前处于三面阶段。",
+      "metadata": {
+        "source": "2024-12-23.md",
+        "date": "2024-12-23",
+        "header_1": "面试总结",
+        "chunk_id": "d0455fe2-4132-4f68-9fea-008910851784",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "106f8cbe-c589-46b6-8f33-9d480db44919",
+      "text": "用户目标岗位是DevOps工程师，技术栈包含Rust、C++、Linux、内核开发",
+      "metadata": {
+        "source": "2025-12-01.md",
+        "date": "2025-12-01",
+        "header_1": "技术背景",
+        "chunk_id": "106f8cbe-c589-46b6-8f33-9d480db44919"
+      }
+    },
+    {
+      "chunk_id": "a8d7a919-596a-47e4-b9a0-9c78318b0c0b",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-21.md",
+        "date": "2026-01-21",
+        "header_1": "技术背景",
+        "chunk_id": "a8d7a919-596a-47e4-b9a0-9c78318b0c0b"
+      }
+    },
+    {
+      "chunk_id": "65d21fd1-077a-437d-a18d-13d0c0507027",
+      "text": "用户对小米的前端工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-13.md",
+        "date": "2025-10-13",
+        "header_1": "面试进展",
+        "chunk_id": "65d21fd1-077a-437d-a18d-13d0c0507027"
+      }
+    },
+    {
+      "chunk_id": "fc240402-46d9-433e-a547-a957a2ec1eb6",
+      "text": "面试薄弱点分析：嵌入式工程师方向的安全开发问题需要加强，建议系统学习Kubernetes，参考谷歌的技术博客。",
+      "metadata": {
+        "source": "2024-10-05.md",
+        "date": "2024-10-05",
+        "header_1": "面试总结",
+        "chunk_id": "fc240402-46d9-433e-a547-a957a2ec1eb6",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "3698e0bf-d464-4108-b8c3-32c015fa640e",
+      "text": "用户正在准备Grab的面试，面试薄弱点是行为面试",
+      "metadata": {
+        "source": "2025-11-17.md",
+        "date": "2025-11-17",
+        "header_1": "求职目标",
+        "chunk_id": "3698e0bf-d464-4108-b8c3-32c015fa640e"
+      }
+    },
+    {
+      "chunk_id": "864cb636-6065-4acb-91e9-f890b95a50ec",
+      "text": "用户技术栈Rust、C++在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-01-30.md",
+        "date": "2026-01-30",
+        "header_1": "面试进展",
+        "chunk_id": "864cb636-6065-4acb-91e9-f890b95a50ec"
+      }
+    },
+    {
+      "chunk_id": "cefe1763-e86c-4710-ab96-832c578698c3",
+      "text": "用户倾向于武汉，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-01.md",
+        "date": "2025-10-01",
+        "header_1": "面试进展",
+        "chunk_id": "cefe1763-e86c-4710-ab96-832c578698c3"
+      }
+    },
+    {
+      "chunk_id": "1ebf4859-43d6-485d-a7bb-8acf314607ad",
+      "text": "简历修改建议：嵌入式工程师岗位简历需要突出PyTorch项目经验，量化成果，针对蚂蚁集团的技术栈进行定制化调整。",
+      "metadata": {
+        "source": "2024-01-28.md",
+        "date": "2024-01-28",
+        "header_1": "公司调研",
+        "chunk_id": "1ebf4859-43d6-485d-a7bb-8acf314607ad",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "bf94f0c1-baa0-4b2d-bcde-ad0af5cf0c57",
+      "text": "用户技术栈Python、FastAPI在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-02-01.md",
+        "date": "2026-02-01",
+        "header_1": "求职目标",
+        "chunk_id": "bf94f0c1-baa0-4b2d-bcde-ad0af5cf0c57"
+      }
+    },
+    {
+      "chunk_id": "daab361e-3050-49b4-b07f-2b0283d59434",
+      "text": "用户希望在3个月内解决行为面试薄弱点",
+      "metadata": {
+        "source": "2026-02-21.md",
+        "date": "2026-02-21",
+        "header_1": "偏好记录",
+        "chunk_id": "daab361e-3050-49b4-b07f-2b0283d59434"
+      }
+    },
+    {
+      "chunk_id": "00c53c2b-4bc4-4d91-9637-5b0228368c8f",
+      "text": "用户技术栈Java、Kubernetes在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-17.md",
+        "date": "2025-10-17",
+        "header_1": "求职目标",
+        "chunk_id": "00c53c2b-4bc4-4d91-9637-5b0228368c8f"
+      }
+    },
+    {
+      "chunk_id": "901c73ab-0819-4bb5-85ee-d72535bddf61",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-10-20.md",
+        "date": "2025-10-20",
+        "header_1": "偏好记录",
+        "chunk_id": "901c73ab-0819-4bb5-85ee-d72535bddf61"
+      }
+    },
+    {
+      "chunk_id": "23cbd0c3-5d25-414d-bc44-d57ff3b99707",
+      "text": "用户在微软面试产品经理岗位，位于苏州，薪资范围35-50K，面试过程中考察了Java相关知识点，目前处于终面阶段。",
+      "metadata": {
+        "source": "2024-12-22.md",
+        "date": "2024-12-22",
+        "header_1": "偏好记录",
+        "chunk_id": "23cbd0c3-5d25-414d-bc44-d57ff3b99707",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "06839505-7f62-4300-8cf1-1fd58cbfa41f",
+      "text": "用户倾向于深圳，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-27.md",
+        "date": "2025-12-27",
+        "header_1": "求职目标",
+        "chunk_id": "06839505-7f62-4300-8cf1-1fd58cbfa41f"
+      }
+    },
+    {
+      "chunk_id": "7ab09075-2e33-476a-9721-5d5bd46c3408",
+      "text": "用户已完成笔试阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-09-27.md",
+        "date": "2025-09-27",
+        "header_1": "偏好记录",
+        "chunk_id": "7ab09075-2e33-476a-9721-5d5bd46c3408"
+      }
+    },
+    {
+      "chunk_id": "a33e41cb-ae6c-4348-a575-31f82b13514c",
+      "text": "用户正在准备百度的面试，面试薄弱点是英文面试",
+      "metadata": {
+        "source": "2025-10-05.md",
+        "date": "2025-10-05",
+        "header_1": "技术背景",
+        "chunk_id": "a33e41cb-ae6c-4348-a575-31f82b13514c"
+      }
+    },
+    {
+      "chunk_id": "7e474f0b-6237-4538-b3d7-f074aaa68fed",
+      "text": "西安的游戏开发工程师市场分析：主要招聘方包括蚂蚁集团，普遍要求掌握PyTorch，薪资中位数约15-20K。",
+      "metadata": {
+        "source": "2024-02-02.md",
+        "date": "2024-02-02",
+        "header_1": "面试进展",
+        "chunk_id": "7e474f0b-6237-4538-b3d7-f074aaa68fed",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "512ec7f2-98a9-4f82-affc-279fa6175625",
+      "text": "用户对Grab的平台工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-09-27.md",
+        "date": "2025-09-27",
+        "header_1": "求职目标",
+        "chunk_id": "512ec7f2-98a9-4f82-affc-279fa6175625"
+      }
+    },
+    {
+      "chunk_id": "1f23720a-f488-4e5a-b81b-afd2ebb52ced",
+      "text": "用户对快手的算法工程师岗位感兴趣",
+      "metadata": {
+        "source": "2025-10-09.md",
+        "date": "2025-10-09",
+        "header_1": "求职目标",
+        "chunk_id": "1f23720a-f488-4e5a-b81b-afd2ebb52ced"
+      }
+    },
+    {
+      "chunk_id": "81d86478-03f1-479e-9a9b-ffc513be1d6c",
+      "text": "百度的二面反馈：技术考察重点为Elasticsearch，后端工程师岗位对数据库调优要求较高，需要进一步准备。",
+      "metadata": {
+        "source": "2024-12-28.md",
+        "date": "2024-12-28",
+        "header_1": "简历优化",
+        "chunk_id": "81d86478-03f1-479e-9a9b-ffc513be1d6c",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "a1886ffb-543c-4020-b088-fa27916a4398",
+      "text": "用户目标城市为深圳，期望薪资60-80K",
+      "metadata": {
+        "source": "2025-12-28.md",
+        "date": "2025-12-28",
+        "header_1": "偏好记录",
+        "chunk_id": "a1886ffb-543c-4020-b088-fa27916a4398"
+      }
+    },
+    {
+      "chunk_id": "62782c45-5e03-45c0-9926-71fce18dd1a4",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2025-10-14.md",
+        "date": "2025-10-14",
+        "header_1": "偏好记录",
+        "chunk_id": "62782c45-5e03-45c0-9926-71fce18dd1a4"
+      }
+    },
+    {
+      "chunk_id": "b6d1717e-4130-43e2-b54c-8bfd4ff88830",
+      "text": "用户技术栈Go、gRPC在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-02-21.md",
+        "date": "2026-02-21",
+        "header_1": "面试进展",
+        "chunk_id": "b6d1717e-4130-43e2-b54c-8bfd4ff88830"
+      }
+    },
+    {
+      "chunk_id": "7d7c27cc-3163-46f7-80df-ddc2de5d5dcd",
+      "text": "用户已完成一面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-01.md",
+        "date": "2025-11-01",
+        "header_1": "偏好记录",
+        "chunk_id": "7d7c27cc-3163-46f7-80df-ddc2de5d5dcd"
+      }
+    },
+    {
+      "chunk_id": "6bc20002-db01-494c-9495-f8bd4484a3f3",
+      "text": "用户技术栈Python、PyTorch在市场上竞争力较强",
+      "metadata": {
+        "source": "2026-03-12.md",
+        "date": "2026-03-12",
+        "header_1": "求职目标",
+        "chunk_id": "6bc20002-db01-494c-9495-f8bd4484a3f3"
+      }
+    },
+    {
+      "chunk_id": "e46e4ee9-7f6e-4436-b778-8a6f56cffa19",
+      "text": "用户完成了二面，面试官重点考察了Spring原理和数据库调优，整体表现中等，嵌入式工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-11-22.md",
+        "date": "2024-11-22",
+        "header_1": "技术背景",
+        "chunk_id": "e46e4ee9-7f6e-4436-b778-8a6f56cffa19",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "2f3d5903-8df2-42ba-9e70-47ae20a20efa",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含Rust、C++、Linux、内核开发",
+      "metadata": {
+        "source": "2025-10-14.md",
+        "date": "2025-10-14",
+        "header_1": "求职目标",
+        "chunk_id": "2f3d5903-8df2-42ba-9e70-47ae20a20efa"
+      }
+    },
+    {
+      "chunk_id": "82d6fec9-ccb8-43d1-847f-03534f59cbd1",
+      "text": "用户目标城市为成都，期望薪资35-50K",
+      "metadata": {
+        "source": "2025-11-18.md",
+        "date": "2025-11-18",
+        "header_1": "求职目标",
+        "chunk_id": "82d6fec9-ccb8-43d1-847f-03534f59cbd1"
+      }
+    },
+    {
+      "chunk_id": "c655ade8-72a7-40c6-9a8c-d369b2bfd2eb",
+      "text": "用户完成了二面，面试官重点考察了Spring原理和分布式事务，整体表现中等，全栈工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-08-26.md",
+        "date": "2024-08-26",
+        "header_1": "学习计划",
+        "chunk_id": "c655ade8-72a7-40c6-9a8c-d369b2bfd2eb",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "072e5e12-0df0-49e9-ae6b-dfdb40c0668b",
+      "text": "用户已完成三面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2025-11-04.md",
+        "date": "2025-11-04",
+        "header_1": "面试进展",
+        "chunk_id": "072e5e12-0df0-49e9-ae6b-dfdb40c0668b"
+      }
+    },
+    {
+      "chunk_id": "eeaa835e-da7b-4b91-b194-99841cecc395",
+      "text": "用户在字节跳动面试数据工程师岗位，位于广州，薪资范围40-60K，面试过程中考察了TypeScript相关知识点，目前处于笔试阶段。",
+      "metadata": {
+        "source": "2024-06-02.md",
+        "date": "2024-06-02",
+        "header_1": "简历优化",
+        "chunk_id": "eeaa835e-da7b-4b91-b194-99841cecc395",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "c837eeb0-924b-4457-857a-3354997cf1d8",
+      "text": "用户已完成终面阶段，正在准备下一轮",
+      "metadata": {
+        "source": "2026-01-25.md",
+        "date": "2026-01-25",
+        "header_1": "技术背景",
+        "chunk_id": "c837eeb0-924b-4457-857a-3354997cf1d8"
+      }
+    },
+    {
+      "chunk_id": "b9df6d81-391e-4bc5-8df7-769c3798c994",
+      "text": "职业规划讨论：用户希望3年内从嵌入式工程师晋升为高级嵌入式工程师，需要在西安的华为类公司积累经验，掌握Azure技术栈。",
+      "metadata": {
+        "source": "2024-07-17.md",
+        "date": "2024-07-17",
+        "header_1": "职业规划",
+        "chunk_id": "b9df6d81-391e-4bc5-8df7-769c3798c994",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "fee41153-504d-4360-b8c0-5a432aa2f01f",
+      "text": "用户正在准备PingCAP的面试，面试薄弱点是算法与数据结构",
+      "metadata": {
+        "source": "2025-10-31.md",
+        "date": "2025-10-31",
+        "header_1": "求职目标",
+        "chunk_id": "fee41153-504d-4360-b8c0-5a432aa2f01f"
+      }
+    },
+    {
+      "chunk_id": "bbd7d294-f4fc-4a10-b404-1174906026b5",
+      "text": "用户目标岗位是全栈工程师，技术栈包含Go、gRPC、PostgreSQL、Docker",
+      "metadata": {
+        "source": "2025-10-19.md",
+        "date": "2025-10-19",
+        "header_1": "求职目标",
+        "chunk_id": "bbd7d294-f4fc-4a10-b404-1174906026b5"
+      }
+    },
+    {
+      "chunk_id": "f54c08ca-f1c4-4cb3-9b0e-898d67e1708f",
+      "text": "用户目标城市为广州，期望薪资50-70K",
+      "metadata": {
+        "source": "2025-10-09.md",
+        "date": "2025-10-09",
+        "header_1": "求职目标",
+        "chunk_id": "f54c08ca-f1c4-4cb3-9b0e-898d67e1708f"
+      }
+    },
+    {
+      "chunk_id": "e2c297cd-b59a-48cc-8cee-680190c1194b",
+      "text": "用户目标岗位是机器学习工程师，技术栈包含Java、Spring Boot、Kafka、Elasticsearch",
+      "metadata": {
+        "source": "2025-10-26.md",
+        "date": "2025-10-26",
+        "header_1": "面试进展",
+        "chunk_id": "e2c297cd-b59a-48cc-8cee-680190c1194b"
+      }
+    },
+    {
+      "chunk_id": "b4046925-ec34-4a73-9212-e134130deb49",
+      "text": "用户希望在3个月内解决英文面试薄弱点",
+      "metadata": {
+        "source": "2026-01-25.md",
+        "date": "2026-01-25",
+        "header_1": "求职目标",
+        "chunk_id": "b4046925-ec34-4a73-9212-e134130deb49"
+      }
+    },
+    {
+      "chunk_id": "d476e34f-5017-4b48-9f19-dffccf1bae9f",
+      "text": "用户完成了笔试，面试官重点考察了Django原理和数据库调优，整体表现中等，推荐系统工程师岗位竞争较激烈。",
+      "metadata": {
+        "source": "2024-08-24.md",
+        "date": "2024-08-24",
+        "header_1": "职业规划",
+        "chunk_id": "d476e34f-5017-4b48-9f19-dffccf1bae9f",
+        "_synthetic": true
+      }
+    },
+    {
+      "chunk_id": "487f04b9-6203-41c8-8a7b-ad8d5d21da46",
+      "text": "用户目标岗位是数据工程师，技术栈包含Python、PyTorch、TensorFlow、CUDA",
+      "metadata": {
+        "source": "2025-12-28.md",
+        "date": "2025-12-28",
+        "header_1": "面试进展",
+        "chunk_id": "487f04b9-6203-41c8-8a7b-ad8d5d21da46"
+      }
+    },
+    {
+      "chunk_id": "87cdc3d7-7b61-450b-ac19-e6dee5abd8f9",
+      "text": "用户目标城市为上海，期望薪资60-80K",
+      "metadata": {
+        "source": "2025-12-23.md",
+        "date": "2025-12-23",
+        "header_1": "偏好记录",
+        "chunk_id": "87cdc3d7-7b61-450b-ac19-e6dee5abd8f9"
+      }
+    },
+    {
+      "chunk_id": "00acdbe9-5ca9-47c8-a5a8-34a89ecbff22",
+      "text": "用户倾向于成都，但也考虑远程机会",
+      "metadata": {
+        "source": "2025-12-03.md",
+        "date": "2025-12-03",
+        "header_1": "面试进展",
+        "chunk_id": "00acdbe9-5ca9-47c8-a5a8-34a89ecbff22"
+      }
+    },
+    {
+      "chunk_id": "59677a41-82ad-4e9c-a666-385f1df23156",
+      "text": "面试薄弱点分析：算法工程师方向的云原生架构问题需要加强，建议系统学习PyTorch，参考腾讯的技术博客。",
+      "metadata": {
+        "source": "2025-03-26.md",
+        "date": "2025-03-26",
+        "header_1": "职业规划",
+        "chunk_id": "59677a41-82ad-4e9c-a666-385f1df23156",
+        "_synthetic": true
+      }
+    }
+  ]
+}
