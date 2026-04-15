@@ -1,0 +1,34 @@
+{
+  "pcs": 0.8756,
+  "total_events": 217,
+  "captured_events": 190,
+  "skipped_convs": 1,
+  "field_breakdown": {
+    "目标公司_行业": {
+      "total": 40,
+      "captured": 35
+    },
+    "目标岗位": {
+      "total": 45,
+      "captured": 40
+    },
+    "薪资预期": {
+      "total": 40,
+      "captured": 40
+    },
+    "目标城市": {
+      "total": 39,
+      "captured": 39
+    },
+    "面试薄弱点": {
+      "total": 40,
+      "captured": 36
+    }
+  },
+  "dataset": {
+    "type": "full",
+    "n_conv": 50,
+    "n_conv_with_pref": 50
+  },
+  "model": "qwen3.5-plus"
+}

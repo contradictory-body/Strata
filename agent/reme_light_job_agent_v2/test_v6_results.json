@@ -1,0 +1,47 @@
+{
+  "T1_intent_query_builder": {
+    "passed": 6,
+    "failed": 0,
+    "accuracy": 1.0
+  },
+  "T2_semantic_cache": {
+    "test_hit_rate": 0.8,
+    "avg_hit_latency_ms": 0.119,
+    "invalidation_ok": true,
+    "prod_hits_count": 6,
+    "threshold_test": 0.92,
+    "threshold_prod": 0.95
+  },
+  "T3_retrieve_with_intent": {
+    "two_path_hit_rate": 0.3867,
+    "three_path_hit_rate": 0.48,
+    "delta": 0.0933,
+    "two_path_total": 75,
+    "three_path_total": 75
+  },
+  "T4_quick_eval": {
+    "gate": {
+      "precision": 0.4,
+      "recall": 0.15,
+      "f1": 0.2182,
+      "status": false
+    },
+    "retrieval": {
+      "hit_rate_at_4": 0.4933,
+      "mrr": 0.3244,
+      "status": false
+    },
+    "compression": {
+      "tor": 0.8608,
+      "ter": 0.1132,
+      "status_tor": true,
+      "status_ter": false
+    },
+    "preference": {
+      "pcs": 0.8667,
+      "total": 15,
+      "captured": 13,
+      "status": true
+    }
+  }
+}

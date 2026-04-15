@@ -1,0 +1,27 @@
+{
+  "v5_baseline": {
+    "hit_rate_at_4": 0.4623,
+    "mrr": 0.2864,
+    "precision_at_4": 0.118,
+    "total_queries": 822,
+    "description": "两路检索：原文向量 + BM25 + RRF + Reranker + 时序消解"
+  },
+  "v6_three_path": {
+    "hit_rate_at_4": 0.4769,
+    "mrr": 0.3065,
+    "precision_at_4": 0.1207,
+    "total_queries": 822,
+    "description": "三路检索：原文向量 + 意图向量 + BM25 + RRF + Reranker + 时序消解"
+  },
+  "delta": {
+    "hit_rate_at_4": 0.0146,
+    "mrr": 0.0201
+  },
+  "dataset": {
+    "type": "full",
+    "n_conv": 50,
+    "n_queries": 822
+  },
+  "target_cra4": 0.65,
+  "pass": false
+}

@@ -542,13 +542,13 @@ class HybridRetriever:
     def _get_embed_model(self):
         if self._embed_model is None:
             from sentence_transformers import SentenceTransformer
-            self._embed_model = SentenceTransformer("BAAI/bge-small-zh-v1.5")
+            self._embed_model = SentenceTransformer("BAAI/bge-small-zh-v1.5",device="cuda",)
         return self._embed_model
 
     def _get_rerank_model(self):
         if self._rerank_model is None:
             from sentence_transformers import CrossEncoder
-            self._rerank_model = CrossEncoder("BAAI/bge-reranker-base", max_length=512)
+            self._rerank_model = CrossEncoder("BAAI/bge-reranker-base", max_length=512,device="cuda",)
         return self._rerank_model
 
     @staticmethod

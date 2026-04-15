@@ -4,7 +4,6 @@ from . import config
 from . import core
 from . import extension
 from . import memory
-from .reme import ReMe
 
 __version__ = "0.3.0.6b2"
 

@@ -1,0 +1,42 @@
+{
+  "rule_only": {
+    "precision": 0.4561,
+    "recall": 0.2167,
+    "f1": 0.2938,
+    "tp": 26,
+    "fp": 31,
+    "fn": 94
+  },
+  "full_gate": {
+    "precision": 0.4561,
+    "recall": 0.2167,
+    "f1": 0.2938,
+    "tp": 26,
+    "fp": 31,
+    "fn": 94,
+    "type_breakdown": {
+      "reference_unclear": {
+        "tp": 0,
+        "fn": 22
+      },
+      "constraint_missing": {
+        "tp": 5,
+        "fn": 31
+      },
+      "intent_unclear": {
+        "tp": 11,
+        "fn": 25
+      },
+      "intent_mixed": {
+        "tp": 10,
+        "fn": 16
+      }
+    }
+  },
+  "dataset": {
+    "type": "B",
+    "n_conv": 15,
+    "n_turns": 279
+  },
+  "model": "qwen3.5-plus"
+}
