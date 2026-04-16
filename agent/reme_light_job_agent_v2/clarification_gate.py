@@ -179,23 +179,18 @@ NORMALIZE_PROMPT = """\
 # 数据结构
 # ──────────────────────────────────────────────────────────────────────────────
 
+from dataclasses import dataclass, field
+from typing import Optional
+
 @dataclass
 class GateResult:
-    """门控判定结果。
-
-    Attributes:
-        is_ambiguous:   是否需要澄清
-        ambiguity_type: 模糊类型（reference_unclear / intent_unclear /
-                        constraint_missing / intent_mixed / None）
-        missing_slots:  缺失的槽位名称列表
-        confidence:     规则层置信度（1.0=确定，<0.7=升级 LLM）
-        reason:         判定原因（调试用）
-    """
-    is_ambiguous:   bool
+    """门控判定结果。"""
+    is_ambiguous: bool
     ambiguity_type: Optional[str]
-    missing_slots:  list[str] = field(default_factory=list)
-    confidence:     float = 1.0
-    reason:         str = ""
+    missing_slots: list[str] = field(default_factory=list)
+    inferred_slots: dict[str, str] = field(default_factory=dict)
+    confidence: float = 1.0
+    reason: str = ""
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -504,6 +499,7 @@ class ClarificationGate:
                 is_ambiguous=data.get("is_ambiguous", False),
                 ambiguity_type=data.get("ambiguity_type"),
                 missing_slots=data.get("missing_slots", []),
+                inferred_slots=data.get("inferred_slots", {}) or {},
                 confidence=1.0,
                 reason=data.get("reason", "LLM 兜底判定"),
             )

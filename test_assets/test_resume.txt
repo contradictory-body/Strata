@@ -1,0 +1,35 @@
+张三
+Python 后端工程师
+手机：138-0000-0000 | 邮箱：zhangsan@example.com | GitHub: github.com/zhangsan
+
+【教育背景】
+2018-2022  某985高校  计算机科学与技术  本科
+
+【工作经历】
+
+2022.07 - 至今  某互联网公司  Python 后端工程师
+- 使用 FastAPI + PostgreSQL 开发内容推荐服务，QPS 3000+
+- 接入 OpenAI API，实现用户评论自动分类，准确率 92%
+- 优化 Redis 缓存策略，接口响应时间从 800ms 降至 120ms
+- 编写单元测试，覆盖率从 40% 提升至 85%
+
+2021.07 - 2022.06  某创业公司（实习）  后端开发实习生
+- 使用 Django REST Framework 搭建电商 API
+- 负责 MySQL 数据库设计和 SQL 优化
+
+【技术栈】
+- 语言：Python（5年）、SQL、少量 Go
+- 框架：FastAPI、Django、Flask
+- 数据库：PostgreSQL、MySQL、Redis、基础 ChromaDB
+- 工具：Docker、Git、Linux
+- AI 相关：OpenAI API 调用、基础 RAG 实现、Embedding 使用
+
+【项目经历】
+开源项目：基于 RAG 的文档问答系统（GitHub 300 star）
+- 使用 LangChain + ChromaDB + OpenAI 构建
+- 支持 PDF/Word 文档解析和语义检索
+
+【求职意向】
+目标岗位：Python 后端工程师（AI 方向）
+期望城市：北京
+期望薪资：22K-30K

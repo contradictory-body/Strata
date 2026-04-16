@@ -1,0 +1,24 @@
+# Strata 后端依赖
+# 安装：pip install -r backend/requirements.txt
+
+# ── Web 框架 ──────────────────────────────────────────────────────────────────
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0          # ASGI 服务器，含 WebSocket 支持
+python-multipart>=0.0.9            # 文件上传支持
+
+# ── 数据库 ────────────────────────────────────────────────────────────────────
+sqlalchemy[asyncio]>=2.0.0         # 异步 ORM
+asyncpg>=0.29.0                    # PostgreSQL 异步驱动
+
+# ── 缓存 ──────────────────────────────────────────────────────────────────────
+redis[asyncio]>=5.0.0              # Redis 异步客户端（redis-py v4+ 内置 asyncio 支持）
+
+# ── 鉴权 ──────────────────────────────────────────────────────────────────────
+passlib[bcrypt]>=1.7.4             # 密码哈希（bcrypt）
+python-jose[cryptography]>=3.3.0   # JWT 签发与验证
+
+# ── 配置管理 ──────────────────────────────────────────────────────────────────
+pydantic>=2.0.0
+pydantic-settings>=2.0.0           # 从 .env 读取配置
+pydantic[email]>=2.0.0             # EmailStr 验证
+python-dotenv>=1.0.0

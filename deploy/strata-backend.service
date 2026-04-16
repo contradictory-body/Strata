@@ -1,0 +1,79 @@
+# ============================================================
+# Strata 后端服务 — systemd unit 文件
+# 位置：/etc/systemd/system/strata-backend.service
+#
+# 安装方式：
+#   sudo cp deploy/strata-backend.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable strata-backend
+#   sudo systemctl start  strata-backend
+#
+# 查看状态：sudo systemctl status strata-backend
+# 查看日志：sudo journalctl -u strata-backend -f
+# ============================================================
+
+[Unit]
+Description=Strata 求职助手后端服务 (FastAPI + uvicorn)
+Documentation=https://github.com/your-repo/strata
+After=network-online.target postgresql.service redis.service
+Wants=network-online.target
+Requires=postgresql.service redis.service
+
+[Service]
+# ── 运行用户（安全原则：不用 root）──────────────────────────
+User=strata
+Group=strata
+
+# ── 工作目录（Strata_v6 项目根）─────────────────────────────
+WorkingDirectory=/home/strata/Strata_v6
+
+# ── 启动命令 ─────────────────────────────────────────────────
+# 使用 venv 中的 uvicorn，单进程（WebSocket 广播依赖单进程内存）
+# --workers 1 是生产环境约束，不可改为多进程
+ExecStart=/home/strata/venv/bin/uvicorn backend.main:app \
+    --host 127.0.0.1 \
+    --port 8000 \
+    --workers 1 \
+    --log-level info \
+    --access-log \
+    --no-use-colors
+
+# ── 优雅重载（不中断现有连接）───────────────────────────────
+ExecReload=/bin/kill -HUP $MAINPID
+
+# ── 环境变量 ─────────────────────────────────────────────────
+# 从 backend/.env 读取，无需在此重复配置
+EnvironmentFile=/home/strata/Strata_v6/backend/.env
+
+# PYTHONPATH 包含 Strata_v6 根目录和 agent 模块目录
+# 这样 job_agent.py 内部的 import 能正常找到依赖
+Environment=PYTHONPATH=/home/strata/Strata_v6:/home/strata/Strata_v6/agent/reme_light_job_agent_v2
+Environment=PYTHONUNBUFFERED=1
+
+# ── 进程管理 ─────────────────────────────────────────────────
+Type=simple
+Restart=on-failure          # 异常退出时自动重启
+RestartSec=5s               # 重启前等待 5 秒
+StartLimitIntervalSec=60s   # 60 秒内
+StartLimitBurst=3           # 最多重启 3 次（防止无限重启）
+
+# ── 日志 ─────────────────────────────────────────────────────
+# 日志由 journald 接管，用 journalctl -u strata-backend 查看
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=strata-backend
+
+# ── 资源限制 ─────────────────────────────────────────────────
+# 3090 Ti 有足够资源，主要限制文件描述符数量（WebSocket 每个连接占一个）
+LimitNOFILE=65536
+
+# ── 安全加固 ─────────────────────────────────────────────────
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict        # / 只读，除 /home /var /run
+ReadWritePaths=/home/strata/Strata_v6/data \
+               /home/strata/Strata_v6/backend \
+               /tmp
+
+[Install]
+WantedBy=multi-user.target

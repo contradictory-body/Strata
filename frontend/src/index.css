@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── 全局基础 ─────────────────────────────────────────────── */
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-canvas text-ink font-sans;
+    overflow: hidden;
+  }
+
+  html.dark body {
+    @apply bg-night text-night-text;
+    color-scheme: dark;
+  }
+
+  /* 滚动条 */
+  ::-webkit-scrollbar        { width: 5px; height: 5px; }
+  ::-webkit-scrollbar-track  { background: transparent; }
+  ::-webkit-scrollbar-thumb  { @apply rounded-full bg-canvas-border; }
+  ::-webkit-scrollbar-thumb:hover { @apply bg-ink-faint; }
+  html.dark ::-webkit-scrollbar-thumb { @apply bg-night-border; }
+  html.dark ::-webkit-scrollbar-thumb:hover { @apply bg-night-muted; }
+}
+
+/* ── 可复用组件类 ─────────────────────────────────────────── */
+@layer components {
+  .input-base {
+    @apply w-full px-3.5 py-2.5 rounded-lg border border-canvas-border
+           bg-white text-ink text-sm placeholder:text-ink-faint
+           outline-none transition
+           focus:border-accent focus:ring-2 focus:ring-accent/15;
+  }
+  html.dark .input-base {
+    @apply bg-night-panel border-night-border text-night-text
+           placeholder:text-night-faint
+           focus:border-night-accent;
+  }
+
+  .btn-primary {
+    @apply flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg
+           bg-accent text-white text-sm font-medium
+           transition hover:bg-accent-light active:bg-accent-dark
+           disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-ghost {
+    @apply flex items-center justify-center gap-2 px-3 py-2 rounded-lg
+           text-sm text-ink-muted transition
+           hover:bg-canvas-sidebar hover:text-ink;
+  }
+  html.dark .btn-ghost {
+    @apply text-night-muted hover:bg-night-hover hover:text-night-text;
+  }
+}
+
+/* ── 流式输出光标 ─────────────────────────────────────────── */
+.streaming-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  vertical-align: text-bottom;
+  margin-left: 2px;
+  background-color: currentColor;
+  border-radius: 1px;
+  animation: blink 0.9s step-end infinite;
+}
+
+/* ── Markdown 正文渲染（prose-chat）─────────────────────── */
+.prose-chat {
+  @apply text-sm leading-relaxed;
+  word-break: break-word;
+}
+.prose-chat p          { @apply mb-3 last:mb-0; }
+.prose-chat h1         { @apply text-lg font-semibold mb-2 mt-4 first:mt-0; }
+.prose-chat h2         { @apply text-base font-semibold mb-2 mt-3 first:mt-0; }
+.prose-chat h3         { @apply text-sm font-semibold mb-1 mt-2 first:mt-0; }
+.prose-chat ul         { @apply list-disc list-outside ml-4 mb-3 space-y-1; }
+.prose-chat ol         { @apply list-decimal list-outside ml-4 mb-3 space-y-1; }
+.prose-chat li         { @apply leading-relaxed; }
+.prose-chat strong     { @apply font-semibold; }
+.prose-chat em         { @apply italic; }
+.prose-chat hr         { @apply border-canvas-border my-4; }
+html.dark .prose-chat hr { @apply border-night-border; }
+
+.prose-chat blockquote {
+  @apply border-l-2 border-canvas-border pl-3 text-ink-muted italic my-3;
+}
+html.dark .prose-chat blockquote { @apply border-night-border text-night-muted; }
+
+.prose-chat a {
+  @apply text-accent underline underline-offset-2 hover:opacity-75;
+}
+
+/* 行内代码 */
+.prose-chat code:not(pre code) {
+  @apply px-1.5 py-0.5 rounded text-[0.85em] font-mono
+         bg-zinc-100 text-accent border border-zinc-200;
+}
+html.dark .prose-chat code:not(pre code) {
+  @apply bg-night-panel border-night-border text-night-accent;
+}
+
+/* 代码块 */
+.prose-chat pre {
+  @apply my-3 rounded-xl overflow-hidden border border-canvas-border;
+}
+html.dark .prose-chat pre { @apply border-night-border; }
+
+/* 代码块顶部语言栏 */
+.code-lang-bar {
+  @apply flex items-center justify-between px-4 py-2
+         bg-zinc-100 border-b border-canvas-border
+         text-xs text-ink-muted font-mono;
+}
+html.dark .code-lang-bar {
+  @apply bg-night-panel border-night-border text-night-muted;
+}
+
+/* 代码块内容区 */
+.prose-chat pre code {
+  @apply block p-4 overflow-x-auto
+         text-[0.82rem] leading-relaxed font-mono
+         bg-zinc-50 text-zinc-800;
+}
+html.dark .prose-chat pre code {
+  @apply bg-night-panel text-night-text;
+}
+
+/* 表格 */
+.prose-chat table { @apply w-full text-sm border-collapse my-3; }
+.prose-chat th {
+  @apply text-left px-3 py-1.5 font-medium
+         bg-canvas-sidebar border border-canvas-border text-ink;
+}
+.prose-chat td { @apply px-3 py-1.5 border border-canvas-border; }
+html.dark .prose-chat th { @apply bg-night-panel border-night-border text-night-text; }
+html.dark .prose-chat td { @apply border-night-border; }
+
+/* ── 页面过渡 ─────────────────────────────────────────────── */
+.page-enter { animation: fade-in 0.18s ease-out; }

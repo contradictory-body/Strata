@@ -1,44 +1,63 @@
-# Strata — Python 依赖列表
-# 安装：pip install -r requirements.txt
+# Strata v7 — 完整依赖列表（agent + backend 合并）
+# 安装方式（在 Strata_v7 根目录）：
+#   pip install -r requirements.txt
+#
+# Windows 注意：
+#   asyncpg 需要 Visual C++ Build Tools，若安装失败可改用：
+#   pip install asyncpg --no-binary asyncpg
+#
+#   如果 bcrypt 报错，单独安装：pip install bcrypt==4.0.1
 
-# ── 核心框架 ──────────────────────────────────────────────────────────────────
+# ── Web 框架（backend 新增）──────────────────────────────────
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0          # ASGI 服务器，含 WebSocket 支持
+python-multipart>=0.0.9            # 文件上传（UploadFile）
+
+# ── 数据库（backend 新增）────────────────────────────────────
+sqlalchemy[asyncio]>=2.0.0         # 异步 ORM
+asyncpg>=0.29.0                    # PostgreSQL 异步驱动
+
+# ── 缓存（backend 新增）──────────────────────────────────────
+redis[asyncio]>=5.0.0              # Redis 异步客户端
+
+# ── 鉴权（backend 新增）──────────────────────────────────────
+passlib[bcrypt]>=1.7.4             # 密码哈希（bcrypt）
+python-jose[cryptography]>=3.3.0   # JWT 签发与验证
+email-validator>=2.0.0             # EmailStr 验证（pydantic[email] 依赖）
+
+# ── 配置管理（backend 新增）──────────────────────────────────
+pydantic-settings>=2.0.0           # 从 .env 读取配置（Settings 类）
+
+# ── Agent 核心框架（原有）────────────────────────────────────
 agentscope>=0.1.0
 openai>=1.0.0
 python-dotenv>=1.0.0
 pydantic>=2.0.0
 
-# ── 向量存储 ──────────────────────────────────────────────────────────────────
+# ── 向量存储（原有）──────────────────────────────────────────
 chromadb>=0.4.0
 
-# ── AD-LTM 长期记忆模块 ───────────────────────────────────────────────────────
+# ── AD-LTM 长期记忆（原有）───────────────────────────────────
 sentence-transformers>=2.7.0       # BGE Embedding + BGE Reranker
 rank-bm25>=0.2.2                   # BM25Okapi 倒排索引
-langchain-text-splitters>=0.2.0    # MarkdownHeaderTextSplitter + RecursiveCharacterTextSplitter
+langchain-text-splitters>=0.2.0    # 文本分块
 cachetools>=5.3.0                  # LRUCache
-transformers>=4.40.0               # tokenizer（用于 TER 计算）
+transformers>=4.40.0               # tokenizer
 
-# ── 可选：中文分词（提升 BM25 召回质量） ──────────────────────────────────────
-# jieba>=0.42.1
-
-# ── 工具链 ────────────────────────────────────────────────────────────────────
+# ── 工具链（原有）────────────────────────────────────────────
 tavily-python>=0.3.0               # Tavily 搜索 API
 
-# ── 文件解析 ──────────────────────────────────────────────────────────────────
+# ── 文件解析（原有）──────────────────────────────────────────
 pymupdf>=1.23.0                    # PDF 解析（优先）
 pdfplumber>=0.10.0                 # PDF 解析（备用）
 python-docx>=1.0.0                 # Word 文档解析
 Pillow>=10.0.0                     # 图片处理
 
-# ── 异步 ──────────────────────────────────────────────────────────────────────
+# ── 异步工具（原有）──────────────────────────────────────────
 aiofiles>=23.0.0
+watchfiles>=0.21.0                 # 文件监听
 
-# ── 文件监听（长期记忆 FileWatcher） ─────────────────────────────────────────
-watchfiles>=0.21.0
-
-# ── MCP 协议支持（新增） ─────────────────────────────────────────────────────
-mcp>=1.0.0                         # MCP SDK（Client + Server 基础协议）
-fastmcp>=0.4.0                     # FastMCP 高层封装（快速构建 MCP Server）
-PyYAML>=6.0                        # YAML 配置解析（mcp_config.yaml）
-
-# ── 实验评估 ──────────────────────────────────────────────────────────────────
-# 以上依赖已覆盖实验所需，无需额外安装
+# ── MCP 协议（原有）──────────────────────────────────────────
+mcp>=1.0.0
+fastmcp>=0.4.0
+PyYAML>=6.0

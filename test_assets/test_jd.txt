@@ -1,0 +1,24 @@
+职位：Python 后端工程师（AI 方向）
+公司：某大厂电商平台
+工作地点：北京
+
+【岗位职责】
+1. 负责电商推荐系统后端服务的设计与开发
+2. 使用 Python/FastAPI 构建高并发 REST API 和 WebSocket 服务
+3. 负责向量数据库（Chroma/Milvus）的数据管理与检索优化
+4. 与算法团队协作，将 LLM 模型集成到业务系统
+5. 参与系统架构设计，保障服务稳定性（SLA 99.9%）
+
+【任职要求】
+1. 3 年以上 Python 后端开发经验，精通 FastAPI/Django/Flask 之一
+2. 熟悉 PostgreSQL 和 Redis，有高并发调优经验
+3. 了解 RAG 架构、向量检索、LLM 接口调用
+4. 有 Docker/K8s 生产部署经验
+5. 良好的代码习惯，熟悉单元测试和 CI/CD
+
+【加分项】
+- 有 AgentScope/LangChain/LlamaIndex 使用经验
+- 了解 Embedding 模型微调
+- 有大模型应用落地案例
+
+【薪资范围】25K-40K，base 北京，五险一金+餐补
